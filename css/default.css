@@ -123,20 +123,21 @@ h1 a, h2 a {
 
 #navigation li {
   margin: 10px 0px;
+  text-align: right;
 }
 #navigation a {
-  border-radius: 20px;
-  -moz-border-radius: 20px;
-  -webkit-border-radius: 20px;
+  border-radius:0px;
+  -moz-border-radius: 0px;
+  -webkit-border-radius: 0px;
   padding: 5px 10px;
-  border: 5px solid #E6E6E6;
-  color: #E6E6E6;
+  border-bottom:solid 1px #ddd;
+  color: #ddd;
   font-weight: bold;
   font-size: 110%;
-  display: inline-block;
 }
 #navigation a:hover {
-  border: 5px solid #000;
+  border-style: none;
+  border-bottom:solid 3px #111;
   color: #000;
 }
 

@@ -24,33 +24,33 @@ layout: nil
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://jduff.github.com/archives/</loc>
+  <loc>http://yuxingzhe.github.com/archives/</loc>
   <lastmod>2009-08-03T00:06:13+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://jduff.github.com/about/</loc>
+  <loc>http://yuxingzhe.github.com/about/</loc>
   <lastmod>2009-08-03T00:06:13+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://jduff.github.com/page3/</loc>
+  <loc>http://yuxingzhe.github.com/page3/</loc>
   <lastmod>2009-08-03T00:06:13+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://jduff.github.com/page4/</loc>
+  <loc>http://yuxingzhe.github.com/page4/</loc>
   <lastmod>2009-08-03T00:06:13+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 <url>
-  <loc>http://jduff.github.com/page5/</loc>
+  <loc>http://yuxingzhe.github.com/page5/</loc>
   <lastmod>2009-08-03T00:06:13+00:00</lastmod>
   <changefreq>weekly</changefreq>
 </url>
 {% for post in site.posts %}
 <url>
-  <loc>http://jduff.github.com{{ post.url }}</loc>
+  <loc>http://yuxingzhe.github.com{{ post.url }}</loc>
   <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
   <changefreq>weekly</changefreq>
 </url>
