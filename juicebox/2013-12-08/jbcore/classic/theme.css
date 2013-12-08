@@ -565,8 +565,8 @@ p.jb-splash-cnt
 	height: 250px;
     width : 300px;
 	color: #FFF;
-	position: fixed;
-    right : 100px;
+	position: fixed !important;
+    right : 100px !important;
 	overflow: hidden;
 	display:block !important;
 }
