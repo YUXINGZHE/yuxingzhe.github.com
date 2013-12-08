@@ -564,7 +564,8 @@ p.jb-splash-cnt
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 	height: 500px;
 	color: #FFF;
-	position: relative;
+	position: fixed;
+    right : 100px;
 	overflow: hidden;
 	display:block !important;
 }
