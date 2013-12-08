@@ -4,8 +4,56 @@ title: About
 page_name: about
 ---
  
+<div class="well">
+  <h1>About Me</h1>
+  <p>My name is YUXINGZHE and I'm a DD in Shenzhen, China. I graduated
+  from Power Engineering and Thermodynamics at Shanghai Jiaotong
+  University in 2013 and have been working full time ever since. I've
+  been working with MWD and LWD for most of my career and have dabbled
+  in a multitude of other technologies.</p>
+</div>
 
-<h1>About Me</h1>
+<div id='gallery' style=" margin-top: 100px; ">
+  <ul id="gallery">
+    <li class="loaded">
+     	<a href="/images/about/sea.jpg">
+			<img src="/images/about/aboutthumbs/sea.jpg" alt="SEA">
+		</a>
+    </li>
+    <li class="loaded">
+		<a href="/images/about/ali.jpg">
+			<img src="/images/about/aboutthumbs/ali.jpg" alt="ALI">
+		</a>
+    </li>
+    <li class="loaded">
+		<a href="/images/about/greytree.jpg">
+			<img src="/images/about/aboutthumbs/greytree.jpg" alt="GREYTREE">
+		</a>
+    </li>
+    <li class="loaded">
+        <a href="/images/about/wood.jpg">
+            <img src="/images/about/aboutthumbs/wood.jpg" alt="WOOD">
+        </a>
+    </li>
+    <li class="loaded">
+        <a href="/images/about/heaven.jpg">
+            <img src="/images/about/aboutthumbs/heaven.jpg" alt="HEAVEN">
+        </a>
+    </li>
+    <li class="loaded">
+    	<a href="/images/about/boat.jpg">
+			<img src="/images/about/aboutthumbs/boat.jpg" alt="BOAT">
+		</a>
+    </li>
+  </ul>
+</div>
 
-<p>My name is YUXINGZHE and I'm a DD in Shenzhen, China. I graduated from Power Engineering and Thermodynamics at Shanghai Jiaotong University in 2013 and have been working full time ever since. I've been working with MWD and LWD for most of my career and have dabbled in a multitude of other technologies.</p>
+<script>
+		$('#gallery').photobox('a');
+		// or with a fancier selector and some settings, and a callback:
+		$('#gallery').photobox('a:first', { thumbs:true, time:0 }, imageLoaded);
+		function imageLoaded(){
+			console.log('image has been loaded...');
+		}
+</script>
 
