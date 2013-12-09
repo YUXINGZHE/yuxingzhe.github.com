@@ -12,7 +12,7 @@ html, body, .container {
 
 body {
   font-family: 'open sans', sans-serif;
-  font-size: 15px;
+  font-size: 17px;
   line-height: 23px;
 }
 
@@ -37,7 +37,7 @@ a, a:hover, a:active, a:visited {
 }
 
 a {
-  /* border-bottom: 1px solid #ccc; */
+  border-bottom: 1px solid #ccc;
 }
 
 h1 a, h2 a {
@@ -143,6 +143,7 @@ h1 a, h2 a {
   background: #777;
 }
 #navigation a {
+  border: none;
   border-radius:0px;
   -moz-border-radius: 0px;
   -webkit-border-radius: 0px;
