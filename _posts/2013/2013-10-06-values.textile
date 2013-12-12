@@ -35,4 +35,10 @@ If I see something broken, I fix it. If someone needs help, I help them. I don't
 *Insatiable Curiosity*
 I ask questions about what I am doing if I'm not sure. I am always open to new ideas or solutions. I like to back things up with data or alternatives and question the necessity of features and changes. Every decision is mutable.
 
-I found it a great exercise to even just come up with these values, let alone share them with everyone. Big thanks to "Luc":http://luclevesque.com/ for providing the inspiration for this and "Cam Gregg":https://twitter.com/CamGregg for suggesting I give this a shot.
+I found it a great exercise to even just come up with these values,
+let alone share them with everyone. Big thanks to
+"Luc":http://luclevesque.com/ for providing the inspiration for this
+and "Cam Gregg":https://twitter.com/CamGregg for suggesting I give
+this a shot.
+
+

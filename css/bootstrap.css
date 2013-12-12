@@ -105,6 +105,7 @@ img {
   vertical-align: middle;
   border: 0;
   -ms-interpolation-mode: bicubic;
+  box-shadow: 0px 0px 10px #000;
 }
 
 #map_canvas img,
@@ -2286,11 +2287,11 @@ table th[class*="span"],
   display: inline-block;
   width: 14px;
   height: 14px;
-  margin-top: 1px;
-  *margin-right: .3em;
+  margin-top: 5px;
+  margin-right: 5px;
   line-height: 14px;
   vertical-align: text-top;
-  background-image: url("../img/glyphicons-halflings.png");
+  background-image: url("../images/glyphicons-halflings.png");
   background-position: 14px 14px;
   background-repeat: no-repeat;
 }
@@ -2314,7 +2315,7 @@ table th[class*="span"],
 .dropdown-submenu:focus > a > [class^="icon-"],
 .dropdown-submenu:hover > a > [class*=" icon-"],
 .dropdown-submenu:focus > a > [class*=" icon-"] {
-  background-image: url("../img/glyphicons-halflings-white.png");
+  background-image: url("../images/glyphicons-halflings-white.png");
 }
 
 .icon-glass {
@@ -5657,9 +5658,9 @@ a.thumbnail:focus {
 }
 
 .label {
-  -webkit-border-radius: 3px;
-     -moz-border-radius: 3px;
-          border-radius: 3px;
+  -webkit-border-radius: 0px;
+     -moz-border-radius: 0px;
+          border-radius: 0px;
 }
 
 .badge {
@@ -5721,7 +5722,8 @@ a.badge:focus {
 
 .label-info[href],
 .badge-info[href] {
-  background-color: #2d6987;
+  margin-right: 5px;
+  background-color: #696969;
 }
 
 .label-inverse,
