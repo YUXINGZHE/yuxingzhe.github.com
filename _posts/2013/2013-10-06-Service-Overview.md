@@ -12,9 +12,8 @@ author_uri: http://twitter.com/yuxingzhe
 
 识别油气资源所需的常规测井方法主要是：自然伽马、井径测井、中子密度测井、岩性密度测井、体密度测井、声波时差、电阻率测井。通过测井解释资料可以定量分析储集层的岩性，确定储集层的基本评价参数，包括评价储集层物性的孔隙度和渗透率，评价储集层含气性的含气饱和度，含水饱和度与束缚水饱和度，储集层厚度等等。下面两张图分别显示了Bakerhughes INTEQ公司在钻井技术及地层评价技术上的开发历程。
 
-<p style="text-align:center"> <img src="/images/posts/2013-12-14/DrillingTech.png" alt="Drilling Technology">
-<img src="/images/posts/2013-12-14/FormationEvalTech.png"
-alt="Formation Evaluation Technology"> </p>
+<p style="text-align:center; width:430px"> <imgsrc="/images/posts/2013-12-14/DrillingTech.png" alt="Drilling Technology" style="width:260px">
+<img src="/images/posts/2013-12-14/FormationEvalTech.png" alt="Formation Evaluation Technology" style="width:430px"> </p>
 
 下图则给出了贝克休斯随钻测井工具组合：
 
