@@ -99,6 +99,7 @@ sub {
 }
 
 img {
+  margin: 0 10px 10px 10px;
   width: auto\9;
   height: auto;
   max-width: 100%;
@@ -650,6 +651,7 @@ a:focus {
 }
 
 p {
+  text-align: justify;
   margin: 0 0 10px;
 }
 

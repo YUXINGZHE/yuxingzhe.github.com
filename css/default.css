@@ -12,7 +12,7 @@ html, body, .container {
 
 body {
   font-family: georgia, 'open sans', sans-serif;
-  font-size: 17px;
+  font-size: 15px;
   line-height: 23px;
 }
 
@@ -20,6 +20,7 @@ h1, h2 {
   font-family: castellar, sans-serif;
   letter-spacing: 0px;
   font-size: 25px;
+  text-align: center;
 }
 
 h2.site-title {
@@ -43,6 +44,22 @@ a {
 h1 a, h2 a {
   text-decoration: none;
   border-bottom: none;
+}
+
+/* Alignment */
+.alignleft {
+ display: inline;
+ float: left;
+}
+.alignright {
+ display: inline;
+ float: right;
+}
+.aligncenter {
+ clear: both;
+ display: block;
+ margin:auto;
+ margin-bottom: 10px;
 }
 
 .container {
