@@ -46,6 +46,17 @@ h1 a, h2 a {
   border-bottom: none;
 }
 
+.dropcap {
+    font-family:georgia, sans-serif;
+    color: #000;
+    font-size: 42px;
+    float: left;
+    font-weight:bold;
+    margin-right:5px;
+    line-height: 1em;
+    position: relative;
+}
+
 /* Alignment */
 .alignleft {
  display: inline;
