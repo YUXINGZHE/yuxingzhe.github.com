@@ -30,6 +30,11 @@ h2.site-title {
 
 h3 {
   font-size: 20px;
+  backgroud:#DCDCDC;
+}
+
+h5 {
+  font-size: 16px;
 }
 
 a, a:hover, a:active, a:visited {
@@ -226,12 +231,13 @@ figcaption {
   transition:all .35s;
 }
 h4 {
-  display:inline-block;
-  padding:0 15px;
-  color:white;
+  /*display:inline-block;*/
+  margin:15px 0 10px 0;
+  background:#DCDCDC;
+  padding:5px 0 5px 0;
   font-family: georgia,'Titillium Web', sans-serif;
-  font-weight:300;
-  font-size:2rem;
+  font-weight:900;
+  font-size:17.5px;
 }
 figcaption nav ul {display:block;padding-top:10px;}
 figcaption nav ul li {display:inline-block;margin-left:5px;}
@@ -310,12 +316,26 @@ input[type="radio"]:checked ~ figure figcaption {
   transition:all .35s, .7s;
 }
 
+/* span.block {
+    display: block;
+}
+span.margin-div-inner {
+    margin-left: 20px;
+    font-size: 13px;
+    border-left: 5px solid #306AA0;
+    padding-left: 14px;
+}
+span.margin-div-inner img {
+  margin: 0; padding: 0; border: 0 none;
+} */
+
 #customers
   {
   text-align:center;
   font-family:georgia,"Trebuchet MS", Arial, Helvetica, sans-serif;
   width:70%;
   border-collapse:collapse;
+  margin:0 auto;
   }
 
 #customers td, #customers th 
@@ -331,14 +351,14 @@ input[type="radio"]:checked ~ figure figcaption {
   text-align:center;
   padding-top:5px;
   padding-bottom:4px;
-  background-color:#000;
+  background-color:#444444;
   color:#ffffff;
   }
 
 #customers tr.alt td 
   {
   color:#000000;
-  background-color:#D3D3D3;
+  background-color:#AEAEAE;
   }
 
 #customers tr:hover
@@ -436,7 +456,7 @@ input[type="radio"]:checked ~ figure figcaption {
   padding-bottom: 5px;
   margin: 0px 0px 0px 0px;
   text-align: center;
-  border-bottom: solid 2px #ddd;
+  border-bottom: solid 2px #969696;
   /* border-top: solid; */
 }
 #navigation li:hover {
@@ -453,7 +473,7 @@ input[type="radio"]:checked ~ figure figcaption {
   -webkit-border-radius: 0px;
   padding: 5px 10px;
   /* border-bottom:solid 1px #ddd; */
-  color: #ddd;
+  color: #969696;
   font-weight: bold;
   font-size: 110%;
 }
