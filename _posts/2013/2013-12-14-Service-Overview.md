@@ -8,7 +8,7 @@ author_uri: http://twitter.com/yuxingzhe
 
 <span class="dropcap">贝</span>[克休斯公司(Baker Hughes)](http://http://www.bakerhughes.com/)是美国一家为全球石油开发和加工工业提供产品和服务的大型服务公司，该公司通过它下设的7家油田服务公司，提供钻井、完井和油气井生产的各类产品和服务。其中贝克休斯INTEQ主要负责数据通讯、数据管理、专家库、地层评价、水平钻井、旋转定向技术、动态钻井、垂直钻井应用、钻井和完井液及相关服务、流体环境服务、钻井液产品。
 
-### 钻井技术及地层评价技术 ###
+#### 钻井技术及地层评价技术 ####
 
 识别油气资源所需的常规测井方法主要是：自然伽马、井径测井、中子密度测井、岩性密度测井、体密度测井、声波时差、电阻率测井。通过测井解释资料可以定量分析储集层的岩性，确定储集层的基本评价参数，包括评价储集层物性的孔隙度和渗透率，评价储集层含气性的含气饱和度，含水饱和度与束缚水饱和度，储集层厚度等等。下面两张图分别显示了Bakerhughes INTEQ公司在钻井技术及地层评价技术上的开发历程。
 
@@ -19,7 +19,7 @@ author_uri: http://twitter.com/yuxingzhe
 
 <img class="aligncenter" src="/images/posts/2013-12-14/AWD-HBA.png" alt="BHA apllied with AWD">
 
-### AutoTrak ###
+#### AutoTrak ####
 
 应意大利石油公司ENI/ AGIP SPA的钻井需求，Bakerhughes INTEQ公司开始研发井下导向工具，并于1997年正式发布了第一代6-3/4" AutoTrak旋转闭环导向系统（AutoTrak Rotary Closed-Loop System)，它可以满足8-3/8''到9-7/8''井眼的导向需求。此后，Bakerhughes INTEQ公司继续在井下导向工具上加大投入进行开发，在2000年先后推出了双向通讯与供电系统BCPM（Bi-directionalCommunication and Power Module)以及OnTrak传感器短节，并将它们都整合到了AutoTrak系统当中。在2002年Bakerhughes INTEQ公司又推行出了一套小型的4-3/4" AutoTrak<sup>G3</sup>系统，该工具能满足从5-7/8"到6-3/4"井眼的导向需求。
 
@@ -31,9 +31,10 @@ AutoTrak<sup>G3</sup>包括三个主要组件(AutoTrak<sup>G3</sup>导向头、O
 
 注意：在4-3/4" AutoTrak中没有可变径扶正器，扶正器与导向模块固定在一起。AutoTrak<sup>G3</sup>系统通过Advantage地面系统进程控制，而地面各工具与系统之间的通讯则由新型工具通讯系统TCS(Tool Communication System)负责。
 
-### OnTrak 随钻自然伽马和电阻率测井 ###
+#### OnTrak 随钻自然伽马和电阻率测井 ####
 
-<img src="https://kdccyq.blu.livefilestore.com/y2pCGOmk__FjVMzLJ9i4qmd23yqCsqbZvBA7jwZX1WT9eF5WVUay4Qt0fi_KshmnM35B8jgWnfilcQcSNOv6UL1jreYtuyq9W7chKGzf6g_FRk/OnTrak.png?psid=1" alt="OnTrak" style = "float:right;width:200px;height:461px">
+<a target="_blank" href="https://kdccyq.blu.livefilestore.com/y2pCGOmk__FjVMzLJ9i4qmd23yqCsqbZvBA7jwZX1WT9eF5WVUay4Qt0fi_KshmnM35B8jgWnfilcQcSNOv6UL1jreYtuyq9W7chKGzf6g_FRk/OnTrak.png?psid=1">
+<img src="https://kdccyq.blu.livefilestore.com/y2pCGOmk__FjVMzLJ9i4qmd23yqCsqbZvBA7jwZX1WT9eF5WVUay4Qt0fi_KshmnM35B8jgWnfilcQcSNOv6UL1jreYtuyq9W7chKGzf6g_FRk/OnTrak.png?psid=1" alt="OnTrak" title="OnTrak" style = "float:right;width:200px;height:461px">
 
 从2002年的AutoTrak 2.5研发开始，作为传感器部分的OnTrak传感器短节与导向模块(Steering Unit)分离开始进行单独出售，并在MWD/LWD中提供独立的测井服务。OnTrak<sup>TM</sup> MWD/LWD测井系统实行全模块化设计(如图所示)，井下工具组合由两部分——双向通讯与供电系统BCPM和传感器短节——组成，它是所有地层评价测量的基础平台。
 
