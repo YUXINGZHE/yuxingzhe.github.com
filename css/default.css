@@ -335,7 +335,7 @@ span.margin-div-inner img {
   font-family:georgia,"Trebuchet MS", Arial, Helvetica, sans-serif;
   width:70%;
   border-collapse:collapse;
-  margin:0 auto;
+  margin:0 auto 10px;
   }
 
 #customers td, #customers th 
