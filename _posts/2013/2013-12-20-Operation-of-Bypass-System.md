@@ -6,7 +6,7 @@ author_name: YUXINGZHE
 author_uri: http://twitter.com/yuxingzhe
 ---
 
-    本部分对旁路系统的组件以及相关操作等内容做了简要介绍，关于旁路系统的安装过程请参见[Bypass System Rigup](./_posts/2013/2013-12-20-Bypass-System-Rigup/index.html)
+<pre><code>本部分对旁路系统的组件以及相关操作等内容做了简要介绍，关于旁路系统的安装过程请参见<a href="http://yuxingzhe.github.io/2013/12/20/Bypass-System-Rigup/"> Bypass System Rigup</a></code></pre>
 
 <span class="dropcap">M</span>WD地面系统Advantage与一套额外的旁路工具包(bypass kit)连接后，可以与井下工具进行通讯从而对AutoTrak实施操作。
 

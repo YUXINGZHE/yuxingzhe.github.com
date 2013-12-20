@@ -6,7 +6,7 @@ author_name: YUXINGZHE
 author_uri: http://twitter.com/yuxingzhe
 ---
 
-    本部分对旁路系统的拆装与维护等内容做了简要介绍，关于旁路系统的组件以及相关操作等请参见[Operation of Bypass System](./_posts/2013/2013-12-20-Operation-of-Bypass-System/index.html)
+<pre><code>本部分对旁路系统的拆装与维护等内容做了简要介绍，关于旁路系统的组件以及相关操作等请参见<a href="http://yuxingzhe.github.io/2013/12/20/Operation-of-Bypass-System/"> Operation of Bypass System</a></code></pre>
 
 <span class="dropcap">B</span>PA安装于高压管线上控制旁路流量的大小，因此在安装时要特别注意安全。当在立管上安装BPA时，应确保现场高压区域负责人(一般为司钻)明白你的操作意图并检查操作的安全性。在安装时请确保立压为零。
 
