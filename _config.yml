@@ -1,8 +1,9 @@
+paginate: 1
+
 markdown: kramdown
 pygments: true
 
-permalink: pretty
-paginate: 10
+permalink: pretty 
 exclude: ['Rakefile', 'Gemfile', 'Gemfile.lock', 'config.rb', 'run']
 
 production_url: http://YUXINGZHE.github.com

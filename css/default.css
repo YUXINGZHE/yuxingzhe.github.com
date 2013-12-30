@@ -329,26 +329,16 @@ span.margin-div-inner img {
   margin: 0; padding: 0; border: 0 none;
 } */
 
-@media screen
-{
-  #table-of-contents {
-    float: right;
-    border: 1px solid #CCC;
-    max-width: 50%;
-    overflow: auto;
-  }
-} 
-
 #table-of-contents {
     font-size: 9pt;
     position: fixed;
     right: 0em;
-    top: 0em;
+    top: -1em;
     background: white;
     -webkit-box-shadow: 0 0 1em #777777;
     -moz-box-shadow: 0 0 1em #777777;
-    -webkit-border-bottom-left-radius: 5px;
-    -moz-border-radius-bottomleft: 5px;
+    /*-webkit-border-bottom-left-radius: 5px;
+    -moz-border-radius-bottomleft: 5px;*/
 /*    text-align: right; */
     /* ensure doesn't flow off the screen when expanded */
     max-height: 80%;
@@ -390,6 +380,16 @@ span.margin-div-inner img {
     display: block;
     padding: 0.5em;
     margin-top: -1.5em; 
+}
+
+@media screen
+{
+  #table-of-contents {
+    float: right;
+   /* border: 1px solid #CCC;*/
+    max-width: 50%;
+    overflow: auto;
+  }
 }
 
 #customers
