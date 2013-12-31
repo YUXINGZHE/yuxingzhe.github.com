@@ -215,7 +215,7 @@ TARGET EDITOR靶点编辑器，其功能是对单井或多井的一个或多个�
 <a target="_blank" href="https://qgiqmw.blu.livefilestore.com/y2pYgbj-oo8UToIKiG5w0ArFIL_Ch9ehdtEMzPmmckDycFJ2VcghH1EqH8PXvNrkp1zP7Mj0h5dvELKXYXbNvyE6uZ7Wk2vGmsrpeYG35hBTew/Build%20Turn%20Parameter.png?psid=1">
 <img class="aligncenter" title="Build Turn Parameter" style="width:450px;height:330px;" src="https://qgiqmw.blu.livefilestore.com/y2pYgbj-oo8UToIKiG5w0ArFIL_Ch9ehdtEMzPmmckDycFJ2VcghH1EqH8PXvNrkp1zP7Mj0h5dvELKXYXbNvyE6uZ7Wk2vGmsrpeYG35hBTew/Build%20Turn%20Parameter.png?psid=1" alt="Build Turn Parameter"></a>
 
-<li>三维分段设计(按工具面及狗腿的变化率，<b>球面设计法</b>)，出现的对话框基本与上面的对话框相同，只是井斜、方位栏变成了工具面、狗腿栏，使用方法同c一样。</li>
+<li>三维分段设计(按工具面及狗腿的变化率，<b>球面设计法</b>)，出现的对话框基本与上面的对话框相同，只是井斜、方位栏变成了工具面、狗腿栏，使用方法同3一样。</li>
 
 <li>稳斜设计，出现如下对话框，给定段长或测深并直线钻至该点即可。</li>
 
