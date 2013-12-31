@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Landmark钻完井工程综合设计分析系统"
-tags: [Landmark, Overview]
+tags: [Overview]
 author_name: YUXINGZHE
 author_uri: http://twitter.com/yuxingzhe
 ---
@@ -36,7 +36,7 @@ Landmark 公司拥有先进的图形展示技术，用户可以直观地查看�
 
 Landmark 钻完井工程综合分析系统主要包括以下十大功能模块：定向井设计系统、套管下深设计软件、套管柱设计软件、高温高压管柱设计和分析软件、钻井工程设计和分析系统、失效分析及成本控制、钻完井数据管理和分析系统、钻完井数据查询及分析、DecisionSpace<sup>&#174;</sup> Well Planning油田开发钻井规划及井网设计、地层压力预测软件等。下面对部分用到的软件功能进行了概述。
 
-<h4 name="sec-1">1 定向井设计系统COMPASS (Directional Advanced Package)</h4>
+<h4><a name="sec-1">1 定向井设计系统COMPASS (Directional Advanced Package)</a></h4>
 
 COMPASS 可使用户在进行各类定向井设计时比以往任何时候都容易， COMPASS 广泛应用了众多的软件工具，这些工具不仅适用于所有石油公司同时也适用于所有的定向井承包商，从初始设计到工程作业，COMPASS 可提供快速、准确的轨迹设计并在初始阶段判断出潜在的问题所在。
 
@@ -63,7 +63,7 @@ UTM和地理数据输出：这个模式提供了UTM输出设施，所有测量�
 
 绘制壁挂大图：支持各种大型绘图机并由使用者完全控制的高质量壁挂展示图。
 
-<h4 name="sec-2">2 套管柱设计软件 Tubular Basic Package - StressCheck</h4>
+<h4><a name="sec-2">2 套管柱设计软件 Tubular Basic Package - StressCheck</a></h4>
 
 Landmark 公司的StressCheck 采用了不同工况下的三轴应力设计方法，能够快捷完成强度设计，在确保安全的同时，大幅削减套管成本。其抗内压、抗外挤和轴向载荷设计结果可在曲线图示中观察，同时，独一无二的"点击－拖拉"图形设计使设计变得非常简单方便。
 
@@ -108,7 +108,7 @@ src="https://92iq1q.blu.livefilestore.com/y2pKnEjWO5mJhubbfWB2FkvBUg7rasIZMySn59
 
 <li>强大的报表功能</li></ul> 
 
-<h4 name="sec-3">3 高温高压井管柱设计和分析软件WellCat (Tubular Advanced Package)</h4>
+<h4><a name="sec-3">3 高温高压井管柱设计和分析软件WellCat (Tubular Advanced Package)</a></h4>
 
 WellCat 可为管柱设计提供一体化设计和分析解决方案。WellCat 解决了管柱设计学科中的最复杂问题，即精确预测井下温度、压力剖面、管柱载荷和由之引起的位移等难题。在Windows 操作环境下的Wellcat 软件由5 个可独立运行的模块(Drill 钻井、Pro 开发、Casing 套管、Tube 油管、Multistring 多管串) 组成。
 
@@ -145,53 +145,53 @@ WellCat 可为管柱设计提供一体化设计和分析解决方案。WellCat �
 
 <li>向导模块</li></ul> 
 
-<h4 name="sec-4">4 钻井工程设计和分析系统--WELLPLAN (Drilling Fluids Basic Package, Drilling Fluids Advanced Package, Drilling Mechanics Basic Package, Drilling Mechanics Advanced Package, Cementing Opticem)</h4>
+<h4><a name="sec-4">4 钻井工程设计和分析系统--WELLPLAN (Drilling Fluids Basic Package, Drilling Fluids Advanced Package, Drilling Mechanics Basic Package, Drilling Mechanics Advanced Package, Cementing Opticem)</a></h4>
 
 钻井工程设计和分析系统(WELLPLAN)能完成钻井施工过程中所涉及的几乎所有的计算，并具有强大的分析能力，考虑因素充分，能预测钻井过程中经常发生的事故，对卡钻、井涌井漏、钻具失效等事故的处理提供方案，确保钻井施工的顺利进行。
 
 该系统包括九大功能：底部钻具组合分析(BHA Drill Ahead)、临界转速分析(Critical Speed)、水力计算(Hydraulics)、卡钻计算(StuckPipe)、波动压力分析(Surge/Swab)、扭矩和摩阻(Torque/Drag)、井控计算(WellControl)、优化固井设计(OptiCem)、电子工程手册(Notebook)。
 
-<h5 name="sec-4-1">(1)底部钻具组合分析－BHA Drill ahead</h5>
+<h5><a name="sec-4-1">(1)底部钻具组合分析－BHA Drill ahead</a></h5>
 
 利用有限单元分析技术预测、模拟和分析各种旋转和导向钻具组合的钻井特性。Landmark 公司利用目前工业界权威精确的有限元分析技术对定向钻井和钻具组合特性进行充分研究。该程序所使用的技术由兰德马克公司独创。它由两部分组成，第一部分是利用非线性、三维有限单元技术来解决所限定钻具组合的结构问题。第二部分是利用分析和规律相结合的方法来确定钻具组合的趋向，BHA 向前钻进使我们对井下钻具组合的认识从盲目阶段走向了科学化阶段。 
 
 该软件除计算钻具组合力学参数外，还具有三大分析功能：停钻/静态分析、超前预测分析、优选WOB/ROP 参数。 
 
-<h5 name="sec-4-2">(2)临界转速分析－Critical Speed</h5> 
+<h5><a name="sec-4-2">(2)临界转速分析－Critical Speed</a></h5> 
 
 钻井过程中碰撞和振动载荷非常激烈，钻柱会发生纵向震动、扭转震动和横(侧)向震动。经研究发现，在接近井底的一段钻具内，横向震动异常突出，是引起钻具不稳定和疲劳破坏的主要原因。
 
 利用有限单元分析和受力频率反应技术模拟和鉴定临界转速及钻具中的高应力集中。这是一个功能强大、技术领先的软件，在预测钻具的振动方面代表着世界目前最先进的实用技术。它主要基于钻具的有限单元模式和被受力频率反应技术来确定钻具的动态行为。这个程序的灵活性高且使用范围广。利用临界转速分析的设计模式可帮助避免耗费巨大的钻具井下失效，而利用实际作业模式可帮助分析失效的原因以便在下一步钻井过程中避免钻具失效。
 
-<h5 name="sec-4-3">(3)水力计算－Hydraulics</h5> 
+<h5><a name="sec-4-3">(3)水力计算－Hydraulics</a></h5> 
 
 完整的循环系统分析，钻头水眼优选，压力损耗，抽吸激动压力和井眼清洁计算等，为优化钻井提供依据。 
 
-<h5 name="sec-4-4">(4)卡钻计算－StuckPipe</h5> 
+<h5><a name="sec-4-4">(4)卡钻计算－StuckPipe</a></h5> 
 
 进行失效分析、传送到卡点力的计算、震击器设定和震击所需力的计算、解卡力计算。利用与扭矩/阻力程序相同的钻柱模式它可以精确的计算出摩擦力和其它结果，由于钻柱、测斜及其它数据可能在日常作业已在WELLPLAN 的其它程序中输入，所以，一旦发生卡钻而利用这套程序进行分析计算是相当迅速的。 
 
-<h5 name="sec-4-5">(5)波动压力分析－Surge/Swab</h5> 
+<h5><a name="sec-4-5">(5)波动压力分析－Surge/Swab</a></h5> 
 
 可动态模拟由于钻杆运动引起的井下波动压力，Wellplan 波动压力分析是一个技术领先的模块，可为工程师提供最优的起下钻速度和泥浆密度，以避免起下钻和固井作业中发生井控和地层损害问题。波动压力模块可用于设计阶段， 以确定需要控制的波动压力；或用于诊断与波动压力有关的井控问题。 
 
 波动压力模块可研究繁琐的计算，以节省工程师的时间。波动压力模块考虑了许多复杂的因素，如温度和压力对油基或水基泥浆压缩性和流变性的影响。它可模拟循环过程中的钻杆运动、顶替水泥浆，也考虑了钻杆运动的轴向弹性。波动压力可分析随深度变化的起下钻速度、地层性质和流变性。多因素分析也能模拟井底的钻杆运动速度和距离。波动压力考虑了原始影响因素和处理多相流体。波动压力也能模拟循环系统、地层和水泥的弹性。 
 
-<h5 name="sec-4-6">(6)扭矩和摩阻－Torque/Drag</h5> 
+<h5><a name="sec-4-6">(6)扭矩和摩阻－Torque/Drag</a></h5> 
 
 在设计阶段工程师利用扭矩和摩阻分析软件可以很容易地研究不同钻具设计在不同的井身结构中的效果,同时对经常存在的问题找出最佳解决办法,设计出合适的钻具组合, 避免钻具失效, 确保所钻井能安全地钻至设计井深。 
 
-<h5 name="sec-4-7">(7)井控计算－WellControl</h5> 
+<h5><a name="sec-4-7">(7)井控计算－WellControl</a></h5> 
 
 这个程序模拟了井涌的产生及循环出井外的过程，采用常用方法(司钻法和等待加重法)，计算压井作业过程中流体侵入井内时的压力。 
 
-<h5 name="sec-4-8">(8)优化固井设计－OptiCem</h5> 
+<h5><a name="sec-4-8">(8)优化固井设计－OptiCem</a></h5> 
 
 对不同性能的多流体系统进行泵入模拟，各临界点的压力计算等。这套软件能在固井作业过程中对不同液体进行模拟，包括冲洗液、隔离液、水泥浆和顶替液。它可帮助工程师对可能发生的问题进行准备，例如：U-型管效应、压差等，确保顺利实施平衡压力固井。
 
 <a target="_blank" href="https://92iq1q.blu.livefilestore.com/y2pUgkqjbw9k58W10pcWszu_ewTGAJlTb0cesO_TIgPgoy_ypIA0d3x6qTk6snJLKr5mjK_fFnsJjK1amQSargwZteFNv0gFF4gnt1qz-F6TuQ/Cementing-OptiCem.png?psid=1">
 <img class="aligncenter" title="Cementing-OptiCem" style="width:600px;height:490px;" src="https://92iq1q.blu.livefilestore.com/y2pUgkqjbw9k58W10pcWszu_ewTGAJlTb0cesO_TIgPgoy_ypIA0d3x6qTk6snJLKr5mjK_fFnsJjK1amQSargwZteFNv0gFF4gnt1qz-F6TuQ/Cementing-OptiCem.png?psid=1" alt="Cementing-OptiCem"></a>
 
-<h5 name="sec-4-9">(9)电子工程手册－Notebook</h5>
+<h5><a name="sec-4-9">(9)电子工程手册－Notebook</a></h5>
 
 该手册提供钻井手册中常用的计算，如工程管柱计算，容积和高度计算，迟到时间计算，顶替计算，大绳寿命计算，钻柱和环空容积计算，钻机能力计算，单位换算器，水力计算器，流体计算器以及其他的一起计算等。

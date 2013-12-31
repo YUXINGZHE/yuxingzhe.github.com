@@ -6,7 +6,8 @@ author_name: YUXINGZHE
 author_uri: http://twitter.com/yuxingzhe
 ---
 
-<span class="dropcap">贝</span>[克休斯公司(Baker Hughes)](http://http://www.bakerhughes.com/)是美国一家为全球石油开发和加工工业提供产品和服务的大型服务公司，该公司通过它下设的7家油田服务公司，提供钻井、完井和油气井生产的各类产品和服务。其中贝克休斯INTEQ主要负责数据通讯、数据管理、专家库、地层评价、水平钻井、旋转定向技术、动态钻井、垂直钻井应用、钻井和完井液及相关服务、流体环境服务、钻井液产品。
+<span class="dropcap">贝
+</span>[克休斯公司(Baker Hughes)](http://http://www.bakerhughes.com/){:style="border-bottom: 1px solid #ccc;"}是美国一家为全球石油开发和加工工业提供产品和服务的大型服务公司，该公司通过它下设的7家油田服务公司，提供钻井、完井和油气井生产的各类产品和服务。其中贝克休斯INTEQ主要负责数据通讯、数据管理、专家库、地层评价、水平钻井、旋转定向技术、动态钻井、垂直钻井应用、钻井和完井液及相关服务、流体环境服务、钻井液产品。
 
 #### 钻井技术及地层评价技术 ####
 
