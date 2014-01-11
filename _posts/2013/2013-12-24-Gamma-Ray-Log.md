@@ -52,8 +52,11 @@ author_uri: http://twitter.com/yuxingzhe
 
 光电效应
 : 伽马光子与原子核外的束缚电子作用，光子把全部能量转移给某个束缚电子，使之发射出去(光电子)，而光子本身被吸收。
+
 康普顿效应
-: 伽马光子与原子核外电子发生非弹性碰撞，一部分能量转移给电子，使它脱离原子成为反冲电子，而光子(散射光子)的能量和运动方向发生变化。
+: 伽马光子与原子核外电子发生非弹性碰撞，一部分能量转移给电子，使它脱离
+原子成为反冲电子，而光子(散射光子)的能量和运动方向发生变化。
+
 电子对效应
 : 当伽马光子从原子核旁经过时，在原子核的库仑场的作用下，伽马光子转变为一个正电子和一个负电子，这种过程称为电子对效应。
 
@@ -310,9 +313,9 @@ KCl中钾原子的重量比：39.1/(39.1+35.45)=0.525
 <a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pV0yhWkTlG98qPbBFMzpYd-W1fwgiZGYmFoJnQQhPVrxoqEoKvFOGdTrH0SDBbIG3EdSmgBe9oO24xip9w0Jm95WLhC3-FZO7EWIx1qDpG00/Statistical%20Fluctuation.png?psid=1">
 <img class="aligncenter" title="Statistical Fluctuation" style="width:300px;height:490px;" src="https://lneprw.blu.livefilestore.com/y2pV0yhWkTlG98qPbBFMzpYd-W1fwgiZGYmFoJnQQhPVrxoqEoKvFOGdTrH0SDBbIG3EdSmgBe9oO24xip9w0Jm95WLhC3-FZO7EWIx1qDpG00/Statistical%20Fluctuation.png?psid=1" alt="Statistical Fluctuation"></a>
 
-按照误差理论，在一个岩性均匀和厚度足够大的地层中，若自然伽马平均计数率为n ?，则实测的自然伽马曲线在涨落范围$ (\overline { n } -\sigma )\sim (\overline { n } +\sigma ) $内的累积曲线厚度应占平均值曲线厚度的68.3%。达到这一要求的曲线，质量是好的，否则应视为质量不合格。只有明显超出涨落范围和有适当厚度的曲线变化才认为是岩性变化，应另分层或另作取值区。这一版凭经验判断，但也可取常数K=1.5~3.0，当曲线变化在$ \overline { n } \pm K\sigma $内时为同一地层，超出此范围应考虑另分层或另取值。
+按照误差理论，在一个岩性均匀和厚度足够大的地层中，若自然伽马平均计数率为$\overline{n}$，则实测的自然伽马曲线在涨落范围$ (\overline { n } -\sigma )\sim (\overline { n } +\sigma ) $内的累积曲线厚度应占平均值曲线厚度的68.3%。达到这一要求的曲线，质量是好的，否则应视为质量不合格。只有明显超出涨落范围和有适当厚度的曲线变化才认为是岩性变化，应另分层或另作取值区。这一版凭经验判断，但也可取常数K=1.5~3.0，当曲线变化在$ \overline { n } \pm K\sigma $内时为同一地层，超出此范围应考虑另分层或另取值。
 
-放射性曲线涨落误差还可以用来检查仪器的稳定性。同一个仪器，在同样的测量条件下对同一对象做多次测量，则每次平均计数n ?落在$ \overline { n } \pm { \sigma  }_{ 1 } $范围内的概率应是68.3%，否则认为仪器稳定性或可重复性不好。
+放射性曲线涨落误差还可以用来检查仪器的稳定性。同一个仪器，在同样的测量条件下对同一对象做多次测量，则每次平均计数$\overline{n}$落在$ \overline { n } \pm { \sigma  }_{ 1 } $范围内的概率应是68.3%，否则认为仪器稳定性或可重复性不好。
 
 <h5><a name="sec-7-2">7.2 测井速度(Logging Speed)</a></h5>
 
