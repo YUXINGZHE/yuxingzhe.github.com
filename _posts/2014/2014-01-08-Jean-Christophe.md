@@ -6,9 +6,9 @@ author_name: YUXINGZHE
 author_uri: http://twitter.com/yuxingzhe
 ---
 
-<p style="margin:100px 0 150px 800px;padding:5px;font-family:&#x534E;&#x6587;&#x6977;&#x4F53;;font-size:30px;background-color:black;color:white;">江声浩荡……</p>
+<p style="text-align:right;margin-top:100px;margin-bottom:150px;padding:5px;font-family:&#x534E;&#x6587;&#x6977;&#x4F53;;font-size:30px;color:white;"><span class="highlight">江声浩荡……</span></p>
 
-<p style="margin:0 0 150px 800px;padding:5px;font-family:&#x534E;&#x6587;&#x6977;&#x4F53;;font-size:30px;background-color:black;color:white;">钟声复起……</p>
+<p style="text-align:right;margin-bottom:150px;padding:5px;font-family:&#x534E;&#x6587;&#x6977;&#x4F53;;font-size:30px;color:white;"><span class="highlight">钟声复起……</span></p>
 
 <p style="font-size:25px;margin-bottom:60px;font-weight:900;">傅译《约翰&#8226;克利斯朵夫》序</p>
 
@@ -38,9 +38,9 @@ author_uri: http://twitter.com/yuxingzhe
 
 <p style="font-family:&#x534E;&#x6587;&#x6977;&#x4F53;;font-size:14px;">&#8195;&#8195;附记：名著复译，鼠窃狗偷，不算本领。能译得比“江声浩荡”（Le grondement du fleuve）更加浩荡，后来而确乎居其上，读者自会佩服，潇洒地扔弃傅雷的译品与人品！</p>
 
-<p style="margin-left:800px;">罗新璋</p>
+<p style="text-align:right;margin-right:50px;">罗新璋</p>
 
-<p style="margin-left:770px;">一九九四年元月</p>
+<p style="text-align:right;margin-right:20px;">一九九四年元月</p>
 
 
 
@@ -116,4 +116,4 @@ author_uri: http://twitter.com/yuxingzhe
 
 &#8195;&#8195;对于一般的读者，这部头绪万端的迷宫式的作品，一时恐怕不容易把握它的真谛，所以译者谦卑的写这篇说明作为引子，希望为一般探宝山的人做一个即使不高明、至少还算忠实的向导。
 
-<p style="margin-left:800px;">一九四&#927;年</p>
+<p style="text-align:right;margin-right:50px;">一九四&#927;年</p>

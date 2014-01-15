@@ -330,6 +330,11 @@ span.margin-div-inner img {
   margin: 0; padding: 0; border: 0 none;
 } */
 
+span.highlight
+{
+background-color:black;
+}
+
 #table-of-contents {
     font-size: 9pt;
     position: fixed;
