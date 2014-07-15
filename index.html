@@ -5,7 +5,7 @@ page_name: blog
 ---
 
 {% for post in paginator.posts %}
-  <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+  <h2 style="margin-bottom:20px;"><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <div class="content">
     {{ post.content }}
     <p><i class="icon-tag"></i>
