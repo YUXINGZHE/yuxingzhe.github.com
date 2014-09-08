@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Gamma Elite<sup>SM</sup> Service"
-tags: [OnTrak, Sensor Sub]
+tags: [MWD]
 author_name: YUXINGZHE
 author_uri: http://twitter.com/yuxingzhe
 ---

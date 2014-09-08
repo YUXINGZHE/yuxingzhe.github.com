@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bypass System Rigup"
-tags: [OnTrak, Surface System]
+tags: [MWD]
 author_name: YUXINGZHE
 author_uri: http://twitter.com/yuxingzhe
 ---

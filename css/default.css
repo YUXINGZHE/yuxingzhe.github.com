@@ -507,6 +507,20 @@ background-color:black;
   border: none;
 }
 
+.cite {
+  font-family:&#x534E;&#x6587;&#x6977;&#x4F53;;
+  font-size:14px;
+  margin:20px 0 20px 60px;
+}
+
+innote {
+  font-size:10px;
+  -webkit-transform:scale(1);
+  /*display:inline-block;
+  margin-left:-1px;
+  margin-right:-1px;*/
+}
+
 .well {
   background-color: transparent;
   border: none;

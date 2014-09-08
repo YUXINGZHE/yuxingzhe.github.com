@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Landmark钻完井工程综合设计分析系统"
-tags: [Overview]
+tags: [MWD]
 author_name: YUXINGZHE
 author_uri: http://twitter.com/yuxingzhe
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "COMPASS WELLPLAN FOR WINDOWS 功能简介"
-tags: [COMPASS]
+tags: [MWD]
 author_name: YUXINGZHE
 author_uri: http://twitter.com/yuxingzhe
 ---
