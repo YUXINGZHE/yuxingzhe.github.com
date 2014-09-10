@@ -34,8 +34,8 @@ AutoTrak<sup>G3</sup>包括三个主要组件(AutoTrak<sup>G3</sup>导向头、O
 
 #### OnTrak 随钻自然伽马和电阻率测井 ####
 
-<a target="_blank" href="https://onedrive.live.com/embed?cid=362FE91176C7F23F&resid=362FE91176C7F23F%212237&authkey=AKCcwX0KA39wIyQ">
-<img src="https://onedrive.live.com/embed?cid=362FE91176C7F23F&resid=362FE91176C7F23F%212237&authkey=AKCcwX0KA39wIyQ" alt="OnTrak" title="OnTrak" style = "float:right;width:200px;height:461px">
+<a target="_blank" href="https://knccyq.bl3302.livefilestore.com/y2pdMcWCfQXiS38rzjxBEIO9Y3rIH6IPQNGZQfOuAoON1wiS0z2q7N4DwcWzFjnVKVCLSF0qOpaDfMgn943JFMcQCtj6FI9iWDKLV1bpdzETdA/OnTrak.png?psid=1">
+<img src="https://knccyq.bl3302.livefilestore.com/y2pdMcWCfQXiS38rzjxBEIO9Y3rIH6IPQNGZQfOuAoON1wiS0z2q7N4DwcWzFjnVKVCLSF0qOpaDfMgn943JFMcQCtj6FI9iWDKLV1bpdzETdA/OnTrak.png?psid=1" alt="OnTrak" title="OnTrak" style = "float:right;width:200px;height:461px">
 
 <iframe src="https://onedrive.live.com/embed?cid=362FE91176C7F23F&resid=362FE91176C7F23F%212237&authkey=AKCcwX0KA39wIyQ" width="200" height="461" frameborder="0" scrolling="no" float="right"></iframe>
 
