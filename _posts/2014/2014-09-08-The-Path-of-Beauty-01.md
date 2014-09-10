@@ -21,7 +21,7 @@ author_uri: http://twitter.com/yuxingzhe
 
 &#8195;&#8195;中国史前文化比过去所知有远为长久和灿烂的历史。七十年代浙江河姆渡、河北磁山<innote>【《河北磁山新石器时代遗址试掘》，《考古》1977年第6期。】</innote>、河南新郑<innote>【《河南新郑裴李岗新石器时代遗址》，《考古》1978年第2期。“就三个数据的情况来说，裴李岗遗址的年代，大致作7500年左右，恐怕是比较可信的。”（李友谋、陈旭：《试论裴李岗文化》，《考古》1979年第4期）磁山稍晚于裴李岗，而远在仰韶文化前，“仰韶文化最早期的年代大约是6000年左右”（同上）。】</innote>、密县<innote>【《河南密县莪沟北岗新石器时代遗址发掘简报》，《文物》1979年第5期。】</innote>等新石器时代遗址的陆续发现，不断证实这一点。将近八千年前，中国文明已初露曙光。
 
-<img title="山顶洞人的“妆饰品”" style="width:400px;height:320px;float:right;" src="https://92jnma.bl3302.livefilestore.com/y2ptup45PGplim-W7aT9RdG0CTsroLqobwnX3esoJVe_KyiXiL2JTkweQLFVC8S4XUCEFiezCGRxuMhCM8WFmEsGwYaBJ0zxKnjgrIEewBaKVQ/%E5%B1%B1%E9%A1%B6%E6%B4%9E%E4%BA%BA%E7%9A%84%E2%80%9C%E5%A6%86%E9%A5%B0%E5%93%81%E2%80%9D.png?psid=1" alt="山顶洞人的“妆饰品”">
+<img title="山顶洞人的“妆饰品”" style="width:400px;height:320px;float:right;" src="https://8ruvha.bl3302.livefilestore.com/y2pBpIt7IQtUsY-N4ymB-56Xa4gXrDXePVTrD8QFQSbHfktMi0Q4DipW4f873URJf_ilpWUSr-4vY_Pp9yOjxWR1TOv7dGH2rReDc7Nyd2RQAM/%E5%B1%B1%E9%A1%B6%E6%B4%9E%E4%BA%BA%E7%9A%84%E2%80%9C%E5%A6%86%E9%A5%B0%E5%93%81%E2%80%9D.png?psid=1" alt="山顶洞人的“妆饰品”">
 
 &#8195;&#8195;上溯到旧石器时代，从南方的元谋人到北方的蓝田人、北京人、山顶洞人，虽然像欧洲洞穴壁画那样的艺术尚待发现，但从石器工具的进步上可以看出对形体性状的初步感受。北京人的石器似尚无定型，丁村人的则略有规范，如尖状、球状、橄榄形……等等。到山顶洞人，不但石器已很均匀，规整，而且还有磨制光滑、钻孔、刻纹的骨器和许多所谓“装饰品”：“装饰品中有钻孔的小砾石、钻孔的石珠、穿孔的狐或獾或鹿的犬齿、刻沟的骨管、穿孔的海蚶壳和钻孔的青鱼眼上骨等。所有的装饰品都相当精致，小砾石的装饰品是用微绿色的火成岩从两面对钻成的。选择的砾石很周正，颇像现代妇女胸前佩戴的鸡心。小石珠是用白色的小石灰岩块磨成的，中间钻有小孔。穿孔的牙齿是由齿根的两侧对挖穿通齿腔而成的。所有装饰品的穿孔，几乎都是红色，好像是它们的穿戴都用赤铁矿染过。”<innote>【贾兰坡：《“北京人”的故居》第41页，北京出版社，1958年。】</innote>这表明对形体的光滑规整、对色彩的鲜明突出、对事物的同一性（同样大小或同类物件串在一起）……有了最早的朦胧理解、爱好和运用。但要注意的是，对使用工具的合规律性的形体感受和在所谓“装饰品”上自觉加工，两者不但有着漫长的时间距离（数十万年），而且在性质上也是根本不同的。虽然二者都有其实用功利的内容，但前者的内容是现实的，后者则是幻想（想象）的；劳动工具和劳动过程中合规律性的形式要求（节律、均匀、光滑等）和主体感受，是物质生产的产物；“装饰”则是精神生产、意识形态的产物。尽管两者似乎都是“自然的人化”和“人的对象化”，但前者是将人作为超生物存在的社会生活外化和凝冻在物质生产工具上，是真正的物化活动；后者则是将人的观念和幻想外化和凝冻在这些所谓“装饰品的物质对象上，它们只是物态化的活动。”前者是现实的“人的对象化”和“自然的人化”，后者是想象中的这种“人化”和“对象化”。前者与种族的繁殖（人身的扩大再生产）一道构成原始人类的基础，后者则是包括宗教、艺术、哲学等胚胎在内的上层建筑。当山顶洞人在尸体旁撒上矿物质的红粉，当他们作出上述种种“装饰品”，这种原始的物态化的活动便正是人类社会意识形态和上层建筑的开始。它的成熟形态便是原始社会的巫术礼仪，亦即远古图腾活动。
     
@@ -49,8 +49,8 @@ author_uri: http://twitter.com/yuxingzhe
 <p>……</p>
 </div>
 
-<a target="_blank" href="https://92jnma.bl3302.livefilestore.com/y2pptSZssL2pv9Cxm7FHO_CGKt5sQjvxQCjy4dr1_8Xj-FuRMVYz0xtKOXVobNsVeR4blusXVYDFNxjaLfxpkmNA21siX6nJmXquznvELwFzS0/%E5%94%90%E4%BC%8F%E7%BE%B2%E5%A5%B3%E5%A8%B2%E5%B8%9B%E7%94%BB.png?psid=1">
-<img class="aligncenter" title="唐伏羲女娲帛画" style="width:432px;height:626px;" src="https://92jnma.bl3302.livefilestore.com/y2pptSZssL2pv9Cxm7FHO_CGKt5sQjvxQCjy4dr1_8Xj-FuRMVYz0xtKOXVobNsVeR4blusXVYDFNxjaLfxpkmNA21siX6nJmXquznvELwFzS0/%E5%94%90%E4%BC%8F%E7%BE%B2%E5%A5%B3%E5%A8%B2%E5%B8%9B%E7%94%BB.png?psid=1" alt="唐伏羲女娲帛画"></a>
+<a target="_blank" href="https://8xuvha.bl3302.livefilestore.com/y2poE1MGRi3wfqqWJfTznm29TxlH-Ok2Ykxd2H7e07cSB6oCA8tcMzFBw8YWDDqHNgmCynqE2ZQdTB3wbD40qX92G1lG9cT6-PGo-jz_p3ThJI/%E5%94%90%E4%BC%8F%E7%BE%B2%E5%A5%B3%E5%A8%B2%E5%B8%9B%E7%94%BB.png?psid=1">
+<img class="aligncenter" title="唐伏羲女娲帛画" style="width:432px;height:626px;" src="https://8xuvha.bl3302.livefilestore.com/y2poE1MGRi3wfqqWJfTznm29TxlH-Ok2Ykxd2H7e07cSB6oCA8tcMzFBw8YWDDqHNgmCynqE2ZQdTB3wbD40qX92G1lG9cT6-PGo-jz_p3ThJI/%E5%94%90%E4%BC%8F%E7%BE%B2%E5%A5%B3%E5%A8%B2%E5%B8%9B%E7%94%BB.png?psid=1" alt="唐伏羲女娲帛画"></a>
 
 &#8195;&#8195;从“黄土作人”到“正婚姻”（开始氏族外婚制？），从“以佃以渔”到“作八卦”（巫术礼仪的抽象符号化？），这个有着近百万年时间差距的人类原始历史，都集中地凝聚和停留在哪玩伏羲两位身上（他们在古文献中经常同时而重迭如（庖羲）“始嫁娶以修人道”（《拾遗记》）；“伏羲制俪皮嫁娶之礼”（《世本》）。所谓伏羲、女娲兄妹为婚，可能反映的血族群婚制，也可能是阴（黑夜）阳（白天）观念的神话阶段，也可能是列维·斯特劳斯讲的所谓同胞双生子的神话。而所谓“正婚姻”、“置姓氏”，则可能反映开始了族外婚制，有了氏族的社会组织。。这也许意味着，他们两位可以代表最早期的中国缘故文化？）
 
@@ -136,19 +136,19 @@ author_uri: http://twitter.com/yuxingzhe
 <p>钟山之神，名曰烛阴，视为昼，瞑为夜，吹为冬，呼为夏，不饮不食不息，息为风，身长千里。……其为物，人面蛇身赤色。（《山海经·海外北经》）</p>
 </div>
 
-<a target="_blank" href="https://92jnma.bl3302.livefilestore.com/y2pgmyhfO4gFY7-2SC2mcALsnOUBijZclVZ5jJNcft8VNTKxUPBerLc5rzkdvjWII9LORmYoTYWoHYjVpyYW8NdB2hpT8l_IsLD4HmBHheyFlA/%E8%A5%BF%E6%B1%89%E7%83%9B%E9%BE%99%E4%BA%BA%E9%A6%96%E8%9B%87%E8%BA%AB%E5%B8%9B%E7%94%BB.png?psid=1">
-<img class="aligncenter" title="西汉烛龙人首蛇身帛画" style="width:584px;height:672px;" src="https://92jnma.bl3302.livefilestore.com/y2pgmyhfO4gFY7-2SC2mcALsnOUBijZclVZ5jJNcft8VNTKxUPBerLc5rzkdvjWII9LORmYoTYWoHYjVpyYW8NdB2hpT8l_IsLD4HmBHheyFlA/%E8%A5%BF%E6%B1%89%E7%83%9B%E9%BE%99%E4%BA%BA%E9%A6%96%E8%9B%87%E8%BA%AB%E5%B8%9B%E7%94%BB.png?psid=1" alt="西汉烛龙人首蛇身帛画"></a>
+<a target="_blank" href="https://9gjnma.bl3302.livefilestore.com/y2pcS9gsZFspEmGPoVFrh49JXcACTAHsAQps_BLem53SAFTJjbdKZ8R8tij_dDUCoKvmZKmXHc7yRqzswvnF0ony2EDeDUnOp5g51-V8RIm4nY/%E8%A5%BF%E6%B1%89%E7%83%9B%E9%BE%99%E4%BA%BA%E9%A6%96%E8%9B%87%E8%BA%AB%E5%B8%9B%E7%94%BB.png?psid=1">
+<img class="aligncenter" title="西汉烛龙人首蛇身帛画" style="width:584px;height:672px;" src="https://9gjnma.bl3302.livefilestore.com/y2pcS9gsZFspEmGPoVFrh49JXcACTAHsAQps_BLem53SAFTJjbdKZ8R8tij_dDUCoKvmZKmXHc7yRqzswvnF0ony2EDeDUnOp5g51-V8RIm4nY/%E8%A5%BF%E6%B1%89%E7%83%9B%E9%BE%99%E4%BA%BA%E9%A6%96%E8%9B%87%E8%BA%AB%E5%B8%9B%E7%94%BB.png?psid=1" alt="西汉烛龙人首蛇身帛画"></a>
 
 &#8195;&#8195;这里保留着更完整的关于龙蛇的原始状态的观念和想象。章学诚说《易》时，曾提出“人心营构之象”，这条巨大龙蛇也许就是我们的原始祖先们最早的“人心营构之象”吧。从“烛龙”到“女娲”，这条“人面蛇身”的巨大爬虫，也许就是经时久远悠长、笼罩中国大地上许多氏族、部落和部落联盟的一个共同的观念体系的代表标志吧？
      
 &#8195;&#8195;闻一多曾指出，作为中国民族象征的“龙”的形象，是蛇加上各种动物而形成的。它以蛇身为主体，“接受了兽类的四脚，马的毛，鬣的尾，鹿的脚，狗的爪，鱼的鳞和须”（《伏羲考》）。这可能意味着以蛇图腾为主的远古华夏氏族、部落<innote>【《太平御览》929卷引《归藏》：“昔夏后启土乘龙以登于天睪。”《山海经·大荒西经》：“……乘两龙名曰夏后开”，《山海经·海内经》：郭璞注“开筮曰鲧死……化为黄龙。”《帝王世纪》：“夏后氏，姒姓也，母曰修己”。姒、己，均蛇也。看来，夏部族或部族联盟很可能与蛇—龙图腾传统有关。】</innote>不断战胜、融合其他氏族部落，即蛇图腾不断合并其他图腾逐渐演变而为“龙”。从烛阴、女娲的神怪传说，到甲骨金文中的有角的龙蛇字样<innote>【“最早的龙就是有角的蛇，以角表示其神异性，甲骨文金文中所见的龙字都是如此。”（刘敦愿：《马王堆西汉帛画中的若干神话问题》。《文史哲》1978年第4期）】</innote>；从青铜器上的各式夔龙再到《周易》中的“飞龙在天”（天上）、“或饮于渊”（水中）、“见龙在田”（地面），一直到汉代艺术（如马王堆帛画和画像石）中的人首蛇身诸形象，这个可能产生在远古渔猎时期却居然延续保存到文明年代，具有如此强大的生命力量，长久吸引人们去崇拜、去幻想的神怪形象和神奇传说，始终是那样变化莫测，气象万千，它不正好可以作为我们远古祖先的艺术代表？
 
-<a target="_blank" href="https://92jnma.bl3302.livefilestore.com/y2pJXTr-_wXg0bn1WP1djwC0rKxJw8VDLbmUDQokbe_7_E532N1Bee9PjCTA1LEfPOJQogsYbZkA2LCJ8xpR2sx1XiNSAlNs5zQPxBwAIoE8PE/%E8%A5%BF%E6%B1%89%E9%BE%99%E7%9A%84%E5%9B%BE%E6%A1%88%20%E6%B8%A9%E9%85%92%E9%9D%92%E9%93%9C%E5%99%A8%E8%A5%BF%E9%83%A8.png?psid=1">
-<img class="aligncenter" title="西汉龙的图案 温酒青铜器西部" style="width:1000px;height:360px;" src="https://92jnma.bl3302.livefilestore.com/y2pJXTr-_wXg0bn1WP1djwC0rKxJw8VDLbmUDQokbe_7_E532N1Bee9PjCTA1LEfPOJQogsYbZkA2LCJ8xpR2sx1XiNSAlNs5zQPxBwAIoE8PE/%E8%A5%BF%E6%B1%89%E9%BE%99%E7%9A%84%E5%9B%BE%E6%A1%88%20%E6%B8%A9%E9%85%92%E9%9D%92%E9%93%9C%E5%99%A8%E8%A5%BF%E9%83%A8.png?psid=1" alt="西汉龙的图案 温酒青铜器西部"></a>
+<a target="_blank" href="https://9mjnma.bl3302.livefilestore.com/y2p3wksgnC9fvl5SRpasURvYs-tq9fR1Eg1DhIoDU2izTAyVK4rdVHSnBqHc8f3cOwzESd17bhLiGmrfkZPxHH9dGUrG2mb3_w2T5Aj1FsEwoU/%E8%A5%BF%E6%B1%89%E9%BE%99%E7%9A%84%E5%9B%BE%E6%A1%88%20%E6%B8%A9%E9%85%92%E9%9D%92%E9%93%9C%E5%99%A8%E8%A5%BF%E9%83%A8.png?psid=1">
+<img class="aligncenter" title="西汉龙的图案 温酒青铜器西部" style="width:1000px;height:360px;" src="https://9mjnma.bl3302.livefilestore.com/y2p3wksgnC9fvl5SRpasURvYs-tq9fR1Eg1DhIoDU2izTAyVK4rdVHSnBqHc8f3cOwzESd17bhLiGmrfkZPxHH9dGUrG2mb3_w2T5Aj1FsEwoU/%E8%A5%BF%E6%B1%89%E9%BE%99%E7%9A%84%E5%9B%BE%E6%A1%88%20%E6%B8%A9%E9%85%92%E9%9D%92%E9%93%9C%E5%99%A8%E8%A5%BF%E9%83%A8.png?psid=1" alt="西汉龙的图案 温酒青铜器西部"></a>
      
 &#8195;&#8195;神话传说毕竟根据的是后世文献资料。那末，新石器时代的文化遗址中发现的那个人首蛇身的陶器器盖，也许就是这条已经历时长久的神异龙族最早的造型表现？
 
-<img title="仰韶文化的人首蛇身壶" style="width:180px;height:330px;float:right;" src="https://92jnma.bl3302.livefilestore.com/y2pSxk7Nx-2kfwn8_hMqJZyk3hHitUnzajqfmrxj59biyryAZ-7hva1YnqSHUdAa2tM0qW8UjpWddjn8zXKJXiN3LE6sJr1nxMqQWIxa2p-kEY/%E4%BB%B0%E9%9F%B6%E6%96%87%E5%8C%96%E7%9A%84%E4%BA%BA%E9%A6%96%E8%9B%87%E8%BA%AB%E5%A3%B6.png?psid=1" alt="仰韶文化的人首蛇身壶">
+<img title="仰韶文化的人首蛇身壶" style="width:180px;height:330px;float:right;" src="https://8huvha.bl3302.livefilestore.com/y2pdq5Ks1F5s5bqqfuOCc1KqqL9Ny9JsMWaDVS6mUj7bGmlvBoREzN8L8Gh3R2_MNAd-bTaCb3jr3fABU2HAprsXSUQl05ziByzHX_9BuZKJ5c/%E4%BB%B0%E9%9F%B6%E6%96%87%E5%8C%96%E7%9A%84%E4%BA%BA%E9%A6%96%E8%9B%87%E8%BA%AB%E5%A3%B6.png?psid=1" alt="仰韶文化的人首蛇身壶">
 
 &#8195;&#8195;你看，它还是粗陋的，爬行的，贴在地面的原始形态。它还飞不起来，既没有角，也没有脚。也许，只有它的“人首”能预示着它终将有着腾空而起翩然飞舞的不平凡的一天？预示着它终将作为中国西部、北部、南部许多氏族、部落和部落联盟一个主要的图腾旗帜而高高举起、迎风飘扬？
     
@@ -163,15 +163,15 @@ author_uri: http://twitter.com/yuxingzhe
 <p>有五彩之鸟，……惟帝俊下友，帝下两坛，彩鸟是司。（《山海经·大荒东经》）</p>
 </div>
 
-<p style="text-align:center;"> <img title="商凤鸟盖钮" style="width:400px;height:340px;" src="https://92jnma.bl3302.livefilestore.com/y2pn0dD4b_8wOAkFzEfkCqN09KWNMzRqedmfIEctZ-KD6CfnFbRhfq_fw3JWRn2g2lArfMjeSxHGrjOZhrzGNB4ty3H_J-uW4DPUeOWMmXetSw/%E5%95%86%E5%87%A4%E9%B8%9F%E7%9B%96%E9%92%AE.png?psid=1" alt="商凤鸟盖钮">
-<img title="西汉砖刻朱雀图像" style="width:560px;height:340px;" src="https://92jnma.bl3302.livefilestore.com/y2pankU56PWb4qY1Q4es1C4pM6JlvvVvBpZAnpZG2bYCUUbasM0lHj1uYimTNuYTrBj1wbCa8s6x8lS8LEtDl0-QpnLqR2ezZ9ngnizGJAO5mk/%E8%A5%BF%E6%B1%89%E7%A0%96%E5%88%BB%E6%9C%B1%E9%9B%80%E5%9B%BE%E5%83%8F.png?psid=1" alt="西汉砖刻朱雀图像"></p>
+<p style="text-align:center;"> <img title="商凤鸟盖钮" style="width:400px;height:340px;" src="https://9buvha.bl3302.livefilestore.com/y2psvPNaY4D1bBbw7RvBD8SGv4b51Gkd_1rz42UaH0Vgt5ABupO8PjUO2xlc6IXRUAvNbtVHdyNygxXlBkM7rJ633L7GUeUB8RGTYFcFt3Wqxs/%E5%95%86%E5%87%A4%E9%B8%9F%E7%9B%96%E9%92%AE.png?psid=1" alt="商凤鸟盖钮">
+<img title="西汉砖刻朱雀图像" style="width:560px;height:340px;" src="https://9wjnma.bl3302.livefilestore.com/y2pHqIYsHAWVRMiQfux0hN_B5zAK6sluU3wcms1WRTdMrhj4BlDFJQRupDoyPiIX6oZX3NHk6YlH-oup3uGhIE9huAOuB5_Qiog0vqWoBsY_7I/%E8%A5%BF%E6%B1%89%E7%A0%96%E5%88%BB%E6%9C%B1%E9%9B%80%E5%9B%BE%E5%83%8F.png?psid=1" alt="西汉砖刻朱雀图像"></p>
 
-<img title="战国楚帛画" style="width:250px;height:300px;float:right;box-shadow:none;" src="https://92jnma.bl3302.livefilestore.com/y2pVrKTiIIj_5PJ0mpO-m9irJd7lY2boogkUlj5RsRDvcwqStb6uLgevdQen6EIfsgK4OD9q--N6v2ar4fV6DyLTzvMSYKPBj8P_yUP4PW9F3A/%E6%88%98%E5%9B%BD%E6%A5%9A%E5%B8%9B%E7%94%BB.jpg?psid=1" alt="战国楚帛画">
+<img title="战国楚帛画" style="width:250px;height:300px;float:right;box-shadow:none;" src="https://7xsiaw.bl3302.livefilestore.com/y2pHKiYv2h0xi0H5qshx1R_cFbqKYQrY8z8c8T_COdRSOXomxLw5SfYurYlIHzOydL3j4yfLi4rUnSIaJKuO7nc3inhd04oqunHYQdGpUsS4Vg/%E6%88%98%E5%9B%BD%E6%A5%9A%E5%B8%9B%E7%94%BB.jpg?psid=1" alt="战国楚帛画">
 
 &#8195;&#8195;与“蛇身人面”一样，“人面鸟身”、“五彩之鸟”、“鸾鸟自歌，凤鸟自舞”，在《山海经》中亦多见。郭沫若指出：“玄鸟就是凤凰”，“‘五彩之鸟’大约就是卜辞中的凤”<innote>【郭沫若：《青铜时代·先秦天道观的发展》。】</innote>。正如“龙”是蛇的夸张、增补和神化一样，“凤”也是这种鸟的神化形态。它们不是现实的对象，而是幻想的对象、观念的产物和巫术礼仪的图腾。与前述各种龙氏族一样，也有各种鸟氏族（所谓“鸟名官”）：“……少皞挚之立也，凤鸟适至，故纪于鸟，为鸟师而鸟名，凤鸟氏历正也，玄鸟氏司分也，伯赵氏司至也，青鸟氏司启者也，丹鸟氏司闭者也，祝鸠氏司徒也，瞗鸠氏司马也，鸤鸠氏司空也，爽鸠氏司寇也，鹘鸠氏（均鸟名）司事也。”（《左传·昭公十七年》）以“龙”、“凤”为主要图腾标记的东西两大部族联盟，经历了长时期的残酷的战争、掠夺和屠杀，逐渐融合统一。所谓“人面鸟身，践两赤蛇”（《山海经》中多见），所谓“庖羲氏，风姓也”，可能即反映着这种斗争和融合？从各种历史文献、地下器物和后人研究成果来看，这种斗争融合大概是以西（炎黄集团）胜东（夷人集团）而告结束。也许，“蛇”被添上了翅膀飞了起来，称为“龙”，“凤”则大体无所改变，就是这个原故？也许，由于“凤”所包含代表的氏族部落大而多得为“龙”所吃不掉，所以它虽从属于“龙”，却仍保持自己相对独立的性质和地位，从而它的图腾也就被独立地保存和延续下来？直到殷商及以后，直到战国楚帛画中，仍有在“凤”的神圣图像下祈祷着的生灵。
 
-<p style="text-align:center;"> <img title="西汉朱雀壁画" style="width:665px;height:400px;" src="https://92jnma.bl3302.livefilestore.com/y2pjZ2yN2dSTziIbsAy2-ihjKIHZHI_2CMga3LqO4a7xn8I5FUsx9KJFYX9L8NAm4n7x6d1EYMRqO_yUgyMH-jglVxWfLnxpHB3qg8b-w_LT9Y/%E8%A5%BF%E6%B1%89%E6%9C%B1%E9%9B%80%E5%A3%81%E7%94%BB.png?psid=1" alt="西汉朱雀壁画">
-<img title="西汉伏羲壁画" style="width:300px;height:400px;" src="https://92jnma.bl3302.livefilestore.com/y2pC_LCkt2gNcuKqCUlrK0fVHnyYVD_vklagZ4pho29hYo9C3hdCKSc1bCzSIqbynOJR5dNYxgrv7-VRBemftEgeYCKlIJwAXyTUt2rl7EM50E/%E8%A5%BF%E6%B1%89%E4%BC%8F%E7%BE%B2%E5%A3%81%E7%94%BB.png?psid=1" alt="西汉伏羲壁画"></p>
+<p style="text-align:center;"> <img title="西汉朱雀壁画" style="width:665px;height:400px;" src="https://82jnma.bl3302.livefilestore.com/y2pZrLKeTLvvnCAJUJGMvFn-OG3QN2_pCWkVc9SRC6vvgxzHgvt2xNLRwGgN9esYXsxllT1jsRocJGP3LTd2vuXUupnNOudj-ndEZO1yoUBids/%E8%A5%BF%E6%B1%89%E6%9C%B1%E9%9B%80%E5%A3%81%E7%94%BB.png?psid=1" alt="西汉朱雀壁画">
+<img title="西汉伏羲壁画" style="width:300px;height:400px;" src="https://9ruvha.bl3302.livefilestore.com/y2pR8gkDh1WpHUkfKDCWUS0qFQYd81Ypa5di_sSJxYDToq4nKCqhEj7DUNTSQbHLBgrZiEsLd0jwMWaGEnnN32EEQHofKOXsv-ns4IS2Db1TCM/%E8%A5%BF%E6%B1%89%E4%BC%8F%E7%BE%B2%E5%A3%81%E7%94%BB.png?psid=1" alt="西汉伏羲壁画"></p>
      
 &#8195;&#8195;龙飞凤舞——也许这就是文明时代来临之前，从旧石器渔猎阶段通过新石器时代的农耕阶段，从母系社会通过父系家长制，知道夏商早期奴隶制门槛前，在中国大地上高高飞扬着的史前期的两面光辉的、具有悠久历史传统的图腾旗帜？
      
@@ -181,7 +181,7 @@ author_uri: http://twitter.com/yuxingzhe
 
 &#8195;&#8195;这种原始的审美意识和艺术创作并不是观照或静观，不像后世美学家论美之本性所认为的那样。相反，它们是一种狂烈的活动过程。之所以说“龙飞凤舞”，正因为它们作为图腾所标记、所代表的，是一种狂烈的巫术礼仪活动。后世的歌、舞、剧、画、神话、咒语……，在远古是完全揉和在这个未分化的巫术礼仪活动的混沌统一体之中的，如火如荼，如醉如狂，虔诚而蛮野，热烈而谨严。你不能藐视那已成陈迹的、僵硬了的图像轮廓，你不要以为那只是荒诞不经的神话故事，你不要小看那似乎非常冷静的阴阳八卦<innote>【“夫易开物成务……象天法地，是兴神物，以前民用，其教盖出于政教典章之先矣。……为一代之法宪，而非圣人一己之心思”（章学诚：《文史通义·易教上》），这最早指出了《易经》“以象为教”、在“典章之先”的非个人创作的远古礼仪性质，是后世“礼”的张本，“学易者，所以学周礼也”（同上）。】</innote>……，想当年，它们都是火一般炽热虔信的巫术礼仪的组成部分或符号标记。它们是具有神力魔法的舞蹈、歌唱、咒语<innote>【如“所歌逐（魃）者令曰，神北行，先除水道，决通沟渎”（《山海经·大荒北经》）；“土返其宅，水归其壑，昆虫不作，草木归其泽”（《礼记·郊特牲》）。】</innote>的凝冻化了的代表。它们浓缩着。积淀着原始人们强烈的情感、思想、信仰和期望。
 
-<img title="八卦" style="width:300px;height:300px;float:right;" src="https://92jnma.bl3302.livefilestore.com/y2pE9uzJeeZX4s9Gw7Z-0mX0IXkYdkkn6piYwxt0DGmvdxeYg43dhW5v-ly-qj4nOrlUk2Hc2hYTNSaQvWU3BbceAFUal1gaCpxzvCqAfXZH_w/%E5%85%AB%E5%8D%A6.png?psid=1" alt="八卦">
+<img title="八卦" style="width:300px;height:300px;float:right;" src="https://7hvevg.bl3302.livefilestore.com/y2pKuh0uVrKMNux0tQXOkoVAmSmrlWDDj8q49jK_bXsO75PnJ5N8cGiA0J4GrTwywHZNOkAOTsfkdWMZoGbtSKsmfDyp6-YI9v3Hhu--kTIv7Y/%E5%85%AB%E5%8D%A6.png?psid=1" alt="八卦">
 
 &#8195;&#8195;古代文献中也保存了有关这种原始歌舞的一些史料，如：
 
@@ -205,7 +205,7 @@ author_uri: http://twitter.com/yuxingzhe
 
 &#8195;&#8195;图腾歌舞分化为诗、歌、舞、乐和神话传说，各自取得了独立的性格和不同的发展道路。继神人同一的龙凤图腾之后的，便是以父家长制为社会基础的英雄崇拜和祖先崇拜。例如，著名的商、周祖先——契与稷的怀孕、养育诸故事，都是要说明作为本氏族祖先的英雄人物具有不平凡的神异诞生和巨大历史使命。<innote>【参看《诗经·玄鸟、生民》以及《史记·殷本纪、周本纪》等。】</innote>驯象的舜、射日的羿、治水的鲧和禹，则直接显示这些巨人英雄们的赫赫战功或业绩。从烛龙、女娲到黄帝、蚩尤到后羿、尧舜，图腾神话由混沌世界进入了英雄时代。作为巫术礼仪的意义内核的原始神话不断人间化和理性化，那种种含混多义不可能作合理解释的原始因素日渐削弱或减少，巫术礼仪、原始图腾逐渐让位于政治和历史。这个过程的彻底完成，要到春秋战国之际。在这之前，原始歌舞的图腾活动仍然是笼罩着整个社会意识形态的巨大身影。
 
-<img title="舞蹈纹陶盆" style="width:350px;height:200px;float:right;" src="https://92jnma.bl3302.livefilestore.com/y2p6miMn6_SbA-ecBM1gOut2T3I5QPPKX2rDP0yxpl0b2Kuzj_ODf7XqdWjI0JywMVLw_U39TQrBRrXoBvzYX_q2Skw7lW8xdMjMZV5Nap7K3c/%E8%88%9E%E8%B9%88%E7%BA%B9%E9%99%B6%E7%9B%86.png?psid=1" alt="舞蹈纹陶盆">
+<img title="舞蹈纹陶盆" style="width:350px;height:200px;float:right;" src="https://7rvevg.bl3302.livefilestore.com/y2pZIqHYq2bXZ5NMqizVLbam9skg6Q0hYHdElZKxwXTuElvHZLywo0ldK6xdfigPLDewSsdJ8YD9fjlUXSnOODDZeq7WMx-eEFSGOWjNKOY9MM/%E8%88%9E%E8%B9%88%E7%BA%B9%E9%99%B6%E7%9B%86.png?psid=1" alt="舞蹈纹陶盆">
 
 &#8195;&#8195;也许，1973年发现的新石器时代彩陶盆纹饰中的舞蹈图案，便是这种原始歌舞最早的身影写照？“五人一组，手拉手，面向一致，头侧各有一斜道，似为发弁。每组外侧两人，一臂画为两道，似反映空着的两臂舞蹈动作较大而频繁之意，人下体三道，接地面的两竖道，为两腿无疑。而下腹体侧的一道，似为饰物。”<innote>【《青海大通县上孙家寨出土的舞蹈纹彩陶盆》，《文物》1978年第3期。】</innote>你看他们那活跃、鲜明的舞蹈姿态，那么轻盈齐整，协调一致，生意盎然，稚气可掬，……它们大概属于比较和平安定的传说时代，即母系社会繁荣期的产品吧<innote>【“传说神农氏的时代，是和平发展的时代；而传说黄帝尧舜的时代，则是在战争中诞生的。”（苏秉琦：《关于仰韶文化的若干问题》，《考古学报》1965年第1期）仰韶文化属于神农氏传说时代抑黄帝-尧舜时代，尚有不同看法。】</innote>？但把这图像说成是“先民们劳动之暇，在大树下小湖边或草地上正在欢乐地手拉手集体跳舞和唱歌”（同上引文），便似乎太单纯了。它们仍然是图腾活动的表现，具有严重的巫术作用或祈祷功能。所谓头带发辫似的饰物，下体带有尾巴似的饰物，不就是“操牛尾”和“干戚羽旄”之类；“手拉着手”地跳舞不也就是“发扬蹈厉”么？因之，这陶器上的图像恰好似生动的写实，印证了上述文献资料讲到的原始歌舞。这图像是写实的，又是寓意的。你看那规范齐整如图案般的形象，却和欧洲晚期洞穴壁画那种写实造型有某些近似之处，都是粗轮廓性的准确描述，都是活生生的某种动态写照。然而，它们又毕竟是新石器时代的产儿，必须与同时期占统治地位的几何纹样观念相一致，从而它便具有比欧洲洞穴壁画原位抽象的造型和更为神秘的含义。它并不像今天表面看来那么随意自在。它以人体舞蹈的规范化了的写实方式，直接表现了当日严肃而重要的巫术礼仪，而决不是“大树下”“草地上”随便蹁跹起舞而已。
 
@@ -213,7 +213,7 @@ author_uri: http://twitter.com/yuxingzhe
 
 <p style="text-align:center;font-size:25px;margin-top:30px;font-weight:bold;">三 “有意味的形式”</p>
 
-<img title="仰韶遗迹鹰纹彩陶纹" style="width:300px;height:200px;float:right;box-shadow:none;" src="https://92jnma.bl3302.livefilestore.com/y2pQ6PW4uSsG0AFvWehmiv-8PAyx95hOpDYWExNybi_5DgfaaDElhO-oVzC5OpLTJImo6W9FJtUqrsb18SOPeGtbTKswhx6M62xGN_7ia353ec/%E4%BB%B0%E9%9F%B6%E9%81%97%E8%BF%B9%E9%B9%B0%E7%BA%B9%E5%BD%A9%E9%99%B6%E7%BA%B9.png?psid=1" alt="仰韶遗迹鹰纹彩陶纹">
+<img title="仰韶遗迹鹰纹彩陶纹" style="width:300px;height:200px;float:right;box-shadow:none;" src="https://7bvevg.bl3302.livefilestore.com/y2p6VvrhQjLuu9lfLK4NBxkszvka0K9XtJad5jTOdmbRAEO8x5ejyiQ3lgUVGsCJQO28BSVynSvDfR6eotg5SBcaYsDFTCh68w_zBS9q1D8XfY/%E4%BB%B0%E9%9F%B6%E9%81%97%E8%BF%B9%E9%B9%B0%E7%BA%B9%E5%BD%A9%E9%99%B6%E7%BA%B9.png?psid=1" alt="仰韶遗迹鹰纹彩陶纹">
 
 &#8195;&#8195;原始社会是一个缓慢而漫长的发展过程。它经历了或交叉着不同阶段，其中有相对和平和激烈战争的不同时代。新石器时代的前期的母系氏族社会大概相对说来比较和平安定，其巫术礼仪、原始图腾及其图像化的符号形象也如此。文献资料中的神农略可当这一时期：
 
@@ -224,18 +224,18 @@ author_uri: http://twitter.com/yuxingzhe
 
 &#8195;&#8195;所谓“与麋鹿共处”，其实乃是驯鹿。仰韶彩陶中就多有鹿的形象。仰韶型（半坡和庙底沟）和马家窑型的彩陶纹样，其特征恰好是这这相对和平稳定的社会氛围的反照。你看那各种形态的鱼，那奔驰的狗，那爬行的蜥蜴，那拙钝的鸟和蛙，特别是那陶盆里的人面含鱼的形象，它们虽明显具有巫术礼仪的图腾性质，其具体含义已不可知，但从这些形象本身所直接传达出来的艺术风貌和审美意识，却可以清晰地使人感到：这里还没有沉重、恐怖、神秘和紧张，而是生动、活泼、纯朴和天真，是一派生气勃勃、健康成长的童年气派。
 
-<p style="text-align:center;"> <img title="仰韶遗迹 蛙纹彩陶纹" style="width:450px;height:380px;" src="https://92jnma.bl3302.livefilestore.com/y2pVzKMAjiPyiwVd-rjQfy0fV-6QuH-rYfsHnGY7njSjquZM-1PLJkaYRuXnf5Fp37PMvFIPWBPF-xZDEBv7St4dEl-1rAkri_nIr-flAA4ghI/%E4%BB%B0%E9%9F%B6%E9%81%97%E8%BF%B9%20%E8%9B%99%E7%BA%B9%E5%BD%A9%E9%99%B6%E7%BA%B9.png?psid=1" alt="仰韶遗迹 蛙纹彩陶纹">
-<img title="仰韶遗迹 人面鱼纹彩陶盆" style="width:500px;height:380px;" src="https://92jnma.bl3302.livefilestore.com/y2pUMi6tqVsVSIQ2fh1bWF4yP6yBH_q5iB77N1v-ZyxP1mRfIZm9b8S_FKX9GMIVg7a50SsQ72sKwHXPqSDB9atULUphfZjlje2YCg893RIXtg/%E4%BB%B0%E9%9F%B6%E9%81%97%E8%BF%B9%20%E4%BA%BA%E9%9D%A2%E9%B1%BC%E7%BA%B9%E5%BD%A9%E9%99%B6%E7%9B%86.png?psid=1" alt="仰韶遗迹 人面鱼纹彩陶盆"></p>
+<p style="text-align:center;"> <img title="仰韶遗迹 蛙纹彩陶纹" style="width:450px;height:380px;" src="https://9ru9dw.bl3302.livefilestore.com/y2pAI3ENWNgHTFsJeMIKz_iaGc5wQY46aHtHRqO9k8yivSmml_IYTVGRpKyKlvzuK0eFSVKLgPOFmtbwlud179u5cBuSiKYvhf2r4tS9dIN-kQ/%E4%BB%B0%E9%9F%B6%E9%81%97%E8%BF%B9%20%E8%9B%99%E7%BA%B9%E5%BD%A9%E9%99%B6%E7%BA%B9.png?psid=1" alt="仰韶遗迹 蛙纹彩陶纹">
+<img title="仰韶遗迹 人面鱼纹彩陶盆" style="width:500px;height:380px;" src="https://9bu9dw.bl3302.livefilestore.com/y2pvVrTtv_bW0iUQLM89oE4DW5aw_DJ9ggejXBGSj5Doq-QyNeib4Bnth4urlQOloubjxE7X4ZIL2cGpRc-ZYYh0ul3QCukl2uj4iDhSLU7Me4/%E4%BB%B0%E9%9F%B6%E9%81%97%E8%BF%B9%20%E4%BA%BA%E9%9D%A2%E9%B1%BC%E7%BA%B9%E5%BD%A9%E9%99%B6%E7%9B%86.png?psid=1" alt="仰韶遗迹 人面鱼纹彩陶盆"></p>
 
 &#8195;&#8195;仰韶半坡彩陶的特点，是动物形象和动物纹样多<innote>【半坡彩陶纹样是迄今发现中最早的一种。年代更早的尚无纹样可言（如河北磁山、河南新郑等七千年以上的陶器）。】</innote>，其中尤以鱼纹最普遍，有十余种。据闻一多《说鱼》，鱼在中国语言中具有生殖繁殖的祝福含义。但闻一多最早也只说到《诗经》、《周易》。那么，我们是否可以把它进一步追溯到这些仰韶彩陶呢？像仰韶期半坡彩陶屡见的多种鱼纹和含鱼人面，它们的巫术礼仪含义是否就在对氏族子孙“瓜瓞绵绵”长久不绝的祝福？人类自身的生产和扩大再生产即种的繁殖，是远古原始社会发展的决定性因素，血族关系是当时最为重要的社会结构<innote>【参阅恩格斯：《家庭、私有制和国家的起源》第一版序及列维·斯特劳斯（Levy-Strauss）的著作。】</innote>，中国终于成为世界上人口最多的国家，汉民族终于成为世界第一大民族，是否可以追溯到这几千年前具有祝福意义的巫术符号？此外，《山海经》说，“蛇乃化为鱼”，汉代墓葬壁画中就保留有蛇鱼混合形的怪物……，那末，仰韶的这些鱼、人面含鱼，与前述的龙蛇、人首蛇身是否有某种关系？是些什么关系？……凡此种种，都有待进一步的研究探索，这里只是提出一些猜测罢了。
 
-<p style="text-align:center;"> <img title="仰韶遗迹 鱼纹盆" style="width:350px;height:200px;vertical-align:bottom;" src="https://92jnma.bl3302.livefilestore.com/y2pz96vq3SJ73aCXp5Rwm3zzQNpd0yPj_9UB1rK9unK3kj7YoOSfK5M24COmaza-Gk5BS8H_wzTuaxhuGqj3LN0O6rKv1NPHtpm_J46T0aDEF0/%E4%BB%B0%E9%9F%B6%E9%81%97%E8%BF%B9%20%E9%B1%BC%E7%BA%B9%E7%9B%86.png?psid=1" alt="仰韶遗迹 鱼纹盆">
-<img title="红山文化 泥塑神像" style="width:245px;height:300px;" src="https://92jnma.bl3302.livefilestore.com/y2pKQgQhvNJG6t_t2Qh1-498GsaPJxwj-wSY7zOnFpmomxzPXa7glKGxV30aUuiWx7YUJODrcROkviHCQT_oy_9-E5nCBgPCKkB1YTuGL1z_yQ/%E7%BA%A2%E5%B1%B1%E6%96%87%E5%8C%96%20%E6%B3%A5%E5%A1%91%E7%A5%9E%E5%83%8F.png?psid=1" alt="红山文化 泥塑神像"><img title="新石器时代 旋涡纹彩陶盆" style="width:350px;height:200px;vertical-align:bottom;" src="https://92jnma.bl3302.livefilestore.com/y2p1aCMq-lklK4uyswyqcfTqTWYICLNwB2hjfmNq6jO3Ov7rD6COzCmsBG02xGii5T481Ost7yJn4YQpyBLYxDiJ_O6mgFzC-dqjy56JYd-NWQ/%E6%96%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3%20%E6%97%8B%E6%B6%A1%E7%BA%B9%E5%BD%A9%E9%99%B6%E7%9B%86.png?psid=1" alt="新石器时代 旋涡纹彩陶盆"></p>
+<p style="text-align:center;"> <img title="仰韶遗迹 鱼纹盆" style="width:350px;height:200px;vertical-align:bottom;" src="https://8xu9dw.bl3302.livefilestore.com/y2plw7a2P745s_64zV5fgjuBzNO1SX4XXf71-isFITypncrrP8wl0F-24wgH-yz8KUyytM8OYYi1uYIhHsqePQYV-iKi5Fm9qz4XMdqcVC9k9Q/%E4%BB%B0%E9%9F%B6%E9%81%97%E8%BF%B9%20%E9%B1%BC%E7%BA%B9%E7%9B%86.png?psid=1" alt="仰韶遗迹 鱼纹盆">
+<img title="红山文化 泥塑神像" style="width:245px;height:300px;" src="https://8hu9dw.bl3302.livefilestore.com/y2p7C69jt86Xk1QKvAmEkxE-m8A4XjwYT0kUXqKvEFp9opTy8hQ7jDfXpkhUTg8NtJieUR1f6N10dmH2pypkN5MxL6C91Dcf1Yef7Dt9urm13I/%E7%BA%A2%E5%B1%B1%E6%96%87%E5%8C%96%20%E6%B3%A5%E5%A1%91%E7%A5%9E%E5%83%8F.png?psid=1" alt="红山文化 泥塑神像"><img title="新石器时代 旋涡纹彩陶盆" style="width:350px;height:200px;vertical-align:bottom;" src="https://8ru9dw.bl3302.livefilestore.com/y2pmMxBqSPRJWwAkQkRqbOFcWxRgG7w93mDyRt3sglxSTJyIgEeoK7ZSy07wLXnagY-upNsFOuvSv4KZjxX_Qp0eEnspmYbK13nDpLQOf_0WjY/%E6%96%B0%E7%9F%B3%E5%99%A8%E6%97%B6%E4%BB%A3%20%E6%97%8B%E6%B6%A1%E7%BA%B9%E5%BD%A9%E9%99%B6%E7%9B%86.png?psid=1" alt="新石器时代 旋涡纹彩陶盆"></p>
 
 &#8195;&#8195;社会在发展，陶器造型和纹样也在继续变化。和全世界各民族完全一致，占居新石器时代陶器的纹饰走廊的，并非动物纹样，而是抽象的几何纹，即各式各样的曲线、直线、水纹、旋涡纹、三角形、锯齿纹种种。关于这些几何纹的起因和来源，至今仍是世界艺术史之谜，意见和争论很多。例如不久前我国江南印纹陶的学术讨论会上，好些同志认为“早期几何印纹陶的纹样源于生产和生活，……叶脉纹是树叶脉纹的模拟，水波纹是水波的形象化，云雷纹导源于流水的漩涡”，认为这是由于“人们对于器物，在实用之外还要求美观，于是印纹逐渐规整化为图案化，装饰的需要便逐渐成为第一位了”。<innote>【《江南地区印纹陶学术讨论会纪要》，《文物》1979年第1期。】</innote>这种看法，本书是不能同意的，因为，不但把原始社会中“美观”、“装饰”说成已分化了的需要，缺乏证明和论据<innote>【马家窑发现的彩陶人首纹样，看来是“断发文身”的，而“断发文身”并非为“装饰”、“美观”，它首先具有巫术礼仪的重要含义。至于要求器物的“美观”，当然更在人体“美观”之后。】</innote>；而且把几何纹样说成是模拟“树叶”、“水波”，更是简单化了，它没有也不能说明为何恰恰要去模拟树叶、水波。所以，本书以为，下面一种看法似更深刻和正确：“也有同志认为，……更多的几何形图案是同古越族蛇图腾的崇拜有关，如旋涡纹似蛇的盘曲状，水波纹似蛇的爬行状，等等。”（同上引文）
 
-<p style="text-align:center;"> <img title="鱼鹰石斧图" style="width:315px;height:400px;vertical-align:bottom;" src="https://92jnma.bl3302.livefilestore.com/y2pTAIKUQfElUagYTFZU75LwnzijmK-kA-totw3XmgudJhILb9rd6ZXzXpMHKKdxthXMaTBgW0jpk9X9RNBPkWG4NwgyBDC2myNTthGMyoShzg/%E9%B1%BC%E9%B9%B0%E7%9F%B3%E6%96%A7%E5%9B%BE.png?psid=1" alt="鱼鹰石斧图">
-<img title="旋涡纹图案壶" style="width:315px;height:400px;" src="https://92jnma.bl3302.livefilestore.com/y2pVUjVn6McbqEFcQSN6sEOtN0sOWkZPI4foL_rq5PJzij1huP0XamJq8bvA6qvNOMRcfOEbXCBLKLbRiqvIlWmbyW3wW8flUniH0wC19zjiFQ/%E6%97%8B%E6%B6%A1%E7%BA%B9%E5%9B%BE%E6%A1%88%E5%A3%B6.png?psid=1" alt="旋涡纹图案壶"><img title="几何纹陶壶" style="width:315px;height:400px;vertical-align:bottom;" src="https://92jnma.bl3302.livefilestore.com/y2pkXY8y3-njF21Lfy24mmu4sE5TDiq328XQGkS3oD4L-Jnd2X7dem5eV-rXjxJuDmGr0CqxGPJnj7d9fuEndQ_HQhjmwrDXkQ531wbDyPGbqg/%E5%87%A0%E4%BD%95%E7%BA%B9%E9%99%B6%E5%A3%B6.png?psid=1" alt="几何纹陶壶"></p>
+<p style="text-align:center;"> <img title="鱼鹰石斧图" style="width:315px;height:400px;vertical-align:bottom;" src="https://8bu9dw.bl3302.livefilestore.com/y2p1SbWv5nTxuYLZWp_5tJ995wbKrDGJuZu362ba9irj50J-NVJU9epOamK26ErBjBVkn97El9iL1UMYt9Dlal32MOxP_hSQRUWOSaCPetBLKo/%E9%B1%BC%E9%B9%B0%E7%9F%B3%E6%96%A7%E5%9B%BE.png?psid=1" alt="鱼鹰石斧图">
+<img title="旋涡纹图案壶" style="width:315px;height:400px;" src="https://7xu9dw.bl3302.livefilestore.com/y2p9uoCjnVIxcQJZHTKMvaEurmgCYzD0mizVsQGLgp9UVgt7a9Fvs0D4T_6dN6r4nQzF5AbmlYDoD_818bmAyidDTzqGh3koB2Twsd6W-SMF8I/%E6%97%8B%E6%B6%A1%E7%BA%B9%E5%9B%BE%E6%A1%88%E5%A3%B6.png?psid=1" alt="旋涡纹图案壶"><img title="几何纹陶壶" style="width:315px;height:400px;vertical-align:bottom;" src="https://7buvha.bl3302.livefilestore.com/y2pm4ITFVuqm4CjnF4MQCPZkNRRCMdWh46Hy1r4hGT8s8l8smoO1SAX0qEPe5hfwx7ZyU7xLI4aGKdjZngZfCjniA9Qq1cxouax-xjgaD5XLJ8/%E5%87%A0%E4%BD%95%E7%BA%B9%E9%99%B6%E5%A3%B6.png?psid=1" alt="几何纹陶壶"></p>
 
 &#8195;&#8195;其实，仰韶、马家窑的某些几何纹样已比较清晰地表明，它们是由动物形象的写实而逐渐变为抽象化、符号化的。由再现（模拟）到表现（抽象化），由写实到符号化，这正是一个由内容到形式的积淀过程，也正是美作为“有意味的形式”的原始形成过程。即是说，在后世看来似乎只是“美观”、“纹饰”而并无具体含义和内容的抽象几何纹样，其实在当年确是有着非常重要的内容和含义，即具有严重的原始巫术礼仪的图腾含义的。似乎是“纯”形式的几何纹样，对原始人们的感受却远不只是均衡对称的形式快感，而具有复杂的观念、想象的意义在内。巫术礼仪的原始图腾含义不但没有消失，并且由于几何纹饰经常比动物形象更多地布满器身，这种含义反而加强了。可见，抽象几何纹饰并非某种形式美，而是：抽象形式中有内容，感官感受中有观念，如前所说，这正是美和审美在对象和主体两方面的共同特点。这个共同特点便是积淀：内容积淀为形式，想象、观念积淀为感受。这个由动物形象而符号化演变为抽象几何纹的积淀过程，对艺术史和审美意识史是一个非常关键的问题。下面是一些考古学家对这个过程的某些事实描述：
 
@@ -245,7 +245,7 @@ author_uri: http://twitter.com/yuxingzhe
 
 &#8195;&#8195;有如图一、二、三。
 
-<p style="text-align:center;"><img title="鱼纹演化" style="width:400px;height:415px;text-align:center;box-shadow:none;" src="https://92jnma.bl3302.livefilestore.com/y2pt6zrUNkuj0JNgmG4aWUmLk-xpE89cOpacH8bfwj5EBZzQFJu-wZCT4gEzZNe2oiIaLvmXInuC91N8FDlCTsSuEOW5M6HB9rtpdt0YF21Gao/%E9%B1%BC%E7%BA%B9%E6%BC%94%E5%8C%96.png?psid=1" alt="鱼纹演化"></p>
+<p style="text-align:center;"><img title="鱼纹演化" style="width:400px;height:415px;text-align:center;box-shadow:none;" src="https://7hu9dw.bl3302.livefilestore.com/y2pxsnPnfojgEQpM97pSs_iQTIDwG4_IuyKBlhzlY4L8nsa475Altn7CVGEhAo66uo4bVU_1VJ1Ksm6bn0BYhyEws4u2EksWifGrwIpmbTVcYI/%E9%B1%BC%E7%BA%B9%E6%BC%94%E5%8C%96.png?psid=1" alt="鱼纹演化"></p>
 
 <div class="cite" style="font-family:&#x534E;&#x6587;&#x6977;&#x4F53;;">
 <p>鸟纹图案是从写实到写意（表现鸟的几种不同动态）到象征。<innote style="font-family:georgia, 'open sans', sans-serif;">【苏秉琦：《关于仰韶文化的若干问题》，《考古学报》1965年第1期。】</innote></p>
@@ -253,7 +253,7 @@ author_uri: http://twitter.com/yuxingzhe
 
 &#8195;&#8195;有如图四。
 
-<p style="text-align:center;"><img title="鸟纹演化" style="width:500px;height:250px;text-align:center;box-shadow:none;" src="https://92jnma.bl3302.livefilestore.com/y2pztd_XO9EUzVr7BVU2_9MPap3xBlpHqGWfmKikg2EHoruGZpEPPk9k4SMRk0FmABBDIROjO17eYNHNnBXBn9wFm7Ml3pF-wyEFHScTkwjIxw/%E9%B8%9F%E7%BA%B9%E6%BC%94%E5%8C%96.png?psid=1" alt="鸟纹演化"></p>
+<p style="text-align:center;"><img title="鸟纹演化" style="width:500px;height:250px;text-align:center;box-shadow:none;" src="https://7ru9dw.bl3302.livefilestore.com/y2ptBeYDHEdgyh99HSdlZqgDZ_M_m0MqnUFUknCgfQ9tZ-4pQhLy8ToeKRVdlx_elVBjJTygdlV9_t7iK285uzECE5y6LK4wQSIWxqLx7i5GXM/%E9%B8%9F%E7%BA%B9%E6%BC%94%E5%8C%96.png?psid=1" alt="鸟纹演化"></p>
 
 <div class="cite" style="font-family:&#x534E;&#x6587;&#x6977;&#x4F53;;">
 <p>主要的几何形图案花纹可能是由动物图案演化而来的。有代表性的几何纹饰可分成两类：螺旋形纹饰是由鸟纹变化而来的，波浪形的曲线纹和垂幛纹是由蛙纹演变而来的。……这两类几何纹饰划分得这样清楚，大概是当时不同氏族部落的图腾标志。<innote style="font-family:georgia, 'open sans', sans-serif;">【石兴邦：《有关马家窑文化的一些问题》，《考古》1962年第6期。】</innote></p>
@@ -261,7 +261,7 @@ author_uri: http://twitter.com/yuxingzhe
 
 &#8195;&#8195;有如图五、六。
 
-<img title="鸟蛙纹演化" style="width:500px;height:320px;float:right;box-shadow:none;" src="https://92jnma.bl3302.livefilestore.com/y2po8Sdq_trjlRH620byis1WnAaoICdbBm_JU3cLVWnSHEygUCKJhovbF9ryhD-lZ5xMYrXx-11sYH8KQ_MU4HoMJwhSMns4wpDOj6gTQsnGP8/%E9%B8%9F%E8%9B%99%E7%BA%B9%E6%BC%94%E5%8C%96.png?psid=1" alt="鸟蛙纹演化">
+<img title="鸟蛙纹演化" style="width:500px;height:320px;float:right;box-shadow:none;" src="https://7bu9dw.bl3302.livefilestore.com/y2p5EHIhdd9hg_E8NYOGFPREeVWIdSVf4vsvS7-osDORKaghGRAXShv5E9h8IYj2a0jeCFzrAWclFn924byLDlgarYVmkUrMvcVzgbozCgveBM/%E9%B8%9F%E8%9B%99%E7%BA%B9%E6%BC%94%E5%8C%96.png?psid=1" alt="鸟蛙纹演化">
 
 <div class="cite" style="font-family:&#x534E;&#x6587;&#x6977;&#x4F53;;">
 <p>&#8195;&#8195;在原始社会时期，陶器纹饰不单是装饰艺术，而且也是族的共同体在物质文化上的一种表现。……彩陶纹饰是一定的人们共同体的标志，它在绝大多数场合下是作为氏族图腾或其他崇拜的标志而存在的。</p>
@@ -279,7 +279,7 @@ author_uri: http://twitter.com/yuxingzhe
 
 &#8195;&#8195;可见图七。
 
-<img title="不同时期鸟蛙纹演化" style="width:500px;height:230px;float:right;box-shadow:none;" src="https://92jnma.bl3302.livefilestore.com/y2p_CV09MUifUF1xZEGBn8zuib8SWY0Rp8bqL7EwqFafZIH_wXKVFRGzK7_iQ9TGAAFlBekQvxExg0m7K3QexgJUBhlwOqnJPSRQeam30k4mCg/%E4%B8%8D%E5%90%8C%E6%97%B6%E6%9C%9F%E9%B8%9F%E8%9B%99%E7%BA%B9%E6%BC%94%E5%8C%96.png?psid=1" alt="不同时期鸟蛙纹演化">
+<img title="不同时期鸟蛙纹演化" style="width:500px;height:230px;float:right;box-shadow:none;" src="https://9rsiaw.bl3302.livefilestore.com/y2pst5cEZBoL_dK_ybyEXVUQevNdThqe9n_Iz7vKppgkUvTO1K1rXC0mptOYF2QOXFCqJhHSLjq9Gpp3ngeP7dMCGwcF9DpXPGmKjDF_PPnmwk/%E4%B8%8D%E5%90%8C%E6%97%B6%E6%9C%9F%E9%B8%9F%E8%9B%99%E7%BA%B9%E6%BC%94%E5%8C%96.png?psid=1" alt="不同时期鸟蛙纹演化">
 
 &#8195;&#8195;陶器纹饰的演化是一个非常复杂而困难的科学问题，尚需深入探索<innote>【例如，上述被称作“蛙”的图像是否是“龟”？与古文献中“巨龟”、“神龟”有否关系？等等，便尚待研究。】</innote>。但尽管上述具体演变过程、顺序、意义不一定都准确可靠，尽管带有很大的推测猜想的成份和甚至错误的具体结论，但是，由写实的、生动的、多样化的动物形象演化成抽象的、符号的、规范化的几何纹饰这一总的趋向和规律，作为科学假说，已有成立的足够根据。同时，这些从动物形象到几何图案的陶器纹饰并不是纯形式的“装饰”、“审美”，而具有氏族图腾的神圣含义，似也可成立。
 
@@ -291,9 +291,9 @@ author_uri: http://twitter.com/yuxingzhe
 
 &#8195;&#8195;与纹饰平行，陶器造型是另一个饶有趣味的课题。例如，大汶口文化、龙山文化中的陶鬶的造型似鸟状，是否与东方群体的鸟图腾有关呢？……如此等等。这里只提与中国民族似有特殊关系的两点。一是大汶口的陶猪，一是三足器。前者写实，从河姆渡到大汶口，猪的驯化饲养是中国远古民族一大特征，它标志定居早和精耕细作早。七千五百年前的河南裴李岗遗址即有猪骨和陶塑的猪，仰韶晚期已用猪头随葬。猪不是生产资料而是生活资料。迄至今日，和世界上好些民族不同，猪肉远远超过牛羊肉，仍为占我国人口绝大多数的汉族的主要肉食，它确乎源远流长。大汶口陶猪形象是这个民族的远古重要标记。然而，对审美—艺术更为重要的是三足器问题，这也是中国民族的珍爱。它的形象并非模拟或写实（动物多四足，鸟类则两足），而是来源于生活实用（如便于烧火）基础上的形式创造，其由三足造型带来的稳定、坚实（比两足）、简洁、刚健（比四足）等形式感和独特形象，具有高度的审美功能和意义。它终于发展为后世主要礼器（宗教用具）的“鼎”。
 
-<p style="text-align:center;"> <img title="陶猪" style="width:315px;height:400px;vertical-align:bottom;" src="https://92jnma.bl3302.livefilestore.com/y2ptVoipDKB2XvSBaQx6Rz_4Nml-IrRR9V-2k2wHH3x9QccOtWAHB2T6bvopIrIGPjdEIvjZCNRVpp1ieJtxXeq5NzCXhqEQBiBz-zwJ9QZ-TI/%E9%99%B6%E7%8C%AA.png?psid=1" alt="陶猪">
-<img title="陶鬲" style="width:315px;height:400px;" src="https://92jnma.bl3302.livefilestore.com/y2pxlDNW-Q5_0p7iY7-V02297zF5kwraj-X26Q-pfVJlDTcX4LNWTI7UBb8mYH9lSEXz_j4pum-0qcHuWxjHhh5BoNwW-I3ZaHa5FRyeex0Muw/%E9%99%B6%E9%AC%B2.png?psid=1" alt="陶鬲"><img title="三角纹彩陶壶" style="width:315px;height:400px;vertical-align:bottom;" src="https://92jnma.bl3302.livefilestore.com/y2p50kyeDPUZb674a6EpFYaSAaGS7_Q6i3lB-MeCquRUlWEbXYy2jCiXARwOrWWmlYVAkKpFGV1I5tFXPqOTH_KJk0uBe18XDfF-XozaeuDCqA/%E4%B8%89%E8%A7%92%E7%BA%B9%E5%BD%A9%E9%99%B6%E5%A3%B6.png?psid=1" alt="三角纹彩陶壶"></p>
+<p style="text-align:center;"> <img title="陶猪" style="width:315px;height:400px;vertical-align:bottom;" src="https://8xsiaw.bl3302.livefilestore.com/y2p5olfBjuWjUmbfOae9NgRjkXS01nhjttWuvLCMOU9vpT0E-yd-YANJ1dQoQrf_jcvJEGz1fSOGMGjJysoZ4zm30w1taHnaaDZpvQj_GDDMnk/%E9%99%B6%E7%8C%AA.png?psid=1" alt="陶猪">
+<img title="陶鬲" style="width:315px;height:400px;" src="https://8hsiaw.bl3302.livefilestore.com/y2ptso6fa-Z0WYEbN-PkXAnHgY7IXrxWCQUzOPX7SPtKNvx1zREeT40YL4rTZQVf8k8y4LezIAZZ7H9f__kmOV_H4CDl5jriRvaqZhKqYJgQJo/%E9%99%B6%E9%AC%B2.png?psid=1" alt="陶鬲"><img title="三角纹彩陶壶" style="width:315px;height:400px;vertical-align:bottom;" src="https://8bsiaw.bl3302.livefilestore.com/y2pvWK3uqfg9_NcjwqyBEKJXZpa2MQGPiuwMTg6LICRP9EaWfPhtQtlTjFNzJkgBpc3S-CKwDkG0NYkFBkeVRed_UPXE4WiHSMvKfXCC1csxUQ/%E4%B8%89%E8%A7%92%E7%BA%B9%E5%BD%A9%E9%99%B6%E5%A3%B6.png?psid=1" alt="三角纹彩陶壶"></p>
 
 &#8195;&#8195;因为形式一经摆脱模拟、写实，便使自己取得了独立的性格和前进的道路，它自身的规律和要求便日益起着重要作用，而影响人们的感受和观念。后者又反过来促进前者的发展，使形式的规律更自由地展现，使线的特性更充分地发挥。三足器的造型和陶器纹饰的变化都如此。然而尽管如此，陶器纹饰的演变发展又仍然在根本上制约于社会结构和原始意识形态的发展变化。从半坡、庙底沟、马家窑到半山、马厂、齐家（西面）和大汶口晚期、山东龙山（东面）陶器纹饰尽管变化繁多，花样不一，非常复杂，难以概括，但又有一个总的趋势和特征却似乎可以肯定，这就是虽同属抽象的几何纹，新石器时代晚期比早期要远为神秘、恐怖。前期比较生动、活泼、自由、舒畅、开放、流动，后期则更为僵硬、严峻、静止、封闭、惊畏、威吓。具体表现在形式上，后期更明显是直线压倒曲线、封闭重于连续，弧形、波纹减少，直线、三角凸出，圆点弧角让位于直角方块……，即使是同样的锯齿、三角纹<innote>【锯齿纹、三角纹是否与“山”的观念有关（《山海经》中多山，山与男性生殖器崇拜可能有关），方格形是否与土地或死亡观念有关，圆形是否与天体运行（周而复始）观念有关，都是尚待探究的问题。】</innote>，半坡、庙底沟不同于龙山，马家窑也不同于半山、马厂……。像大汶口晚期或山东龙山那大而尖的空心直线三角形，或倒或立，机械地、静止状态地占据了陶器外表大量面积和主要位置，显示出一种神秘怪异的意味。红黑相间的锯齿纹常常是半山—马厂彩陶的基本纹饰之一，却未见于马家窑彩陶。神农世的相对和平稳定时期已成过去，社会发展进入了以残酷的大规模的战争、掠夺、杀戮为基本特征的皇帝、尧舜时代。母系氏族社会让位于父家长制，并日益向早期奴隶制的方向前进。剥削、压迫、社会斗争在激剧增长，在陶器纹饰中，前期那种种生态盎然、稚气可掬、婉转曲折、流畅自然的写实的几何的纹饰逐渐消失。在后期的几何纹饰中，使人清晰地感受到权威统治力量的分外加重。至于著名的山东龙山文化晚期的日照石锛纹样<innote>【此外，巫鸿《一组早期的玉石雕刻》（《美术研究》1979年第1期）提出的那些玉雕形象纹饰，也应属于这一特定时期，特别是鹰鸟图饰，明显与殷商图腾有关。】</innote>，以及山东出土的陶器纹饰，则更是极为明显地与殷商铜器靠近，性质在开始起根本变化了。它们作了青铜纹饰的前导。
 
-<p style="text-align:center;"><img title="兽面纹拓片" style="width:400px;height:215px;" src="https://92jnma.bl3302.livefilestore.com/y2phCQKr3K3nF09iWTAcW1Q9mAFgUjS33jCSNBvVEYwc3UNEZ34T9zSedLD26M_TtJd4FeDkUfyH-gXA4JhR__J6edoUl3Ud2k7mYFgX2ucYjw/%E5%85%BD%E9%9D%A2%E7%BA%B9%E6%8B%93%E7%89%87.png?psid=1" alt="兽面纹拓片"></p>
+<p style="text-align:center;"><img title="兽面纹拓片" style="width:400px;height:215px;" src="https://8rsiaw.bl3302.livefilestore.com/y2p_KHjvoQaFShfP-XLRvE2zv7v_Rm6WH8_v4K5ekBOmPlYHTn3U1pTYWHgEvcw5Jr_OvoNe0EvnqOGd5CIRd4HK68m3FpDooVWC5Lzf3GmLCA/%E5%85%BD%E9%9D%A2%E7%BA%B9%E6%8B%93%E7%89%87.png?psid=1" alt="兽面纹拓片"></p>
