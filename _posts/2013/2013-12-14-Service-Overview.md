@@ -34,8 +34,8 @@ AutoTrak<sup>G3</sup>包括三个主要组件(AutoTrak<sup>G3</sup>导向头、O
 
 #### OnTrak 随钻自然伽马和电阻率测井 ####
 
-<a target="_blank" href="https://kdccyq.blu.livefilestore.com/y2pCGOmk__FjVMzLJ9i4qmd23yqCsqbZvBA7jwZX1WT9eF5WVUay4Qt0fi_KshmnM35B8jgWnfilcQcSNOv6UL1jreYtuyq9W7chKGzf6g_FRk/OnTrak.png?psid=1">
-<img src="https://kdccyq.blu.livefilestore.com/y2pCGOmk__FjVMzLJ9i4qmd23yqCsqbZvBA7jwZX1WT9eF5WVUay4Qt0fi_KshmnM35B8jgWnfilcQcSNOv6UL1jreYtuyq9W7chKGzf6g_FRk/OnTrak.png?psid=1" alt="OnTrak" title="OnTrak" style = "float:right;width:200px;height:461px">
+<a target="_blank" href="https://onedrive.live.com/embed?cid=362FE91176C7F23F&resid=362FE91176C7F23F%212237&authkey=AKCcwX0KA39wIyQ">
+<img src="https://onedrive.live.com/embed?cid=362FE91176C7F23F&resid=362FE91176C7F23F%212237&authkey=AKCcwX0KA39wIyQ" alt="OnTrak" title="OnTrak" style = "float:right;width:200px;height:461px">
 
 从2002年的AutoTrak 2.5研发开始，作为传感器部分的OnTrak传感器短节与导向模块(Steering Unit)分离开始进行单独出售，并在MWD/LWD中提供独立的测井服务。OnTrak<sup>TM</sup> MWD/LWD测井系统实行全模块化设计(如图所示)，井下工具组合由两部分——双向通讯与供电系统BCPM和传感器短节——组成，它是所有地层评价测量的基础平台。
 
