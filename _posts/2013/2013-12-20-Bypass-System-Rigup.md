@@ -16,8 +16,8 @@ author_uri: http://twitter.com/yuxingzhe
 
 这时建议在喷射方向上安装一个盲堵，考虑到盲堵更不容易发生磨损并且更加容易进行更换，可以让高压泥浆射向盲堵。然而这会导致一个问题，那就是射流冲击盲堵后会形成局部高压从而消耗掉很大一部分的泥浆能量。经验表明进行50次信号传输后，盲堵的磨损程度不超过1mm(0.039in)。
 
-<a target="_blank" href="https://j9ewjg.blu.livefilestore.com/y2pA_1-dsysmnShbwemt-aBhWiDPYvN9U19V7Si2IH7F2JMahST1S3VopxYA8-qTkyN5zVoOk3QuWLGWfH8b_NOgujc80eb87jZe1YhieEc26c/Schematic%20Drawing%20of%20the%20Return-Flow%20with%20T%20Piece.png?psid=1">
-<img class="aligncenter" title="Schematic Drawing of the Return-Flow with T Piece" style="width:450px;height:200px;" src="https://j9ewjg.blu.livefilestore.com/y2pA_1-dsysmnShbwemt-aBhWiDPYvN9U19V7Si2IH7F2JMahST1S3VopxYA8-qTkyN5zVoOk3QuWLGWfH8b_NOgujc80eb87jZe1YhieEc26c/Schematic%20Drawing%20of%20the%20Return-Flow%20with%20T%20Piece.png?psid=1" alt="Schematic Drawing of the Return-Flow with T Piece"></a>
+<a target="_blank" href="https://jtewjg.bl3302.livefilestore.com/y2pROV5CnGyc0bnQLZ1_WkSzmUtkETJop4OWQKx3piXTos8Xs0wCQUNYHRhnvkj9mmTfWN3776zsBO78kVHRPKOWZmccr6RmnZPhIKoYcMheKw/Schematic%20Drawing%20of%20the%20Return-Flow%20with%20T%20Piece.png?psid=1">
+<img class="aligncenter" title="Schematic Drawing of the Return-Flow with T Piece" style="width:450px;height:200px;" src="https://jtewjg.bl3302.livefilestore.com/y2pROV5CnGyc0bnQLZ1_WkSzmUtkETJop4OWQKx3piXTos8Xs0wCQUNYHRhnvkj9mmTfWN3776zsBO78kVHRPKOWZmccr6RmnZPhIKoYcMheKw/Schematic%20Drawing%20of%20the%20Return-Flow%20with%20T%20Piece.png?psid=1" alt="Schematic Drawing of the Return-Flow with T Piece"></a>
 
 执行器在安装好所有部件后被整合在一个铁篮中运送到钻井现场，不需要现场人员进行任何组装操作。现场服务人员只需要将执行器铁篮安装到井架上靠近立管的合适位置上，与高压管汇进行连接，并将低压管汇回接到泥浆回流系统中。
 
@@ -28,14 +28,14 @@ author_uri: http://twitter.com/yuxingzhe
 <ol style="margin-left:50px;">
 <li>放置好旁路执行器铁篮后，使用高压旋转接头(chicksan tubing)将立管与执行器入口相连；使用高压旋转接头或高压柔性软管将执行器出口连接到回流管汇上的任意一个位置或者直接连接到泥浆罐上。</li>
 
-<a target="_blank" href="https://j9ewjg.blu.livefilestore.com/y2pN85oyOo0qpgRDQMVMjXA9WX73AHIytLSMgWhBfiT3Qimmc6fmGdiN0Zb1nccWEOSDEvXn49Wi_S_WqTi7IiA3_JvstjHE7Zrm46IeqhoEfk/ABPA%20connection%20for%20Rigging%20Up.jpg?psid=1">
-<img class="aligncenter" title="ABPA connection for Rigging Up" style="width:500px;height:300px;" src="https://j9ewjg.blu.livefilestore.com/y2pN85oyOo0qpgRDQMVMjXA9WX73AHIytLSMgWhBfiT3Qimmc6fmGdiN0Zb1nccWEOSDEvXn49Wi_S_WqTi7IiA3_JvstjHE7Zrm46IeqhoEfk/ABPA%20connection%20for%20Rigging%20Up.jpg?psid=1" alt="ABPA connection for Rigging Up"></a>
+<a target="_blank" href="https://ldeprw.bl3302.livefilestore.com/y2pOCQS4H-avq2kXz0DBmW1etcrR8y9B8nyJSmf217OqcPu_VOsnDxXwdcRqUtKSABYerbOacnOKCdnfs1U6RAUXoWW_kfJy7TI74q10UUZy_A/ABPA%20connection%20for%20Rigging%20Up.jpg?psid=1">
+<img class="aligncenter" title="ABPA connection for Rigging Up" style="width:500px;height:300px;" src="https://ldeprw.bl3302.livefilestore.com/y2pOCQS4H-avq2kXz0DBmW1etcrR8y9B8nyJSmf217OqcPu_VOsnDxXwdcRqUtKSABYerbOacnOKCdnfs1U6RAUXoWW_kfJy7TI74q10UUZy_A/ABPA%20connection%20for%20Rigging%20Up.jpg?psid=1" alt="ABPA connection for Rigging Up"></a>
 
 <li>确保旁路控制盒(BPC)处于关闭状态，并将BPC的加农接头(cannon connection)与8m(26.3in)短转换电缆相连从安全区域接出司钻房。</li>
 <li>将短电缆的蜥蜴尾接头端(Saurio end)与下图中的电缆鼓(75m(246ft)长)连接，连接时确保电缆鼓的朝向BPC，而自由接头端(蜥蜴尾接头端)则朝向执行器方向。蜥蜴尾接头上有一个留挂螺栓(a retaining bolt)，可以使用3mm(0.118in)的六角扳手进行松紧操作。</li>
 
-<a target="_blank" href="https://j9ewjg.blu.livefilestore.com/y2pTYSDKIzZdZG65-c4w7DclID_olqMXQCkTp0OqFHXIpAfwRLFb6SGuxidc4irhyptkAAEzEFMPacSzzn52q7AWyRy9sQSpvxM6oU3rK52GFI/Cable%20Drum%20and%20Saurio%20Connector.jpg?psid=1">
-<img class="aligncenter" title="Cable Drum and Saurio Connector" style="width:330px;height:250px;" src="https://j9ewjg.blu.livefilestore.com/y2pTYSDKIzZdZG65-c4w7DclID_olqMXQCkTp0OqFHXIpAfwRLFb6SGuxidc4irhyptkAAEzEFMPacSzzn52q7AWyRy9sQSpvxM6oU3rK52GFI/Cable%20Drum%20and%20Saurio%20Connector.jpg?psid=1" alt="Cable Drum and Saurio Connector"></a>
+<a target="_blank" href="https://lteprw.bl3302.livefilestore.com/y2pl8m9psxHM03cKvu_fnB1hPJ-t6lv3fUzt2uxZuewkvGWdTcOkaHOkOYt-l1tf6FlpnJAZZc37mCr0l7UcZUwW6biHrXKiMGL-RiB8XWcSkY/Cable%20Drum%20and%20Saurio%20Connector.jpg?psid=1">
+<img class="aligncenter" title="Cable Drum and Saurio Connector" style="width:330px;height:250px;" src="https://lteprw.bl3302.livefilestore.com/y2pl8m9psxHM03cKvu_fnB1hPJ-t6lv3fUzt2uxZuewkvGWdTcOkaHOkOYt-l1tf6FlpnJAZZc37mCr0l7UcZUwW6biHrXKiMGL-RiB8XWcSkY/Cable%20Drum%20and%20Saurio%20Connector.jpg?psid=1" alt="Cable Drum and Saurio Connector"></a>
 
 >注意：如果75m(246ft)长的电缆鼓不够长，可以将几个电缆鼓连接在一起来延长电缆的长度。
 <li>铁篮中的维护装置可去除压缩空气中的水滴，并调节供气压力，同时还能通过滴油管对系统进行润滑(a drip feed oil supply)。在安装维护装置时应使得润滑油供液瓶与空气过滤器均朝向下方。</li>
@@ -89,8 +89,8 @@ author_uri: http://twitter.com/yuxingzhe
 <li>安装盲堵(P/N N900004237)并使用大锤拧紧。</li>
 <li>确保所有连接处都已拧紧并在正常工作压力下进行压力测试(请遵守钻井作业规程进行)。注意：测试时请与系统保持安全距离！</li></ol>
 
-<a target="_blank" href="https://j9ewjg.blu.livefilestore.com/y2pRtbwkx-M3_lNuHUVT5dD7d6gk5cxTf-BkLEUrf69t-kZybcA0FWJQbEmaw1rXw5oCyB-N3SfYAkDXwK0lK9p0XHlmTWuKdvBw-Jd1BJxfQM/Changing%20the%20T-Piece.jpg?psid=1">
-<img class="aligncenter" title="Changing the T-Piece" style="width:500px;height:640px;" src="https://j9ewjg.blu.livefilestore.com/y2pRtbwkx-M3_lNuHUVT5dD7d6gk5cxTf-BkLEUrf69t-kZybcA0FWJQbEmaw1rXw5oCyB-N3SfYAkDXwK0lK9p0XHlmTWuKdvBw-Jd1BJxfQM/Changing%20the%20T-Piece.jpg?psid=1" alt="Changing the T-Piece"></a>
+<a target="_blank" href="https://l9eprw.bl3302.livefilestore.com/y2pwyWg8iDhF63QkYhmkRXDnbdgyV7Vzdu7i40eM6yU6tOJzsyMit8Gj96rbPTPfUGnDN3qTdhWRrsgUoneyuGPv4Mnbuu2YN6gdJ6jGwAxwQs/Changing%20the%20T-Piece.jpg?psid=1">
+<img class="aligncenter" title="Changing the T-Piece" style="width:500px;height:640px;" src="https://l9eprw.bl3302.livefilestore.com/y2pwyWg8iDhF63QkYhmkRXDnbdgyV7Vzdu7i40eM6yU6tOJzsyMit8Gj96rbPTPfUGnDN3qTdhWRrsgUoneyuGPv4Mnbuu2YN6gdJ6jGwAxwQs/Changing%20the%20T-Piece.jpg?psid=1" alt="Changing the T-Piece"></a>
 
 #### 操作限制(Operational Limits) ####
 

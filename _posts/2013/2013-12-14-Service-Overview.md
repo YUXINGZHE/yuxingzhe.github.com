@@ -37,8 +37,6 @@ AutoTrak<sup>G3</sup>包括三个主要组件(AutoTrak<sup>G3</sup>导向头、O
 <a target="_blank" href="https://knccyq.bl3302.livefilestore.com/y2pdMcWCfQXiS38rzjxBEIO9Y3rIH6IPQNGZQfOuAoON1wiS0z2q7N4DwcWzFjnVKVCLSF0qOpaDfMgn943JFMcQCtj6FI9iWDKLV1bpdzETdA/OnTrak.png?psid=1">
 <img src="https://knccyq.bl3302.livefilestore.com/y2pdMcWCfQXiS38rzjxBEIO9Y3rIH6IPQNGZQfOuAoON1wiS0z2q7N4DwcWzFjnVKVCLSF0qOpaDfMgn943JFMcQCtj6FI9iWDKLV1bpdzETdA/OnTrak.png?psid=1" alt="OnTrak" title="OnTrak" style = "float:right;width:200px;height:461px">
 
-<iframe src="https://onedrive.live.com/embed?cid=362FE91176C7F23F&resid=362FE91176C7F23F%212237&authkey=AKCcwX0KA39wIyQ" width="200" height="461" frameborder="0" scrolling="no" float="right"></iframe>
-
 从2002年的AutoTrak 2.5研发开始，作为传感器部分的OnTrak传感器短节与导向模块(Steering Unit)分离开始进行单独出售，并在MWD/LWD中提供独立的测井服务。OnTrak<sup>TM</sup> MWD/LWD测井系统实行全模块化设计(如图所示)，井下工具组合由两部分——双向通讯与供电系统BCPM和传感器短节——组成，它是所有地层评价测量的基础平台。
 
 在BCPM中有一套涡轮发电装置以及脉冲发生器，主要负责下部传感器的供电以及井下与地面之间数据的通讯。而OnTrak传感器短节则包含了多频传播电阻率传感器MPR(Multiple Propagation Resistivity)、方位与伽马射线传感器(DualAzimuth & Gamma Ray)、振动和粘滑检测单元(Vibration & Stick-Slipdiagnostic)、环空与钻杆内压力传感器(Annular and drillstring pressuresensors)，以及控制与储存模块(Master and memory module)。

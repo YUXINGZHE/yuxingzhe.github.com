@@ -16,15 +16,15 @@ author_uri: http://twitter.com/yuxingzhe
 
 高频工具面测量技术(High frequency tool-face determination)将伽马测量数据分入8个相互分离的工具面扇区内，这样能提供更为精确的地质倾角与方位的信息。用户可以选择上下左右四个区域来决定实时数据的传输模式。
 
-<a target="_blank" href="https://lncvgg.blu.livefilestore.com/y2prbAZZzcOWGaeSYFxuSStYHaCCJkUAqyq5qMSBYzqD4MeYjtuJ0jD4Lo0ff7-082c35MUeoxycuqGa09I-YWmergizOWlA9kbyal_WDjxA8c/ToolfaceSectors.png?psid=1">
-<img class="aligncenter" title="Sector schematic illustrating orientation of 8 tool-face sectors; color scheme indicates quadrants available for real-time data transmission" style="width:400px;height:380px;" src="https://lncvgg.blu.livefilestore.com/y2prbAZZzcOWGaeSYFxuSStYHaCCJkUAqyq5qMSBYzqD4MeYjtuJ0jD4Lo0ff7-082c35MUeoxycuqGa09I-YWmergizOWlA9kbyal_WDjxA8c/ToolfaceSectors.png?psid=1" alt="Sector schematic illustrating orientation of 8 tool-face sectors; color scheme indicates quadrants available for real-time data transmission">
+<a target="_blank" href="https://jtd6pq.bl3302.livefilestore.com/y2pMYk1heCz1N7dXyORx71NcRYTekz2q2m7PbBcEkNDToq12jvpC8_OHpeo2r5Kax2nj3_71mJw8Z0KARHiApeAKdNkRFe2IIhq2DdqmqYEcYQ/ToolfaceSectors.png?psid=1">
+<img class="aligncenter" title="Sector schematic illustrating orientation of 8 tool-face sectors; color scheme indicates quadrants available for real-time data transmission" style="width:400px;height:380px;" src="https://jtd6pq.bl3302.livefilestore.com/y2pMYk1heCz1N7dXyORx71NcRYTekz2q2m7PbBcEkNDToq12jvpC8_OHpeo2r5Kax2nj3_71mJw8Z0KARHiApeAKdNkRFe2IIhq2DdqmqYEcYQ/ToolfaceSectors.png?psid=1" alt="Sector schematic illustrating orientation of 8 tool-face sectors; color scheme indicates quadrants available for real-time data transmission">
 
 当接头旋转时，<u>每个扇区会累记25s内所检测到的信号数量，定向探头测得的工具面值每16ms更新一次(60Hz)</u>。而处于扇区边界处的信号则会根据它们与各扇区边界和工具面的相对距离进行分类。每个扇区所接收到的信号总数除以探测器在各扇区停留的时间就得到了相应扇区每秒钟所接收到的信号数量(cps)。
 
 在接头上相隔180°安装着两个相互独立的闪烁计数器，这样不但可以提高计数精度，而且还能保证在其中一个发生故障后，另外一个仍能继续完成测量任务，从而提高了系统的可靠性。当转速高达400RPM时探测器仍能十分精确地分辨出各相邻扇区的边界。
 
-<a target="_blank" href="https://lncvgg.blu.livefilestore.com/y2pZhY1vn6RB4li6EsFwExxKPI-x7scbRr96lw5GvbBpJQ3H45sarKE9qZ0lY1q6C7XCeLgZHMJR6ejTE9Crjj5qt5PcC1WUFQFCGMvPKXVTr8/SectoringPrincipal.png?psid=1">
-<img class="aligncenter" title="Schematic illustrating principle of sectoring: red marksrepresenting count events, yellow ticks representing tool face measurements" style="width:400px;height:380px;" src="https://lncvgg.blu.livefilestore.com/y2pZhY1vn6RB4li6EsFwExxKPI-x7scbRr96lw5GvbBpJQ3H45sarKE9qZ0lY1q6C7XCeLgZHMJR6ejTE9Crjj5qt5PcC1WUFQFCGMvPKXVTr8/SectoringPrincipal.png?psid=1" alt="Schematic illustrating principle of sectoring: red marks representing count events, yellow ticks representing tool face measurements">
+<a target="_blank" href="https://l9dlaw.bl3302.livefilestore.com/y2pYf5W9Uf9Pg_L6-jydli67B0lDy50gzzJjeip52nFeGK3DUCsTs7pTmrke9sM4ijoCEHaxCgvpl2kAwhWE-XZ3Fd__ZLiYtqm41swTLtxO8A/SectoringPrincipal.png?psid=1">
+<img class="aligncenter" title="Schematic illustrating principle of sectoring: red marksrepresenting count events, yellow ticks representing tool face measurements" style="width:400px;height:380px;" src="https://l9dlaw.bl3302.livefilestore.com/y2pYf5W9Uf9Pg_L6-jydli67B0lDy50gzzJjeip52nFeGK3DUCsTs7pTmrke9sM4ijoCEHaxCgvpl2kAwhWE-XZ3Fd__ZLiYtqm41swTLtxO8A/SectoringPrincipal.png?psid=1" alt="Schematic illustrating principle of sectoring: red marks representing count events, yellow ticks representing tool face measurements">
 
 伽马数据累记原则如下：
 
@@ -415,25 +415,25 @@ author_uri: http://twitter.com/yuxingzhe
 
 下图中给出了一个经典的地质导向案例，其中两条伽马曲线分别代表上下四分区所测得的数据，从这两条曲线的变化趋势可以看出钻头正穿过泥质砂岩进入到较为干净的地层中(exit from a shaly sand into a cleaner formation)。
 
-<a target="_blank" href="https://lncvgg.blu.livefilestore.com/y2pca8rYW52s4O-_YktIVUPF6WK86WM1jLVGflhhINHhHecnyILKR9-YPQhmIZRsYxCFBGTjdpdE5MQMax8vcclsBYocg7S6XBXZ2A4iIKVqYo/WellpathCrossingaCleanerLayer.jpg?psid=1">
+<a target="_blank" href="https://ltdlaw.bl3302.livefilestore.com/y2pwxULSPKHGN4XqVin3k5uXuuqXwiQDSyWZ9ScNAcdhO5DsoLBkIN6LbiNon3lHYXSoV7RjMotiCGKlR2oBczBSMbme97m8LyR5dmdj9_fwYc/WellpathCrossingaCleanerLayer.jpg?psid=1">
 <img class="aligncenter" title="Wellpath crossing into a cleaner layer: First detection at low-side and approx. 5m later by the highside real-time gamma measurement" style="width:450px;height:300px;"
-src="https://lncvgg.blu.livefilestore.com/y2pca8rYW52s4O-_YktIVUPF6WK86WM1jLVGflhhINHhHecnyILKR9-YPQhmIZRsYxCFBGTjdpdE5MQMax8vcclsBYocg7S6XBXZ2A4iIKVqYo/WellpathCrossingaCleanerLayer.jpg?psid=1" alt="Wellpath crossing into a cleaner layer: First detection at low-side and approx. 5m later by the highside real-time gamma measurement">
+src="https://ltdlaw.bl3302.livefilestore.com/y2pwxULSPKHGN4XqVin3k5uXuuqXwiQDSyWZ9ScNAcdhO5DsoLBkIN6LbiNon3lHYXSoV7RjMotiCGKlR2oBczBSMbme97m8LyR5dmdj9_fwYc/WellpathCrossingaCleanerLayer.jpg?psid=1" alt="Wellpath crossing into a cleaner layer: First detection at low-side and approx. 5m later by the highside real-time gamma measurement">
 
 在能获取所有4个分区的伽马数据的情况下，也可以使用RigLink 2.4 U2软件(或更高版本的应用程序)绘制出实时的变化图，如下所示。
 
-<a target="_blank" href="https://lncvgg.blu.livefilestore.com/y2p95dz2uN-4wr9OO8iPyl7gDbGh_1b5T7STNtNyu6HT_MORTRLQk0JvlarXyur95MVOxFtFr-2ZB_F2wSqeEe45UO33lZhkpItE2zEX1de-ww/RigLink.jpg?psid=1">
-<img class="aligncenter" title="User configurable RigLink display screen illustrating 4 quadrant real-time gamma data as log curves in track 1 and as an image plot in track 5" style="width:580px;height:440px;" src="https://lncvgg.blu.livefilestore.com/y2p95dz2uN-4wr9OO8iPyl7gDbGh_1b5T7STNtNyu6HT_MORTRLQk0JvlarXyur95MVOxFtFr-2ZB_F2wSqeEe45UO33lZhkpItE2zEX1de-ww/RigLink.jpg?psid=1" alt="User configurable RigLink display screen illustrating 4 quadrant real-time gamma data as log curves in track 1 and as an image plot in track 5">
+<a target="_blank" href="https://lddlaw.bl3302.livefilestore.com/y2pOH1oXWa9vmxIA6Kns1LbpzQJusgSpKdsECdNZBYGRRTQqfBdJa8QsPvVypHXMQtNIXr5gg1CvJsWhuFpBAMJi_eVI0d6ZoxaP9eig9Jh40g/RigLink.jpg?psid=1">
+<img class="aligncenter" title="User configurable RigLink display screen illustrating 4 quadrant real-time gamma data as log curves in track 1 and as an image plot in track 5" style="width:580px;height:440px;" src="https://lddlaw.bl3302.livefilestore.com/y2pOH1oXWa9vmxIA6Kns1LbpzQJusgSpKdsECdNZBYGRRTQqfBdJa8QsPvVypHXMQtNIXr5gg1CvJsWhuFpBAMJi_eVI0d6ZoxaP9eig9Jh40g/RigLink.jpg?psid=1" alt="User configurable RigLink display screen illustrating 4 quadrant real-time gamma data as log curves in track 1 and as an image plot in track 5">
 
 ##### 后处理(Post processing) #####
 
 高级伽马存储器中的数据经过MemProc处理后可以导出到ASCII格式或xtf格式的文件中。图形包Case可如下图那样绘制静态彩色图像(从xtf文件输入原始数据)。其中纵向与横向的内插值均可由用户自行定义。
 
-<a target="_blank" href="https://lncvgg.blu.livefilestore.com/y2pdswWcGDd3MwHXSU2jXzRpBOhS_zYC0BG8kPwbLUW6LaG695wOqOmNlCOF7iwDhZVgKWFYBmf3qO8h7K8k4Hq0FsGi817i8ZWRWuznVzTPFM/SectoredGammaData.jpg?psid=1">
-<img class="aligncenter" title="Sectored gamma data: Real-time transmitted data plotted as curves (track 1) or images (track 3) allow immediate geosteering decisions; high density memory data (track 2) for enhanced structural analysis" style="width:290px;height:490px;" src="https://lncvgg.blu.livefilestore.com/y2pdswWcGDd3MwHXSU2jXzRpBOhS_zYC0BG8kPwbLUW6LaG695wOqOmNlCOF7iwDhZVgKWFYBmf3qO8h7K8k4Hq0FsGi817i8ZWRWuznVzTPFM/SectoredGammaData.jpg?psid=1" alt="Sectored gamma data: Real-time transmitted data plotted as curves (track 1) or images (track 3) allow immediate geosteering decisions; high density memory data (track 2) for enhanced structural analysis">
+<a target="_blank" href="https://lndlaw.bl3302.livefilestore.com/y2pHRIpNvpua2H8iht-xlTauaNqsZN0AWXTva6Gw8Vy-IlesDYiH5-JfrFS3ZYGQrJbni1xgxxRY9Z16vxksBWUCH3b-E1Ng8RBZHuoTpbPFlc/SectoredGammaData.jpg?psid=1">
+<img class="aligncenter" title="Sectored gamma data: Real-time transmitted data plotted as curves (track 1) or images (track 3) allow immediate geosteering decisions; high density memory data (track 2) for enhanced structural analysis" style="width:290px;height:490px;" src="https://lndlaw.bl3302.livefilestore.com/y2pHRIpNvpua2H8iht-xlTauaNqsZN0AWXTva6Gw8Vy-IlesDYiH5-JfrFS3ZYGQrJbni1xgxxRY9Z16vxksBWUCH3b-E1Ng8RBZHuoTpbPFlc/SectoredGammaData.jpg?psid=1" alt="Sectored gamma data: Real-time transmitted data plotted as curves (track 1) or images (track 3) allow immediate geosteering decisions; high density memory data (track 2) for enhanced structural analysis">
 
 ##### 高级后处理(Advanced post processing) #####
 
 根据用户需求，贝克阿特拉斯地质部(Baker Atlas GeoScience department)可以提供地质构造解释以及地层倾角等高级后处理功能。
 
-<a target="_blank" href="https://lncvgg.blu.livefilestore.com/y2pwrEDtKhkv5QDU-RDtJoCdF7IdAx-uGsHgNQZTf6J2PHLRk0GU6flUQls-sXLQcFCizeaFwhIfgRSFSkyYnyqZ0PmKhPU0iy2Qh324Zc2n7I/AdvancedPostProcessing.jpg?psid=1">
-<img class="aligncenter" title="Illustration of a structural analysis based on density data and created using the Spatial plotting package of Recall. Structural features are easier identifiable on the dynamically color scaled image (track 2) than on the static color scaled image in track 1. Track 3 illustrates the true dips picked from the image plotted as tadpoles" style="width:500px;height:560px;" src="https://lncvgg.blu.livefilestore.com/y2pwrEDtKhkv5QDU-RDtJoCdF7IdAx-uGsHgNQZTf6J2PHLRk0GU6flUQls-sXLQcFCizeaFwhIfgRSFSkyYnyqZ0PmKhPU0iy2Qh324Zc2n7I/AdvancedPostProcessing.jpg?psid=1" alt="Illustration of a structural analysis based on density data and created using the Spatial plotting package of Recall. Structural features are easier identifiable on the dynamically color scaled image (track 2) than on the static color scaled image in track 1. Track 3 illustrates the true dips picked from the image plotted as tadpoles">
+<a target="_blank" href="https://k9dlaw.bl3302.livefilestore.com/y2pzvm76T9l0ft-OHHk4siPOQ1Gbnr_F6RPVssQQbimEdFJbEByKJdC0Aprag0i2-i9Qlztx8y9e6kjw6ETEO3qwgeKf2Hqe3KmWXQ-s2I86qY/AdvancedPostProcessing.jpg?psid=1">
+<img class="aligncenter" title="Illustration of a structural analysis based on density data and created using the Spatial plotting package of Recall. Structural features are easier identifiable on the dynamically color scaled image (track 2) than on the static color scaled image in track 1. Track 3 illustrates the true dips picked from the image plotted as tadpoles" style="width:500px;height:560px;" src="https://k9dlaw.bl3302.livefilestore.com/y2pzvm76T9l0ft-OHHk4siPOQ1Gbnr_F6RPVssQQbimEdFJbEByKJdC0Aprag0i2-i9Qlztx8y9e6kjw6ETEO3qwgeKf2Hqe3KmWXQ-s2I86qY/AdvancedPostProcessing.jpg?psid=1" alt="Illustration of a structural analysis based on density data and created using the Spatial plotting package of Recall. Structural features are easier identifiable on the dynamically color scaled image (track 2) than on the static color scaled image in track 1. Track 3 illustrates the true dips picked from the image plotted as tadpoles">

@@ -10,8 +10,8 @@ author_uri: http://twitter.com/yuxingzhe
 
 <span class="dropcap">M</span>WD地面系统Advantage与一套额外的旁路工具包(bypass kit)连接后，可以与井下工具进行通讯从而对AutoTrak实施操作。
 
-<a target="_blank" href="https://kndlaw.blu.livefilestore.com/y2p2GNRN8gI3Yc9QK_OM9ur4Q4yvu1evkvcauzrsNcpaw3LXbF1VatARxyIaoTlPG5kiV4-DBKWn2fWb2F1-3DeNQe_1gf0BDZrlOwUrzuc_gw/Schematic%20Closed%20Loop%20Communication.png?psid=1">
-<img class="aligncenter" title="Schematic Closed Loop Communication" style="width:500px;height:360px;" src="https://kndlaw.blu.livefilestore.com/y2p2GNRN8gI3Yc9QK_OM9ur4Q4yvu1evkvcauzrsNcpaw3LXbF1VatARxyIaoTlPG5kiV4-DBKWn2fWb2F1-3DeNQe_1gf0BDZrlOwUrzuc_gw/Schematic%20Closed%20Loop%20Communication.png?psid=1" alt="Schematic Closed Loop Communication"></a>
+<a target="_blank" href="https://knewjg.bl3302.livefilestore.com/y2pL3X1vqID1FOmkADrN51LVhFd0cYL9zTQyyrh3tBPeSI1DzdohhxL_a4nT3gXndE8KeJ6Ts3MqnulF1iyp6LYeNPgSQeVSG3kxd0VmCXA8aM/Schematic%20Closed%20Loop%20Communication.png?psid=1">
+<img class="aligncenter" title="Schematic Closed Loop Communication" style="width:500px;height:360px;" src="https://knewjg.bl3302.livefilestore.com/y2pL3X1vqID1FOmkADrN51LVhFd0cYL9zTQyyrh3tBPeSI1DzdohhxL_a4nT3gXndE8KeJ6Ts3MqnulF1iyp6LYeNPgSQeVSG3kxd0VmCXA8aM/Schematic%20Closed%20Loop%20Communication.png?psid=1" alt="Schematic Closed Loop Communication"></a>
 
 地面系统可以远程操控旁路系统来调节泥浆的循环流量，从而实现井下通讯。以下将对系统中各组件进行介绍。
 
@@ -30,8 +30,8 @@ author_uri: http://twitter.com/yuxingzhe
 
 旁路系统通过旁路控制盒BPC(Bypass Controller Box)发出的电信号进行控制。BPC将来自Advantage或4×4键盘控制面板的指令进行编码后传送给BPA电磁阀转换成阀门的开关信号，然后将参数指令传送到井下AutoTrak工具中。阀门的每次开关动作都被称作一次"阀门启动(a valve actuation)"。
 
-<a target="_blank" href="https://kndlaw.blu.livefilestore.com/y2pV5VFZS9rKP43DR_RC-cj7W4ISYMgRe8UoOgq2TtqUMppL4nv4EAZyj4LQznviiVgWz9XZEICVRCRq4bZEk5LR-ssV0RIHmGzIyUxlIehJc8/BPC%20Front%20and%20Back%20Panels.png?psid=1">
-<img class="aligncenter" title="BPC Front and Back Panels" style="width:360px;height:240px;" src="https://kndlaw.blu.livefilestore.com/y2pV5VFZS9rKP43DR_RC-cj7W4ISYMgRe8UoOgq2TtqUMppL4nv4EAZyj4LQznviiVgWz9XZEICVRCRq4bZEk5LR-ssV0RIHmGzIyUxlIehJc8/BPC%20Front%20and%20Back%20Panels.png?psid=1" alt="BPC Front and Back Panels"></a>
+<a target="_blank" href="https://j9dlaw.bl3302.livefilestore.com/y2pMsajL7F87_1CzKoO5zEOVYhIE6BEcylze8DGT33IxAb1uvBY62MhAizeOkSDpgqdz03W2HNwe8ii-3d74lKSJ0xMom_zF72GbibjG9Z0Bbk/BPC%20Front%20and%20Back%20Panels.png?psid=1">
+<img class="aligncenter" title="BPC Front and Back Panels" style="width:360px;height:240px;" src="https://j9dlaw.bl3302.livefilestore.com/y2pMsajL7F87_1CzKoO5zEOVYhIE6BEcylze8DGT33IxAb1uvBY62MhAizeOkSDpgqdz03W2HNwe8ii-3d74lKSJ0xMom_zF72GbibjG9Z0Bbk/BPC%20Front%20and%20Back%20Panels.png?psid=1" alt="BPC Front and Back Panels"></a>
 
 旁路控制盒操作面板上有一个电源开关(power switch)，三个供电LED指示灯，一个电磁阀驱动红绿LED指示灯(red/green solenoid driver LED)，以及一个LCD显示屏(旁边还有一个复位按钮，但并不是在所有旁路控制盒上都有)。如果旁路控制盒工作异常，可尝试重新接通电源。此外，在供电面板上还有三个用于调节输出电压的微调按钮(trim pots)，但谨记绝对严禁使用这些微调按钮对电压进行调节，如有疑问，请直接更换新的电源。接通电源后，面板上的三个LED指示灯都会被点亮，如果有一个LED指示灯没有反应，那么需要更换新的电源。如果旁路控制盒启动正常，那么在LCD显示屏上将可以看到以下信息：
 
@@ -81,15 +81,15 @@ author_uri: http://twitter.com/yuxingzhe
 
 >注意：规范规定在4-3/4"/6-3/4"工具中，BPA中所使用的三通在旁路执行器阀门连续工作3小时或者开关1000次以后必须进行更换，在8-1/2"/9-1/2"工具中，BPA中所使用的三通在旁路执行器阀门连续工作1.5小时或者开关500次后必须进行一次更换(请参考下述步骤)。对于6-3/4" ATK，BPA在连续开启工作不超过6小时后需进行一次维护；对于8-1/4" ATK，BPA在连续开启工作不超过3小时后需进行一次维护。具体要求请参考文件TA AT01/022/EB。请注意三通的维护可能还需要满足当地的特殊安全规范，例如，挪威船级社DNV规定由于现场压力测试数据不可靠，在英国BPA上所使用的三通不允许在井架现场进行更换。
 
-<a target="_blank" href="https://kndlaw.blu.livefilestore.com/y2pDig5mfrksx3egijB-4hmXLA58QnJu8A5CsNSCVH482iaKC5MUIhx9m1GrCyYNga6QrBUeIey8I0Zl1XfdyeLO4L5Yu9di0mWtwaKO7r32Lg/Schematic%20Drawing%20of%20the%20Bypass%20System%20(BSS).png?psid=1">
-<img class="aligncenter" title="Schematic Drawing of the Bypass System (BSS)" style="width:470px;height:200px;" src="https://kndlaw.blu.livefilestore.com/y2pDig5mfrksx3egijB-4hmXLA58QnJu8A5CsNSCVH482iaKC5MUIhx9m1GrCyYNga6QrBUeIey8I0Zl1XfdyeLO4L5Yu9di0mWtwaKO7r32Lg/Schematic%20Drawing%20of%20the%20Bypass%20System%20(BSS).png?psid=1" alt="Schematic Drawing of the Bypass System (BSS)"></a>
+<a target="_blank" href="https://jtdlaw.bl3302.livefilestore.com/y2psExAY1cYVhR967cCZ2ohhM2qimRyH632IWlgjPhac33QRPWuqssHUWMdwS3yOy6sjcrDpbipbGWcVMcSSyn2xvJtjxP0ALQeS3kDfnqc0UQ/Schematic%20Drawing%20of%20the%20Bypass%20System%20%28BSS%29.png?psid=1">
+<img class="aligncenter" title="Schematic Drawing of the Bypass System (BSS)" style="width:470px;height:200px;" src="https://jtdlaw.bl3302.livefilestore.com/y2psExAY1cYVhR967cCZ2ohhM2qimRyH632IWlgjPhac33QRPWuqssHUWMdwS3yOy6sjcrDpbipbGWcVMcSSyn2xvJtjxP0ALQeS3kDfnqc0UQ/Schematic%20Drawing%20of%20the%20Bypass%20System%20%28BSS%29.png?psid=1" alt="Schematic Drawing of the Bypass System (BSS)"></a>
 
 旁路系统将在整体组装完毕后或放在铁篮(basket)内被运送到钻井现场，**作为系统部件铁篮内任一组件发生故障，就需要更换一套全新的盘路系统**。同样地，如果铁篮内的组件满足不了安全使用要求，那么也必须更换一套新的旁路系统。
 
 一体化铁篮有两种型式。如下图所示，左边为可调式旁路执行器系统ABPA(Adjustable Bypass Actuator)，右边则为装配了可调式喷嘴ANU(Adjustable Nozzle Unit)的旁路执行器系统BPA(Bypass Actuator)。
 
-<a target="_blank" href="https://kndlaw.blu.livefilestore.com/y2pLGbHF10YLffYhYyf0VN5pl73L83Iu9lFzaXK6F5b0faa_NDlSn7YrT-0XOKMMCq63EoherbMcc0qem7XXZGD5SXgRCDDKS8QRsOsvtYTf9k/ABPA%20(left)%20and%20BPA%20(right).jpg?psid=1">
-<img class="aligncenter" title="ABPA (left) and BPA (right)" style="width:360px;height:240px;" src="https://kndlaw.blu.livefilestore.com/y2pLGbHF10YLffYhYyf0VN5pl73L83Iu9lFzaXK6F5b0faa_NDlSn7YrT-0XOKMMCq63EoherbMcc0qem7XXZGD5SXgRCDDKS8QRsOsvtYTf9k/ABPA%20(left)%20and%20BPA%20(right).jpg?psid=1" alt="ABPA (left) and BPA (right)"></a>
+<a target="_blank" href="https://l9ewjg.bl3302.livefilestore.com/y2pqn4RCUGp3D2zkQt1h8gFsKQZCuAq6hzGfySCftvgNXQuuRbY_SV2-2cPlJ9FWjZUnIv858UUhzp1w49xcZJxk2vSnOpLqw5othGLilsoBrI/ABPA%20%28left%29%20and%20BPA%20%28right%29.jpg?psid=1">
+<img class="aligncenter" title="ABPA (left) and BPA (right)" style="width:360px;height:240px;" src="https://l9ewjg.bl3302.livefilestore.com/y2pqn4RCUGp3D2zkQt1h8gFsKQZCuAq6hzGfySCftvgNXQuuRbY_SV2-2cPlJ9FWjZUnIv858UUhzp1w49xcZJxk2vSnOpLqw5othGLilsoBrI/ABPA%20%28left%29%20and%20BPA%20%28right%29.jpg?psid=1" alt="ABPA (left) and BPA (right)"></a>
 
 #### 标准BPA铁篮(Standard BPA Basket) ####
 
@@ -128,8 +128,8 @@ author_uri: http://twitter.com/yuxingzhe
 </tr>
 </table>
 
-<a target="_blank" href="https://kndlaw.blu.livefilestore.com/y2pkD7uk69LH7MTue9uX3dfcqCKvs7hhsmU2OJAef7nHeiUMFQthqmcsF6a3qmOKyNAbSCYm-kDvtXMtSuACOQbyV415kOuQzQkvfECa-7nP90/Bypass%20Actuator%20(BPA).jpg?psid=1">
-<img class="aligncenter" title="Bypass Actuator (BPA)" style="width:470px;height:290px;" src="https://kndlaw.blu.livefilestore.com/y2pkD7uk69LH7MTue9uX3dfcqCKvs7hhsmU2OJAef7nHeiUMFQthqmcsF6a3qmOKyNAbSCYm-kDvtXMtSuACOQbyV415kOuQzQkvfECa-7nP90/Bypass%20Actuator%20(BPA).jpg?psid=1" alt="Bypass Actuator (BPA)"></a>
+<a target="_blank" href="https://ltewjg.bl3302.livefilestore.com/y2p3PiIU19uvm7q7EMZT9f_OoNueWHNDihrjjQLbLuBNZcO9b3JBT4UmcHgnCzSvQkTm5U2ykA0oZfiVxvUWyqWRGMFldFJFMhJZF8Zu_AkGnA/Bypass%20Actuator%20%28BPA%29.jpg?psid=1">
+<img class="aligncenter" title="Bypass Actuator (BPA)" style="width:470px;height:290px;" src="https://ltewjg.bl3302.livefilestore.com/y2p3PiIU19uvm7q7EMZT9f_OoNueWHNDihrjjQLbLuBNZcO9b3JBT4UmcHgnCzSvQkTm5U2ykA0oZfiVxvUWyqWRGMFldFJFMhJZF8Zu_AkGnA/Bypass%20Actuator%20%28BPA%29.jpg?psid=1" alt="Bypass Actuator (BPA)"></a>
 
 安装好旁路系统后，请现场有经验的井架工人对安装情况进行仔细检查。
 
@@ -140,8 +140,8 @@ ABPA通过一个横置活塞来旋转伸入到阀体内的阀杆。转动手轮�
 <ol style="margin-left:50px;">
 <li>在ABPA初次启用时，气动活塞的调节手轮是被锁死的，使用时必须首先进行解锁并活动手轮。也可以在调节气动活塞时活动手轮以免手轮卡死。</li>
 
-<a target="_blank" href="https://kndlaw.blu.livefilestore.com/y2pKh89zNdNfhuSaXjsIEWM6QGxq4D2WZdJqd_QMU1OMLUw3JOhpZC4TcknS9AvWKSWIiKwDwHzVmGlc9Kh2rkcZ1l5IghvqhANud-n2xfkAE0/Schematic%20Drawing%20of%20the%20ABPA%20Bypass%20System.png?psid=1">
-<img class="aligncenter" title="Schematic Drawing of the ABPA Bypass System" style="width:460px;height:250px;" src="https://kndlaw.blu.livefilestore.com/y2pKh89zNdNfhuSaXjsIEWM6QGxq4D2WZdJqd_QMU1OMLUw3JOhpZC4TcknS9AvWKSWIiKwDwHzVmGlc9Kh2rkcZ1l5IghvqhANud-n2xfkAE0/Schematic%20Drawing%20of%20the%20ABPA%20Bypass%20System.png?psid=1" alt="Schematic Drawing of the ABPA Bypass System"></a>
+<a target="_blank" href="https://ldewjg.bl3302.livefilestore.com/y2pKIBYmhOJAP7M5tAl8pKFA3Q3yKGPDJ16a9GNLk9WrkptJIpzqYySL_OirMHgNqQ1qNC8LgrGkdK_jgrjMoCdQJKREWtNLCjZqQcv88V5o2Q/Schematic%20Drawing%20of%20the%20ABPA%20Bypass%20System.png?psid=1">
+<img class="aligncenter" title="Schematic Drawing of the ABPA Bypass System" style="width:460px;height:250px;" src="https://ldewjg.bl3302.livefilestore.com/y2pKIBYmhOJAP7M5tAl8pKFA3Q3yKGPDJ16a9GNLk9WrkptJIpzqYySL_OirMHgNqQ1qNC8LgrGkdK_jgrjMoCdQJKREWtNLCjZqQcv88V5o2Q/Schematic%20Drawing%20of%20the%20ABPA%20Bypass%20System.png?psid=1" alt="Schematic Drawing of the ABPA Bypass System"></a>
 
 <li>启动时将手轮逆时针旋转到底，阀杆将转动90°，此时可得到最大总过流面积(TFA)为22.0/33"；启动时将手轮顺时针转动到底，阀杆将转动30°，此时可得到最小总过流面积(TFA)为7.4/33"。</li></ol>
 
@@ -180,8 +180,8 @@ ABPA通过一个横置活塞来旋转伸入到阀体内的阀杆。转动手轮�
 </tr>
 </table>
 
-<a target="_blank" href="https://kndlaw.blu.livefilestore.com/y2pgHiVECP9MAvfC4iOJWxBaJCjHpGYHMrZxj5KdcjBXGbW6QE97ouuA-rz7XE2VLbsAu3Olg9iUqs7hEzJ5nJndYiMLtTinUbyz7YWYTs-5Kw/Adjustable%20Bypass%20Actuator%20(ABPA).jpg?psid=1">
-<img class="aligncenter" title="Adjustable Bypass Actuator (ABPA)" style="width:500px;height:400px;" src="https://kndlaw.blu.livefilestore.com/y2pgHiVECP9MAvfC4iOJWxBaJCjHpGYHMrZxj5KdcjBXGbW6QE97ouuA-rz7XE2VLbsAu3Olg9iUqs7hEzJ5nJndYiMLtTinUbyz7YWYTs-5Kw/Adjustable%20Bypass%20Actuator%20(ABPA).jpg?psid=1" alt="Adjustable Bypass Actuator (ABPA)"></a>
+<a target="_blank" href="https://lnewjg.bl3302.livefilestore.com/y2pk22w2vnpozD-olP5HjVfbcBPmFW-e-SvDD4eEJUlIb0OvccI6elMgPpFAW2gkD-5YyxGg-YuYg4fLsOsEqULy40Fac_ki7vYcp_n-vyUDqc/Adjustable%20Bypass%20Actuator%20%28ABPA%29.jpg?psid=1">
+<img class="aligncenter" title="Adjustable Bypass Actuator (ABPA)" style="width:500px;height:400px;" src="https://lnewjg.bl3302.livefilestore.com/y2pk22w2vnpozD-olP5HjVfbcBPmFW-e-SvDD4eEJUlIb0OvccI6elMgPpFAW2gkD-5YyxGg-YuYg4fLsOsEqULy40Fac_ki7vYcp_n-vyUDqc/Adjustable%20Bypass%20Actuator%20%28ABPA%29.jpg?psid=1" alt="Adjustable Bypass Actuator (ABPA)"></a>
 
 在阀杆上从30°到90°每隔15°都标记有相应的刻度线，与阀体旋转角度相对应的喷嘴尺寸如下表所示。
 
@@ -216,8 +216,8 @@ ABPA通过一个横置活塞来旋转伸入到阀体内的阀杆。转动手轮�
 
 >注意：谨记在需要调整TFA时，应先将手轮顺时针旋转到底，然后再逆时针旋转一定圈数直到所需要的角度为止。阀杆上的刻度线并不一定准确。
 
-<a target="_blank" href="https://kndlaw.blu.livefilestore.com/y2p5rgx3U2qB2zWIouezMY1dIdTNpontRO8bm20a5NWfX1P4rjm8xd446tB0qvOgP55ANJ32XZS_g_aSYqAgi-or-3ADJnBT2oFn0gaZ63cL1o/ABPA%20Setting%20Chart.png?psid=1">
-<img class="aligncenter" title="ABPA Setting Chart" style="width:490px;height:320px;" src="https://kndlaw.blu.livefilestore.com/y2p5rgx3U2qB2zWIouezMY1dIdTNpontRO8bm20a5NWfX1P4rjm8xd446tB0qvOgP55ANJ32XZS_g_aSYqAgi-or-3ADJnBT2oFn0gaZ63cL1o/ABPA%20Setting%20Chart.png?psid=1" alt="ABPA Setting Chart"></a>
+<a target="_blank" href="https://k9ewjg.bl3302.livefilestore.com/y2pjOVJO4TS6EfXggve1hTbSMtf41d4fGNVLu1dcw_Xx8NSdWmd1d4U8HOIhqqq9cHTG9Zyfv--p9e1rEp2J3iH3oPFmTO6KFvW9O0RPLK5G9c/ABPA%20Setting%20Chart.png?psid=1">
+<img class="aligncenter" title="ABPA Setting Chart" style="width:490px;height:320px;" src="https://k9ewjg.bl3302.livefilestore.com/y2pjOVJO4TS6EfXggve1hTbSMtf41d4fGNVLu1dcw_Xx8NSdWmd1d4U8HOIhqqq9cHTG9Zyfv--p9e1rEp2J3iH3oPFmTO6KFvW9O0RPLK5G9c/ABPA%20Setting%20Chart.png?psid=1" alt="ABPA Setting Chart"></a>
 
 ##### 将TFA设置为14/32"的操作步骤 #####
 
@@ -282,13 +282,13 @@ ABPA通过一个横置活塞来旋转伸入到阀体内的阀杆。转动手轮�
 
 可调式喷嘴可通过调节通过井眼与旁路系统的泥浆比例，在不断开工具与立管之间连接的情况下调节旁路过流面积(AFT)。
 
-<a target="_blank" href="https://kndlaw.blu.livefilestore.com/y2poTGzTnbv9vN9Ac9BRk8o9BFk55hqU9usQGJz7qm_-Hz9CHHowGrz1aMnFH0b1CKOVkwMmZv4ix28b9grZCkI5r0HYIbYC-CTeVUbOqmZuio/Adjustable%20Nozzle%20Unit.jpg?psid=1">
-<img class="aligncenter" title="Adjustable Nozzle Unit" style="width:500px;height:370px;" src="https://kndlaw.blu.livefilestore.com/y2poTGzTnbv9vN9Ac9BRk8o9BFk55hqU9usQGJz7qm_-Hz9CHHowGrz1aMnFH0b1CKOVkwMmZv4ix28b9grZCkI5r0HYIbYC-CTeVUbOqmZuio/Adjustable%20Nozzle%20Unit.jpg?psid=1" alt="Adjustable Nozzle Unit"></a>
+<a target="_blank" href="https://ktewjg.bl3302.livefilestore.com/y2pNK1T5217Q-FPiFVeSou-1LDqtXuJl9ChopWz18sZX4tcES24I08elzSO-yDubbSPgc18PVEIIW9HI_7idyx_wHAKtzoKhfubwhRrSERu8vM/Adjustable%20Nozzle%20Unit.jpg?psid=1">
+<img class="aligncenter" title="Adjustable Nozzle Unit" style="width:500px;height:370px;" src="https://ktewjg.bl3302.livefilestore.com/y2pNK1T5217Q-FPiFVeSou-1LDqtXuJl9ChopWz18sZX4tcES24I08elzSO-yDubbSPgc18PVEIIW9HI_7idyx_wHAKtzoKhfubwhRrSERu8vM/Adjustable%20Nozzle%20Unit.jpg?psid=1" alt="Adjustable Nozzle Unit"></a>
 
 转动喷嘴手轮可调节内部阀芯的开度，直至阀门处于全开状态。
 
-<a target="_blank" href="https://kndlaw.blu.livefilestore.com/y2pfL_iC2LMPjY0B-8X7GKXj94c37OYCc8X6vZO4IDPM7boTU4af0sc1YtINgQYpvuGV0hdiNP3m4ZPFaa3D7wQVZI4OCObDjzpKX1DuwzsTLM/Disc%20with%20Triangular%20Shaped%20Hole%20for%20ANU.png?psid=1">
-<img class="aligncenter" title="Disc with Triangular Shaped Hole for ANU" style="width:180px;height:160px;float:right;" src="https://kndlaw.blu.livefilestore.com/y2pfL_iC2LMPjY0B-8X7GKXj94c37OYCc8X6vZO4IDPM7boTU4af0sc1YtINgQYpvuGV0hdiNP3m4ZPFaa3D7wQVZI4OCObDjzpKX1DuwzsTLM/Disc%20with%20Triangular%20Shaped%20Hole%20for%20ANU.png?psid=1" alt="Disc with Triangular Shaped Hole for ANU"></a>
+<a target="_blank" href="https://kdewjg.bl3302.livefilestore.com/y2pSTnTjSbxQq-SPcQ8fUBtva18PtGQc7ZU7wl0bMis9MCuxi1pAWmipNilWcZK34AQ4df3rdWLouFIXcBiOm2NujxtfcybcNUmNK5uSRWrT3Q/Disc%20with%20Triangular%20Shaped%20Hole%20for%20ANU.png?psid=1">
+<img class="aligncenter" title="Disc with Triangular Shaped Hole for ANU" style="width:180px;height:160px;float:right;" src="https://kdewjg.bl3302.livefilestore.com/y2pSTnTjSbxQq-SPcQ8fUBtva18PtGQc7ZU7wl0bMis9MCuxi1pAWmipNilWcZK34AQ4df3rdWLouFIXcBiOm2NujxtfcybcNUmNK5uSRWrT3Q/Disc%20with%20Triangular%20Shaped%20Hole%20for%20ANU.png?psid=1" alt="Disc with Triangular Shaped Hole for ANU"></a>
 
 顺时针转动手轮可增大阀门开度，从而降低立管压力；逆时针转动手轮则减小阀门开度，从而增加立管压力。
 

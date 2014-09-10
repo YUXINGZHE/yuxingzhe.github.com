@@ -8,15 +8,15 @@ author_uri: http://twitter.com/yuxingzhe
 
 <span class="dropcap">所</span>有的OnTrak传感器接头的电气结构都基本相似，只有4-3/4" OnTrak略有区别。下面的功能框图(OnTrak Communication Functional Block Diagram)显示了前面介绍的各控制模块，传感器和其他的电子模块(boards, sensors and other electronic elements)之间是如何进行通讯和连接的。
 
-<a target="_blank" href="https://ldcvgg.blu.livefilestore.com/y2p7e9hv_Vx2j4HBa0o4KYhuM5aFEW5rGmPoGzTU8bPVhsVut8RIAdOG3axDce6jnG_3HnlgimsV3I3DDY7JM7EYS2gFL_Evh9Dv0GWaQ0oan0/OnTrakCFBD.png?psid=1">
-<img class="aligncenter" title="OnTrak Communication Functional Block Diagram" style="width:600px;height:400px;" src="https://ldcvgg.blu.livefilestore.com/y2p7e9hv_Vx2j4HBa0o4KYhuM5aFEW5rGmPoGzTU8bPVhsVut8RIAdOG3axDce6jnG_3HnlgimsV3I3DDY7JM7EYS2gFL_Evh9Dv0GWaQ0oan0/OnTrakCFBD.png?psid=1" alt="OnTrak Communication Functional Block Diagram">
+<a target="_blank" href="https://ktdlaw.bl3302.livefilestore.com/y2pTjhsLchVn6RJ3WSnuO3QJ0eJ0G-l3gl-VXc7krYUlim3zGxmNrewfLMkZAOGshrcib1XGOj5G-vXC_usM0MxNOBn6UnLWRqL-32Nul0NAKY/OnTrakCFBD.png?psid=1">
+<img class="aligncenter" title="OnTrak Communication Functional Block Diagram" style="width:600px;height:400px;" src="https://ktdlaw.bl3302.livefilestore.com/y2pTjhsLchVn6RJ3WSnuO3QJ0eJ0G-l3gl-VXc7krYUlim3zGxmNrewfLMkZAOGshrcib1XGOj5G-vXC_usM0MxNOBn6UnLWRqL-32Nul0NAKY/OnTrakCFBD.png?psid=1" alt="OnTrak Communication Functional Block Diagram">
 
 #### 主控/存储模块(Master/Memory) ####
 
 主控/存储模块具有集中控制和数据存储两大功能，作为主控制模块它执行并控制着OnTrak接头内的各项任务。主控/存储模块中有8块存储器(Flash Memory IC)，总容量为32M，其中存储着各种数据信息，承担着OnTrak接头数据存储的任务。
 
-<a target="_blank" href="https://ldcvgg.blu.livefilestore.com/y2psVJeIzB5gBHcg8Q5_0jPc5H00dMzdf7urpHNBdIK4WSVjafpjs27GLvKoZnk6lPfVHWaupsO16ZtsivzglrdabSQY-nzv-Tu2gXuxAeiS3U/OnTrakFBDMasterMemoryBoard.jpg?psid=1">
-<img class="aligncenter" title="Functional Block Diagram OnTrak Master/Memory Board" style="width:600px;height:400px;" src="https://ldcvgg.blu.livefilestore.com/y2psVJeIzB5gBHcg8Q5_0jPc5H00dMzdf7urpHNBdIK4WSVjafpjs27GLvKoZnk6lPfVHWaupsO16ZtsivzglrdabSQY-nzv-Tu2gXuxAeiS3U/OnTrakFBDMasterMemoryBoard.jpg?psid=1" alt="Functional Block Diagram OnTrak Master/Memory Board">
+<a target="_blank" href="https://ldd6pq.bl3302.livefilestore.com/y2pFNtXjjaB7PAF6KVOrbuuijHRzP1wdB7oUoPYC-DMJMTlRLjjjBOD__69QDEXQXXFdHO4fC3gm7dyqW8aLx8i3dxeoP4U8B2db8R2IQTB2yA/OnTrakFBDMasterMemoryBoard.jpg?psid=1">
+<img class="aligncenter" title="Functional Block Diagram OnTrak Master/Memory Board" style="width:600px;height:400px;" src="https://ldd6pq.bl3302.livefilestore.com/y2pFNtXjjaB7PAF6KVOrbuuijHRzP1wdB7oUoPYC-DMJMTlRLjjjBOD__69QDEXQXXFdHO4fC3gm7dyqW8aLx8i3dxeoP4U8B2db8R2IQTB2yA/OnTrakFBDMasterMemoryBoard.jpg?psid=1" alt="Functional Block Diagram OnTrak Master/Memory Board">
 
 从上面的功能框图(Functional Block Diagram OnTrak Master/Memory Board)可以看到，<u>I/O1039(Adam总线)主要负责OnTrak系统中各模块之间的内部通讯</u>，如主控/存储集成电路PCBA(Printed Circuit Board Assembly)，压力/伽马PCBA，多频传播电阻率(MPR)接收器PCBA，低压供电(LVPS)模块，及导向探头微控制器PCBA(Directional Sonde Microcontroller PCBA)等。高可靠性的<u>调制解调器(modem)</u>可以为内部数据通讯提供高达9600波特的传输速率。<u>实时时钟RTC(Real Time Clock)</u>电路为存储器中的每个传感器数据包都分配了一个时间戳。在泥浆停止循环的情况下，RTC电路改由备用电池供电以保证继续正常工作。
 
@@ -26,8 +26,8 @@ author_uri: http://twitter.com/yuxingzhe
 
 OnTrak定向探头的主要组件包括三个加速度计和三个磁通门传感器，核心驱动模块(core drivers)，定向微处理器(directional micro processor)，定向供电模块(directional power supply board)等。在探头两端分别有一个对中器，除了对中器(centralizers)以外，各种不同尺寸接头的定向探头结构都是一样的。上部对中器(upper centralizer)上有一个电源和通讯接口与钻铤相连。定向探头结构如下所示。
 
-<a target="_blank" href="https://ldcvgg.blu.livefilestore.com/y2pQPK2dJYOxMA1o7XhHRzn8CcDup1s_KedGZvn2Q3q05VMvFoL6nxhXYPv30-GgRJ7zuorsIXs1Z5WKAdyUmNksFbo_u7CUnIUvl_fqhmbHU4/DirectionalSonde.png?psid=1">
-<img class="aligncenter" title="Directional Sonde" style="width:500px;height:300px;" src="https://ldcvgg.blu.livefilestore.com/y2pQPK2dJYOxMA1o7XhHRzn8CcDup1s_KedGZvn2Q3q05VMvFoL6nxhXYPv30-GgRJ7zuorsIXs1Z5WKAdyUmNksFbo_u7CUnIUvl_fqhmbHU4/DirectionalSonde.png?psid=1" alt="Directional Sonde">
+<a target="_blank" href="https://lnd6pq.bl3302.livefilestore.com/y2ptLUlkBQHD-oeXGiSO7JFhWL5eKPB-msoGoQdkEc298r-IyTTp72axnK5APXAOKuEGp-yIDLIaYAfW68nWJk9YzlxZuKZNFh9y3s9sALgPg8/DirectionalSonde.png?psid=1">
+<img class="aligncenter" title="Directional Sonde" style="width:500px;height:300px;" src="https://lnd6pq.bl3302.livefilestore.com/y2ptLUlkBQHD-oeXGiSO7JFhWL5eKPB-msoGoQdkEc298r-IyTTp72axnK5APXAOKuEGp-yIDLIaYAfW68nWJk9YzlxZuKZNFh9y3s9sALgPg8/DirectionalSonde.png?psid=1" alt="Directional Sonde">
 
 
 由于M33总线需要穿过定向探头将来自BCPM的电力供应给OnTrak以及OnTrak下部的其他接头(如导向模块)，因此，在将来自加速度计，磁通门传感器，温度传感器的模拟信号以及M33总线的电流信号数字化后，还需要考虑温度、增益、信号补偿、信号失调和信号畸变的影响对上述测量信号进行校正。M33总线中的电流信号经测量，放大后转换成差分模拟电压(a differential analog voltage)；所测得的的电流信号可以用于磁通门传感器的误差校正(磁通门传感器读数会受到M33总线中电流的干扰)。
@@ -203,8 +203,8 @@ OnTrak定向探头的主要组件包括三个加速度计和三个磁通门传�
 
 OnTrak平台使用了在MPR & USMPR接头中得到成功应用的多频传播电阻率(MPR)技术，它采用了补偿式两频谱(2 MHz & 400 KHz)四发射器两接收器结构，总共能够提供8个定量的电阻率数据。<u>每个发射器开启0.625s，使得MPR每5s更新一次。</u>其数字电路设计与USMPR接头相同，发射器和接收器PCBA均为Q-Pack设计，安装在双层盖板下方。
 
-<a target="_blank" href="https://ldcvgg.blu.livefilestore.com/y2ple1RqVFsMv54UPogFgoGkvcz2ZmzN1Nvc8tEpz8P88qOkw3Bu4DJvbP1K9H3ftwTGKFZTCGIV6_1XFiRIcTTA4wKyIolu3w8bEubVtrtZwo/OnTrakAntenna.png?psid=1">
-<img class="aligncenter" title="OnTrak Antenna Spacing" style="width:700px;height:200px;" src="https://ldcvgg.blu.livefilestore.com/y2ple1RqVFsMv54UPogFgoGkvcz2ZmzN1Nvc8tEpz8P88qOkw3Bu4DJvbP1K9H3ftwTGKFZTCGIV6_1XFiRIcTTA4wKyIolu3w8bEubVtrtZwo/OnTrakAntenna.png?psid=1" alt="OnTrak Antenna Spacing">
+<a target="_blank" href="https://k9d6pq.bl3302.livefilestore.com/y2p9YEJHKM_YcSJKOLl3dva9qiSl_m6gHhUJj0J2qqbC_F0D-bSGj5EhnRmizM5oCyiikuZ9jjfn8VS4oUNfYKjpbYwBTWLl-zvniW56Tx6g-Q/OnTrakAntenna.png?psid=1">
+<img class="aligncenter" title="OnTrak Antenna Spacing" style="width:700px;height:200px;" src="https://k9d6pq.bl3302.livefilestore.com/y2p9YEJHKM_YcSJKOLl3dva9qiSl_m6gHhUJj0J2qqbC_F0D-bSGj5EhnRmizM5oCyiikuZ9jjfn8VS4oUNfYKjpbYwBTWLl-zvniW56Tx6g-Q/OnTrakAntenna.png?psid=1" alt="OnTrak Antenna Spacing">
 
 新型天线技术(采用单绕式而非双绕式)降低了系统噪音，并消除了接收器间的串扰，从而使得电阻率的测量精度提高了15%。
 
@@ -224,8 +224,8 @@ HVPS的输出由压力/伽马PCBA控制。
 
 当停止循环泥浆时(此时接头内的交流发电机不工作)，P/G PCBA与压力传感器由电池驱动，此时静压(井眼及环空压力)每2s记录一次。
 
-<a target="_blank" href="https://ldcvgg.blu.livefilestore.com/y2pMT_CEniUVmwQoVLB6hhyYU8WuegdVYuBgOve7sq5uIQPbnkehMv02RieY3F_TZMYSFbig6VLNJL1_RJ6F0EFcQ6WohA-BUsd_9ojo1enaQk/PressureGammaHatchCover.png?psid=1">
-<img class="aligncenter" title="Pressure Gamma Hatch Cover" style="width:700px;height:220px;" src="https://ldcvgg.blu.livefilestore.com/y2pMT_CEniUVmwQoVLB6hhyYU8WuegdVYuBgOve7sq5uIQPbnkehMv02RieY3F_TZMYSFbig6VLNJL1_RJ6F0EFcQ6WohA-BUsd_9ojo1enaQk/PressureGammaHatchCover.png?psid=1" alt="Pressure Gamma Hatch Cover">
+<a target="_blank" href="https://kddlaw.bl3302.livefilestore.com/y2pOwTi7d25g3eTJMprBdCAm0vVQZK8JNvIdIa-JnfMhX4Tg9g8RPdvmrdP1I4dqZTOBrAmrq_tlXAA7P8kk_dJ0RkQYY8SpbzdK-ZPzVkHsaE/PressureGammaHatchCover.png?psid=1">
+<img class="aligncenter" title="Pressure Gamma Hatch Cover" style="width:700px;height:220px;" src="https://kddlaw.bl3302.livefilestore.com/y2pOwTi7d25g3eTJMprBdCAm0vVQZK8JNvIdIa-JnfMhX4Tg9g8RPdvmrdP1I4dqZTOBrAmrq_tlXAA7P8kk_dJ0RkQYY8SpbzdK-ZPzVkHsaE/PressureGammaHatchCover.png?psid=1" alt="Pressure Gamma Hatch Cover">
 
 <table id="customers" align="center">
 <caption>表4 压力传感器测量范围，精度与分辨率</caption>
@@ -260,8 +260,8 @@ HVPS的输出由压力/伽马PCBA控制。
 
 #### 电池 ####
 
-<a target="_blank" href="https://ldcvgg.blu.livefilestore.com/y2pU0TNvx8j5cRIJe21k3z6CXYwhNSqQhjpRsZVzUtUwyfl__ldIaxD8iVKUuOSlj2OCSNN_KlYNfREI_vKe30yt2ANFQ7OwpX79BUp3uvAc0I/BatteryHatchCover.png?psid=1">
-<img class="aligncenter" title="Battery Hatch Cover" style="width:650px;height:150px;" src="https://ldcvgg.blu.livefilestore.com/y2pU0TNvx8j5cRIJe21k3z6CXYwhNSqQhjpRsZVzUtUwyfl__ldIaxD8iVKUuOSlj2OCSNN_KlYNfREI_vKe30yt2ANFQ7OwpX79BUp3uvAc0I/BatteryHatchCover.png?psid=1" alt="Battery Hatch Cover">
+<a target="_blank" href="https://knd6pq.bl3302.livefilestore.com/y2pXG1sAhpYnCpG8MEW0THc584WrBqdojm0eKxqwuR0ZuYFV6o0Kd4N9KWlmVJOZ6CrzugV1FyPd0CqyI48HY9NFoBppg5SHXsFTKgMZ8u_tiU/BatteryHatchCover.png?psid=1">
+<img class="aligncenter" title="Battery Hatch Cover" style="width:650px;height:150px;" src="https://knd6pq.bl3302.livefilestore.com/y2pXG1sAhpYnCpG8MEW0THc584WrBqdojm0eKxqwuR0ZuYFV6o0Kd4N9KWlmVJOZ6CrzugV1FyPd0CqyI48HY9NFoBppg5SHXsFTKgMZ8u_tiU/BatteryHatchCover.png?psid=1" alt="Battery Hatch Cover">
 
 电池盖板中有一块双C系列氯化锂/亚硫酰二氯电池(MR型，不会发生膨胀)，该电池长约103mm，直径为21mm。安装完成后，可以为P/G PCBA提供7.34V的交流电。电池盖板可根据需要在钻台现场进行更换。
 
@@ -277,8 +277,8 @@ HVPS的输出由压力/伽马PCBA控制。
 
 #### 接头通讯接口(数据导出接口)(Tool Communications Port, Data Dump Port) ####
 
-<a target="_blank" href="https://ldcvgg.blu.livefilestore.com/y2pwngfAOP6CGYbJ9Vt0nhHPUSC3uKsRleC9a8YgCsHwyIUlSFcxrffrw4e3bfxmO_QybKZiKd53jUzbwYlNFersCqRcy5PArvVgVUEv7GBT-U/DataDumpPort.png?psid=1">
-<img class="aligncenter" title="Data Dump Port / Read out Port" style="width:550px;height:200px;" src="https://ldcvgg.blu.livefilestore.com/y2pwngfAOP6CGYbJ9Vt0nhHPUSC3uKsRleC9a8YgCsHwyIUlSFcxrffrw4e3bfxmO_QybKZiKd53jUzbwYlNFersCqRcy5PArvVgVUEv7GBT-U/DataDumpPort.png?psid=1" alt="Data Dump Port / Read out Port">
+<a target="_blank" href="https://j9d6pq.bl3302.livefilestore.com/y2pzAiXnT7Ak2JTS78MsvqoI3ZbnLbvg0W0moEGmRsBPPsEJA1IHtCSPlOXlDz4flsy4wOmk3D0Btxu9EYmBB8G0BaxySfz5X0_iqPBSpLUAnA/DataDumpPort.png?psid=1">
+<img class="aligncenter" title="Data Dump Port / Read out Port" style="width:550px;height:200px;" src="https://j9d6pq.bl3302.livefilestore.com/y2pzAiXnT7Ak2JTS78MsvqoI3ZbnLbvg0W0moEGmRsBPPsEJA1IHtCSPlOXlDz4flsy4wOmk3D0Btxu9EYmBB8G0BaxySfz5X0_iqPBSpLUAnA/DataDumpPort.png?psid=1" alt="Data Dump Port / Read out Port">
 
 这个接口允许用户进行数据导出，与接头进行通讯，并可利用接头通讯系统TCS(Tool Communication System)对接头进行诊断。
 
@@ -299,5 +299,5 @@ OnTrak TSS可以保护OnTrak传感器接头，尤其是电阻率天线在钻遇�
 
 第一次安装TSS时需要对传感器接头进行微小的加工，因此在安装TSS时需要事先进行详细的计算。R&M手册“TSS拆装”(文件编号：COMMON-10-0702-001)部分有关于TSS的更加详细的信息。该手册可通过TechPubs搜索得到。
 
-<a target="_blank" href="https://ldcvgg.blu.livefilestore.com/y2pmvZrwSR_OeuqEnO2YRoYuWHQ28UtXHhdEbT58TuxyKU7kvlyhDg_TOLImMxjod45f-WRl-TsaQ2JYglv8QzkdV8_Y90exTjA0ihH94UNEkM/OnTrakTaperedSleeveStabilizer.png?psid=1">
-<img class="aligncenter" title="Ontrak Tapered Sleeve Stabilizer" style="width:700px;height:170px;" src="https://ldcvgg.blu.livefilestore.com/y2pmvZrwSR_OeuqEnO2YRoYuWHQ28UtXHhdEbT58TuxyKU7kvlyhDg_TOLImMxjod45f-WRl-TsaQ2JYglv8QzkdV8_Y90exTjA0ihH94UNEkM/OnTrakTaperedSleeveStabilizer.png?psid=1" alt="Ontrak Tapered Sleeve Stabilizer">
+<a target="_blank" href="https://k9cvgg.bl3302.livefilestore.com/y2pGsLAbxVVxQxcaPXN6rowvswUos3F0tbGoXAvNrczzs1kSr4CtT9KUVt5uXoBTM7oaxti9tlITjniZpDg1edJBFZaG7tZmbcxQm0L0UmDvag/OnTrakTaperedSleeveStabilizer.png?psid=1">
+<img class="aligncenter" title="Ontrak Tapered Sleeve Stabilizer" style="width:700px;height:170px;" src="https://k9cvgg.bl3302.livefilestore.com/y2pGsLAbxVVxQxcaPXN6rowvswUos3F0tbGoXAvNrczzs1kSr4CtT9KUVt5uXoBTM7oaxti9tlITjniZpDg1edJBFZaG7tZmbcxQm0L0UmDvag/OnTrakTaperedSleeveStabilizer.png?psid=1" alt="Ontrak Tapered Sleeve Stabilizer">

@@ -61,15 +61,15 @@ author_uri: http://twitter.com/yuxingzhe
 : 当伽马光子从原子核旁经过时，在原子核的库仑场的作用下，伽马光子转变为一个正电子和一个负电子，这种过程称为电子对效应。
 
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pi7c6of-MQPWP-AMtPK0sVMfyn-3gtb8gdEd4v0s_d1JxBnWVVlvRgcf_ezhKEe835QlxWr_DICAk0oiWCr64OqvEiE2mI8taZd8X23T_eIk/threeeffectstoinduceelectron.png?psid=1">
-<img class="aligncenter" title="three effects to induce electron" style="width:450px;height:230px;" src="https://lneprw.blu.livefilestore.com/y2pi7c6of-MQPWP-AMtPK0sVMfyn-3gtb8gdEd4v0s_d1JxBnWVVlvRgcf_ezhKEe835QlxWr_DICAk0oiWCr64OqvEiE2mI8taZd8X23T_eIk/threeeffectstoinduceelectron.png?psid=1" alt="three effects to induce electron"></a>
+<a target="_blank" href="https://kteprw.bl3302.livefilestore.com/y2pHg4C3W58rNQy1UihGyR6PLV65zLpsYIHS8zgkNTIdrpUyaWga0caDB8EcP6c3C1H0X_jRWYTtbAORvjKmC3_HQS6zng4n6hOeJgZ4nYqCq4/three%20effects%20to%20induce%20electron.png?psid=1">
+<img class="aligncenter" title="three effects to induce electron" style="width:450px;height:230px;" src="https://kteprw.bl3302.livefilestore.com/y2pHg4C3W58rNQy1UihGyR6PLV65zLpsYIHS8zgkNTIdrpUyaWga0caDB8EcP6c3C1H0X_jRWYTtbAORvjKmC3_HQS6zng4n6hOeJgZ4nYqCq4/three%20effects%20to%20induce%20electron.png?psid=1" alt="three effects to induce electron"></a>
 
 电离作用是带电粒子与组成物质的束缚电子发生非弹性碰撞的结果。盖革-弥勒计数管就是利用气体电离作用的脉冲探测器。如果束缚电子获得的嫩两不足以使它成为自由电子，而只能激发到更高的能级，这种现象成为激发作用。受激发的原子在退激过程中放出光子，发生闪光(荧光)，利用荧光来进行探测的为闪烁计数器。
 
 闪烁记数器(scintillation counter)由光电倍增管和碘化钠晶体组成。当伽马射线进入NaI晶体时，通过上述三种效应产生次级电子，这些次级电子使得晶体中的原子受激而产生荧光。利用光导和反射物质把大部分荧光光子收集到光电倍增管的阴极上。光子在光阴极上打出光电子，光电子在光电倍增管内不断倍增，最后形成电子束在阳极上产生电压脉冲，并被记录系统记录。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pM847OQwV-VbYH3lzjmH1rcPFpjVS_eYVNE_hQxVfUKSrO406liEM0U_QuTQNf74HENFCG6vSbv79V0bAiynQejUUOIa-JeIO8LkXGMYVRHI/Scintillation%20Counter.png?psid=1">
-<img class="aligncenter" title="Scintillation Counter" style="width:600px;height:200px;" src="https://lneprw.blu.livefilestore.com/y2pM847OQwV-VbYH3lzjmH1rcPFpjVS_eYVNE_hQxVfUKSrO406liEM0U_QuTQNf74HENFCG6vSbv79V0bAiynQejUUOIa-JeIO8LkXGMYVRHI/Scintillation%20Counter.png?psid=1" alt="Scintillation Counter"></a>
+<a target="_blank" href="https://lneprw.bl3302.livefilestore.com/y2pj5W06xksqBhOwOiuhmgQEKoBSAJY8txp9sY4k7BoZpTLVPIE6t9ORFzSCSfdV3MMofoAB23oNz1bsTIBRgztBPTJLpcsXHIq7UnvXZB0f1U/Scintillation%20Counter.png?psid=1">
+<img class="aligncenter" title="Scintillation Counter" style="width:600px;height:200px;" src="https://lneprw.bl3302.livefilestore.com/y2pj5W06xksqBhOwOiuhmgQEKoBSAJY8txp9sY4k7BoZpTLVPIE6t9ORFzSCSfdV3MMofoAB23oNz1bsTIBRgztBPTJLpcsXHIq7UnvXZB0f1U/Scintillation%20Counter.png?psid=1" alt="Scintillation Counter"></a>
 
 闪烁记数器的输出脉冲幅度与入射伽马光子在闪烁体中损失的能量(次级电子能量)成正比，输出脉冲的个数与入射光子的强度(单位时间伽马光子数)成正比，一般用计数率(脉冲数/分钟)来表示。
 
@@ -81,13 +81,13 @@ author_uri: http://twitter.com/yuxingzhe
 
 在接头上相隔180°安装着两个相互独立的闪烁计数器，这样不但可以提高计数精度，而且还能保证在其中一个发生故障后，另外一个仍能继续完成测量任务，从而提高了系统的可靠性。当转速高达400RPM时探测器仍能十分精确地分辨出各相邻扇区的边界。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pgdv25Qhb_zA-K2b-DxzkvwzWjB54qTaxmGc0yn_Xxx6gfJ-SXv5uUvU28Anj_cFzldVVWFWsHdqN7CIJiuS1qC8TY1dfRPoBPTYStuDPtWw/Sector%20Orientation.png?psid=1">
-<img class="aligncenter" title="Sector Orientation" style="width:500px;height:230px;" src="https://lneprw.blu.livefilestore.com/y2pgdv25Qhb_zA-K2b-DxzkvwzWjB54qTaxmGc0yn_Xxx6gfJ-SXv5uUvU28Anj_cFzldVVWFWsHdqN7CIJiuS1qC8TY1dfRPoBPTYStuDPtWw/Sector%20Orientation.png?psid=1" alt="Sector Orientation"></a>
+<a target="_blank" href="https://9mlasq.bl3302.livefilestore.com/y2pwZshsMf1wvD3nuHVQ-QhdEOCIwSTPXujuVudFTixYlqv4KXAnr7TjKvCTuqYGT2vEU9zNHtbP8ulbF2dOamYAkgxYRN_PWXs3n9KPtWM1Io/Sector%20Orientation.png?psid=1">
+<img class="aligncenter" title="Sector Orientation" style="width:500px;height:230px;" src="https://9mlasq.bl3302.livefilestore.com/y2pwZshsMf1wvD3nuHVQ-QhdEOCIwSTPXujuVudFTixYlqv4KXAnr7TjKvCTuqYGT2vEU9zNHtbP8ulbF2dOamYAkgxYRN_PWXs3n9KPtWM1Io/Sector%20Orientation.png?psid=1" alt="Sector Orientation"></a>
 
 在工具上沿X轴和Y轴分别放置着两个磁通门传感器，他们之间测得的波形相位差正好为90°。当工具旋转时，当地磁场在这两个传感器上的分量不断发生变化，并呈现正弦曲线的规律，这样<u>从以下两条正弦曲线上就可以将垂直于探测器的平面分成8个扇区</u>(两条曲线的交点处正好为45°)。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pqqd5hP7Ykm9MHDYsqg_R3nAtC9ZpZ5HWXZBtJtSdKknNgViW0_SqLVBxKN1-2c4cQfzbWfd7pGBiiG1xpWAsYqP9SQk6RZa2hBpg6UCbmNU/Azimuth%20Orientation.png?psid=1">
-<img class="aligncenter" title="Azimuth Orientation" style="width:700px;height:260px;" src="https://lneprw.blu.livefilestore.com/y2pqqd5hP7Ykm9MHDYsqg_R3nAtC9ZpZ5HWXZBtJtSdKknNgViW0_SqLVBxKN1-2c4cQfzbWfd7pGBiiG1xpWAsYqP9SQk6RZa2hBpg6UCbmNU/Azimuth%20Orientation.png?psid=1" alt="Azimuth Orientation"></a>
+<a target="_blank" href="https://9wlasq.bl3302.livefilestore.com/y2ppTaqDCGsMyLcbRyYdBKZeJ4KbW4hnOU8JwS8Tk5ZGVW97eEmvf9qJKt8KYIDZXAO0mHJKikbfsB8IRiMO6pGtyeT5rV3PFKZ0rvt4Cr1zFM/Azimuth%20Orientation.png?psid=1">
+<img class="aligncenter" title="Azimuth Orientation" style="width:700px;height:260px;" src="https://9wlasq.bl3302.livefilestore.com/y2ppTaqDCGsMyLcbRyYdBKZeJ4KbW4hnOU8JwS8Tk5ZGVW97eEmvf9qJKt8KYIDZXAO0mHJKikbfsB8IRiMO6pGtyeT5rV3PFKZ0rvt4Cr1zFM/Azimuth%20Orientation.png?psid=1" alt="Azimuth Orientation"></a>
 
 <u>为了校正上述两条正弦曲线的零点，我们需要用到重力工具面(即高边工具面)数据。</u>Gamma Elite需要使用动态测井(flow on survey)所获取的井眼方位和井斜数据来从磁工具面计算重力工具面。这样就需要在每次接单根的时候进行一次全面测井(a full survey)，然后将相关数据存储起来以供这跟单根钻进过程中的分区计算(假定在一根钻杆的范围内HSTF和MTF之间的差值保持不变)。如果测井数据有误或者在钻进过程中数据已经发生了变化，分区计算还可以通过后处理的方式加以校正(sector allocation can be corrected through post-processing)。
 
@@ -133,8 +133,8 @@ Example 2：井位处于南半球，当地磁倾角为<b>-10°</b>时，不准�
 
 在实际应用中自然伽马测井的放射性单位为API，它是基于美国得州休斯敦大学内的<b>人工放射性水泥柱</b>而定义的。美国石油协会规定将标定井中高放射性地层与低放射性地层读数之差定为200个API单位。下图为美国休斯敦大学建造的世界上第一个自然伽马标定井的示意图。它上面是厚度为3/8"(0.953cm)的钢盖板，以阻隔宇宙射线。境内有三个厚度都是8ft(2.44m)的模拟地层，其直径为4ft(1.22m)，中心位套管，管内充满水。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pyqzwsscx6IajacyTpRiAYtfkp_1l8FXHneYKT_s8DegOwaTQS_4U54WJslSFjhe7hV4fZcbNDw-I9F_GOV7ahKMo-vSRuSJqZ7F3bKPDVkg/APIpit.png?psid=1">
-<img class="aligncenter" title="API pit" style="width:400px;height:480px;" src="https://lneprw.blu.livefilestore.com/y2pyqzwsscx6IajacyTpRiAYtfkp_1l8FXHneYKT_s8DegOwaTQS_4U54WJslSFjhe7hV4fZcbNDw-I9F_GOV7ahKMo-vSRuSJqZ7F3bKPDVkg/APIpit.png?psid=1" alt="API pit"></a>
+<a target="_blank" href="https://kdeprw.bl3302.livefilestore.com/y2pSHSkNPZ91ru3X869D2Bo8VXFbnZM9MkJyJ37No1WMzZSKj_sc-eA8rLBMSy7hT5VKkNXIpjCHNR-lmuYQLG-OLEcthiPfdUwYIX6Yy-aNLA/API%20pit.png?psid=1">
+<img class="aligncenter" title="API pit" style="width:400px;height:480px;" src="https://kdeprw.bl3302.livefilestore.com/y2pSHSkNPZ91ru3X869D2Bo8VXFbnZM9MkJyJ37No1WMzZSKj_sc-eA8rLBMSy7hT5VKkNXIpjCHNR-lmuYQLG-OLEcthiPfdUwYIX6Yy-aNLA/API%20pit.png?psid=1" alt="API pit"></a>
 
 然而，大多数LWD工具都无法放入标准API标定井中进行标定，因此建立了以下二级标定标准：
 
@@ -156,17 +156,17 @@ Calibration Factor GRSECF = Amersham API value /[(Source+Background) - Backgroun
 在上述标定值中已经将已知刻度值(Background & Source)校正到了标准井眼环境(即10"井眼，内部充满密度为8.33lb/gal的水)，除此以外，还需要对实际井眼尺寸、泥浆比重和泥浆中的KCl含量等对标定值的影响加以校正。<u>对于探针式LWD传感器(Probe Module/Sensor)</u>，考虑到钻铤对伽马射线的耗散阻挡效应，还需要<u>根据钻铤的内径和外径将GRSEF校正为<b>GRAPICF</b>(Gamma Ray API Correction Factor)</u>，并输入到Advantage中去。所得报告如下图所示：
 
 <p style="text-align:center;">
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2peDh0wjYuuNZFMQzqNUIgH8peqQqv3ml6brASNt4nHsPWbzpLIJpI84BiFg0jKsftWlMbhmmEHey_2WEGrSw0txF8WwBsdvxlRLRQfFE8N_M/CollarCorrectedforGRAPICF.png?psid=1">
-<img title="Collar Corrected for GRAPICF" style="width:420px;height:340px;" src="https://lneprw.blu.livefilestore.com/y2peDh0wjYuuNZFMQzqNUIgH8peqQqv3ml6brASNt4nHsPWbzpLIJpI84BiFg0jKsftWlMbhmmEHey_2WEGrSw0txF8WwBsdvxlRLRQfFE8N_M/CollarCorrectedforGRAPICF.png?psid=1" alt="Collar Corrected for GRAPICF"></a>
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2px57iurUz5gE9EbBKkfFpOb7RK9XjT7kNk-FDGn-fj0Suzi2HfKC-1r3dnyv19x6xRqiZWuR7bPc11WmR2BuAN4SMn144r9HTbcoRT_CSVxY/CollarCorrectedforGRAPICF2.png?psid=1">
-<img title="Collar Corrected for GRAPICF" style="width:420px;height:340px;" src="https://lneprw.blu.livefilestore.com/y2px57iurUz5gE9EbBKkfFpOb7RK9XjT7kNk-FDGn-fj0Suzi2HfKC-1r3dnyv19x6xRqiZWuR7bPc11WmR2BuAN4SMn144r9HTbcoRT_CSVxY/CollarCorrectedforGRAPICF2.png?psid=1" alt="Collar Corrected for GRAPICF"></a></p>
+<a target="_blank" href="https://kneprw.bl3302.livefilestore.com/y2pJJUHozh-3NDr3azw2Mi1yEsfBLkw-3Kj3OoRY1a_c06PZaihn75N3hY9pKlqV3MPq7VXgLx5YPgrL83IKA-qdA55nbNLSCYNMzbNvITbsrc/Collar%20Corrected%20for%20GRAPICF.png?psid=1">
+<img title="Collar Corrected for GRAPICF" style="width:420px;height:340px;" src="https://kneprw.bl3302.livefilestore.com/y2pJJUHozh-3NDr3azw2Mi1yEsfBLkw-3Kj3OoRY1a_c06PZaihn75N3hY9pKlqV3MPq7VXgLx5YPgrL83IKA-qdA55nbNLSCYNMzbNvITbsrc/Collar%20Corrected%20for%20GRAPICF.png?psid=1" alt="Collar Corrected for GRAPICF"></a>
+<a target="_blank" href="https://lneprw.bl3302.livefilestore.com/y2p76f8tuDQU1FBC4uzcPg4TU8tmcwQvFYTKMkzIp0z8nVSTBouISxDqjlAS6_N7y0GsM7VkCO-bemy-5PP9p3nb82eaQ4AG3ICh43-kZsBnVQ/Collar%20Corrected%20for%20GRAPICF%202.png?psid=1">
+<img title="Collar Corrected for GRAPICF" style="width:420px;height:340px;" src="https://lneprw.bl3302.livefilestore.com/y2p76f8tuDQU1FBC4uzcPg4TU8tmcwQvFYTKMkzIp0z8nVSTBouISxDqjlAS6_N7y0GsM7VkCO-bemy-5PP9p3nb82eaQ4AG3ICh43-kZsBnVQ/Collar%20Corrected%20for%20GRAPICF%202.png?psid=1" alt="Collar Corrected for GRAPICF"></a></p>
 
 <h5><a name="sec-3-2">3.2 标定数据解释</a></h5>
 
 下面给出了一个6-3/4"OnTrak探测仪的Amersham标定报告：
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pbpQfZ8SSuXay6ScR-TSJ1gNc1_rHTaT7rrjQVgUUWu4wYVyfFyldE7n9BrRjhWDlOzaiRxpzCyMLoF9TLsVAmNRlnu2Qyg1-7IB1IF9bcxY/Gamma%20Ray%20Calibration%20Summary.png?psid=1">
-<img class="aligncenter" title="Gamma Ray Calibration Summary" style="width:600px;height:270px;" src="https://lneprw.blu.livefilestore.com/y2pbpQfZ8SSuXay6ScR-TSJ1gNc1_rHTaT7rrjQVgUUWu4wYVyfFyldE7n9BrRjhWDlOzaiRxpzCyMLoF9TLsVAmNRlnu2Qyg1-7IB1IF9bcxY/Gamma%20Ray%20Calibration%20Summary.png?psid=1" alt="Gamma Ray Calibration Summary"></a>
+<a target="_blank" href="https://l9co0w.bl3302.livefilestore.com/y2p_2mtu4ngm1a8CX-5hxWoJGjNDKYXQToHMmwM468uyllrM7cQvwTfGLbspVxs8rNkh_yz3ZXtsE7mqN8IG4W71LaSluxBGzgxoFJjCpZAPqU/Gamma%20Ray%20Calibration%20Summary.png?psid=1">
+<img class="aligncenter" title="Gamma Ray Calibration Summary" style="width:600px;height:270px;" src="https://l9co0w.bl3302.livefilestore.com/y2p_2mtu4ngm1a8CX-5hxWoJGjNDKYXQToHMmwM468uyllrM7cQvwTfGLbspVxs8rNkh_yz3ZXtsE7mqN8IG4W71LaSluxBGzgxoFJjCpZAPqU/Gamma%20Ray%20Calibration%20Summary.png?psid=1" alt="Gamma Ray Calibration Summary"></a>
 
 上述报告中各项数值说明如下：
 
@@ -200,8 +200,8 @@ $$
 
 为了确保仪器工作正常，在每次入井前和出井后都要对仪器进行一次检查，在井场上只需要直接验证仪器对于背景伽马计数率的读数即可。此时必须保证在检测现场周围不存在其他伽马源(如密度和中子测井仪)或钢质构件等以免对读数造成影响。井场仪器验证报告如下图所示：
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pbm23oFTl29bBdSf8e_v5hlojpNIZFTaUW_0f9mb1DrfEaV69ZXYercIApqmEB7tWeIlLFL_zKX4lpz7t4M7SHPRie85uC1nVfrbt3eHFMkg/Gamma%20Ray%20pre-%20and%20post-run%20verification%20summary.png?psid=1">
-<img class="aligncenter" title="Gamma Ray pre- and post-run verification summary" style="width:600px;height:270px;" src="https://lneprw.blu.livefilestore.com/y2pbm23oFTl29bBdSf8e_v5hlojpNIZFTaUW_0f9mb1DrfEaV69ZXYercIApqmEB7tWeIlLFL_zKX4lpz7t4M7SHPRie85uC1nVfrbt3eHFMkg/Gamma%20Ray%20pre-%20and%20post-run%20verification%20summary.png?psid=1" alt="Gamma Ray pre- and post-run verification summary"></a>
+<a target="_blank" href="https://jteprw.bl3302.livefilestore.com/y2pn24M0wMqx5Bf5xNOlBcVa0xIbeaLqwnAWDibXWCkr3T3G7OHxRzjKBARjIGJR6LhBq5pvTY8Jr3gyDcKEdKxU7c1sC-PqACggsMj0KLcLHY/Gamma%20Ray%20pre-%20and%20post-run%20verification%20summary.png?psid=1">
+<img class="aligncenter" title="Gamma Ray pre- and post-run verification summary" style="width:600px;height:270px;" src="https://jteprw.bl3302.livefilestore.com/y2pn24M0wMqx5Bf5xNOlBcVa0xIbeaLqwnAWDibXWCkr3T3G7OHxRzjKBARjIGJR6LhBq5pvTY8Jr3gyDcKEdKxU7c1sC-PqACggsMj0KLcLHY/Gamma%20Ray%20pre-%20and%20post-run%20verification%20summary.png?psid=1" alt="Gamma Ray pre- and post-run verification summary"></a>
 
 其中，Background(cps)为仪器在井场上所测得的背景伽马计数率，Standard Deviation(σ)为10次检测结果的标准偏差值。AA，BB，CC和DD的值设定为以车间标定值(shop calibration)为基准的-0.1σ & +10.0σ范围内的计数率。
 
@@ -231,8 +231,8 @@ $$
 
 首先在INTEQ Log Interpretation Chartbook中找出与4-3/4"OnTrak对应的校正曲线，然后根据泥浆密度与井眼尺寸从图中确定校正因子为0.9。伽马校正API值(the corrected API gamma ray value)为0.9×85=76.5API。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2px97wVDI664Mx8CXtBUXwSSpeUVZXPU3AG_BiM_hJEVX5NtvjCKCXbko8-fjiMYLsFhd0Tadt4UGwFHLRwnP6_HWCEXIyOkolci0OuWFGs6I/4.75%20Borehole%20size%20and%20mud%20weight%20correction%20chart.png?psid=1">
-<img class="aligncenter" title="4.75 Borehole size and mud weight correction chart" style="width:600px;height:400px;" src="https://lneprw.blu.livefilestore.com/y2px97wVDI664Mx8CXtBUXwSSpeUVZXPU3AG_BiM_hJEVX5NtvjCKCXbko8-fjiMYLsFhd0Tadt4UGwFHLRwnP6_HWCEXIyOkolci0OuWFGs6I/4.75%20Borehole%20size%20and%20mud%20weight%20correction%20chart.png?psid=1" alt="4.75 Borehole size and mud weight correction chart"></a>
+<a target="_blank" href="https://ltco0w.bl3302.livefilestore.com/y2p7530Wtyfx6u2A6ZH9uVIEBAn_BDkydlo9updFtBUYmXPWjirfciZe9rVNXxLBcFkTQwjsnAbFT0EukV3Kx777f0EwR8C5a2NNV-AqAx-Rtk/4.75%20Borehole%20size%20and%20mud%20weight%20correction%20chart.png?psid=1">
+<img class="aligncenter" title="4.75 Borehole size and mud weight correction chart" style="width:600px;height:400px;" src="https://ltco0w.bl3302.livefilestore.com/y2p7530Wtyfx6u2A6ZH9uVIEBAn_BDkydlo9updFtBUYmXPWjirfciZe9rVNXxLBcFkTQwjsnAbFT0EukV3Kx777f0EwR8C5a2NNV-AqAx-Rtk/4.75%20Borehole%20size%20and%20mud%20weight%20correction%20chart.png?psid=1" alt="4.75 Borehole size and mud weight correction chart"></a>
 
 <h5><a name="sec-4-3">4.3 钾元素校正案例</a></h5>
 
@@ -273,8 +273,8 @@ KCl中钾原子的重量比：39.1/(39.1+35.45)=0.525
 
 <b>第四步：</b><u>按照上一小节中给出的方法再根据井眼尺寸和泥浆密度对上面得到的钾元素校正值进行校正。</u>
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pLS7Q2DWxaHjT6Jg6S59uIBO6Oty6Hxokb6nqZVYopeeKQg-WqzVZKInvxyVxR-jRguNCquDoZPGP57NKm1qnSPovF5b2Akn6LK0Co1N2TNs/4.75%20Potassium%20Content%20correction%20chart.png?psid=1">
-<img class="aligncenter" title="4.75 Potassium Content correction chart" style="width:600px;height:400px;" src="https://lneprw.blu.livefilestore.com/y2pLS7Q2DWxaHjT6Jg6S59uIBO6Oty6Hxokb6nqZVYopeeKQg-WqzVZKInvxyVxR-jRguNCquDoZPGP57NKm1qnSPovF5b2Akn6LK0Co1N2TNs/4.75%20Potassium%20Content%20correction%20chart.png?psid=1" alt="4.75 Potassium Content correction chart"></a>
+<a target="_blank" href="https://9glasq.bl3302.livefilestore.com/y2p9Y9Vq5ypFN4NRZjZnHHdoOI8A1o0sXCdV74jDI0OEBTi_F2V6Yg9LQrJfXP0UBI7cKjhjTZM9SJIX8HYT-g-dXBM6PNIPlumrrfeOvhL0IQ/4.75%20Potassium%20Content%20correction%20chart.png?psid=1">
+<img class="aligncenter" title="4.75 Potassium Content correction chart" style="width:600px;height:400px;" src="https://9glasq.bl3302.livefilestore.com/y2p9Y9Vq5ypFN4NRZjZnHHdoOI8A1o0sXCdV74jDI0OEBTi_F2V6Yg9LQrJfXP0UBI7cKjhjTZM9SJIX8HYT-g-dXBM6PNIPlumrrfeOvhL0IQ/4.75%20Potassium%20Content%20correction%20chart.png?psid=1" alt="4.75 Potassium Content correction chart"></a>
 
 <h5><a name="sec-4-4">4.4 钾元素泥浆报告(Potassium Content - Mud Report)</a></h5>
 
@@ -284,8 +284,8 @@ KCl中钾原子的重量比：39.1/(39.1+35.45)=0.525
 
 谨记所输入的钾元素比例必须为钾元素在泥浆中的质量百分比，因此在泥浆报告中KCl或K2CO3的数值必须是占整个钻井液(drilling mud)而非仅仅是泥浆滤液(mud filtrate)的比例(g/l)。下图给出了计算钾元素质量百分比的一般步骤：
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pWi2XlAlKl3d-vCvjPqhGvp2l4hskP_g5xVpOKh9R2mWAXvxH2s--KJIhDbhY-IQJD8z5Vc0qAg2HpghieET8s_ZRfjP7KhW8XAMb53WxtOQ/Basic%20Procedure%20to%20Obtain%20wt%20Percentage%20of%20K%20from%20Mud%20Report.png?psid=1">
-<img class="aligncenter" title="Basic Procedure to Obtain wt Percentage of K from Mud Report" style="width:700px;height:260px;" src="https://lneprw.blu.livefilestore.com/y2pWi2XlAlKl3d-vCvjPqhGvp2l4hskP_g5xVpOKh9R2mWAXvxH2s--KJIhDbhY-IQJD8z5Vc0qAg2HpghieET8s_ZRfjP7KhW8XAMb53WxtOQ/Basic%20Procedure%20to%20Obtain%20wt%20Percentage%20of%20K%20from%20Mud%20Report.png?psid=1" alt="Basic Procedure to Obtain wt Percentage of K from Mud Report"></a>
+<a target="_blank" href="https://lneprw.bl3302.livefilestore.com/y2pq3nYx4nHoPRmO7KdzXXDqEGWGsMv3uF5m0aIjfLIqAK6a_ymTzWIhEzTUV33ZW72jTBAt51qh3DS6ZSK-UTZ_Xjo0Vl5q_PgnVM3bII7bss/Basic%20Procedure%20to%20Obtain%20wt%20Percentage%20of%20K%20from%20Mud%20Report.png?psid=1">
+<img class="aligncenter" title="Basic Procedure to Obtain wt Percentage of K from Mud Report" style="width:700px;height:260px;" src="https://lneprw.bl3302.livefilestore.com/y2pq3nYx4nHoPRmO7KdzXXDqEGWGsMv3uF5m0aIjfLIqAK6a_ymTzWIhEzTUV33ZW72jTBAt51qh3DS6ZSK-UTZ_Xjo0Vl5q_PgnVM3bII7bss/Basic%20Procedure%20to%20Obtain%20wt%20Percentage%20of%20K%20from%20Mud%20Report.png?psid=1" alt="Basic Procedure to Obtain wt Percentage of K from Mud Report"></a>
 
 以下为将泥浆滤液(mud filtrate)中的KCl含量(mg/liter)转换为钻井液(drilling mud)中KCl含量(mg/liter)的方法：
 
@@ -303,15 +303,15 @@ KCl中钾原子的重量比：39.1/(39.1+35.45)=0.525
 
 伽马测井曲线的显示范围通常在0-100或0-150API内，在套管内时伽马读数甚至会降到50API以下，伽马测井数据可以实时传输到地面上来也可以保存在井下工具的存储器中进行读取。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pPJwlIsXljn6W2qJVr9zCNfsvk6d159whoLV7KjCfNhIYVoEX51gpmxNc2P1fKQsHdjZG9B31XFsmHPB2hNFXTNA63ayKh7n0qLGfvEj53sI/Gamma%20log%20presentation.png?psid=1">
-<img class="aligncenter" title="Gamma log presentation" style="width:450px;height:210px;" src="https://lneprw.blu.livefilestore.com/y2pPJwlIsXljn6W2qJVr9zCNfsvk6d159whoLV7KjCfNhIYVoEX51gpmxNc2P1fKQsHdjZG9B31XFsmHPB2hNFXTNA63ayKh7n0qLGfvEj53sI/Gamma%20log%20presentation.png?psid=1" alt="Gamma log presentation"></a>
+<a target="_blank" href="https://lnco0w.bl3302.livefilestore.com/y2pAYaxSXl4EubByfb1B4-ZRabxR_-NuT63dyV_fVhV4tGYv2LTNlg0DiOlG7fS8XsKjp-dXOENkwPRJlzRTXlQN8yeHnEIrs631x0bQBAvJWI/Gamma%20log%20presentation.png?psid=1">
+<img class="aligncenter" title="Gamma log presentation" style="width:450px;height:210px;" src="https://lnco0w.bl3302.livefilestore.com/y2pAYaxSXl4EubByfb1B4-ZRabxR_-NuT63dyV_fVhV4tGYv2LTNlg0DiOlG7fS8XsKjp-dXOENkwPRJlzRTXlQN8yeHnEIrs631x0bQBAvJWI/Gamma%20log%20presentation.png?psid=1" alt="Gamma log presentation"></a>
 
 <h5><a name="sec-7-1">7.1 放射性涨落误差(Statistical Fluctuation)</a></h5>
 
 自然伽马曲线不是一条光滑曲线，即使在岩性很均匀的地段曲线也有明显的起伏。这也是放射性测井曲线共同的特征，它是各种核物理现象和对这些现象的探测具有随机性和统计性特性的表示，通常称为放射性涨落变化。这些涨落性变化对其平均值形成的误差称为放射性测井曲线的涨落误差$ { \sigma } $，它包括两部分：曲线上没点计数率的涨落误差$ { \sigma  }_ { 1 } $和测量的平均计数率含有的涨落误差$ { \sigma  }_ { 2 } $，即$ \sigma ={ \sigma  }_ { 1 }+{ \sigma  }_{ 2 } $。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pV0yhWkTlG98qPbBFMzpYd-W1fwgiZGYmFoJnQQhPVrxoqEoKvFOGdTrH0SDBbIG3EdSmgBe9oO24xip9w0Jm95WLhC3-FZO7EWIx1qDpG00/Statistical%20Fluctuation.png?psid=1">
-<img class="aligncenter" title="Statistical Fluctuation" style="width:300px;height:490px;" src="https://lneprw.blu.livefilestore.com/y2pV0yhWkTlG98qPbBFMzpYd-W1fwgiZGYmFoJnQQhPVrxoqEoKvFOGdTrH0SDBbIG3EdSmgBe9oO24xip9w0Jm95WLhC3-FZO7EWIx1qDpG00/Statistical%20Fluctuation.png?psid=1" alt="Statistical Fluctuation"></a>
+<a target="_blank" href="https://k9co0w.bl3302.livefilestore.com/y2phn8ge25WVt0osFENIUJfYtKqBkV21msCp7o1heZBSbklCBgFvW53Ge8MVfdOSksPnsII3476XB9KEnVN0mk_Lr07o-kOT6uPKYzHNVYhx74/Statistical%20Fluctuation.png?psid=1">
+<img class="aligncenter" title="Statistical Fluctuation" style="width:300px;height:490px;" src="https://k9co0w.bl3302.livefilestore.com/y2phn8ge25WVt0osFENIUJfYtKqBkV21msCp7o1heZBSbklCBgFvW53Ge8MVfdOSksPnsII3476XB9KEnVN0mk_Lr07o-kOT6uPKYzHNVYhx74/Statistical%20Fluctuation.png?psid=1" alt="Statistical Fluctuation"></a>
 
 按照误差理论，在一个岩性均匀和厚度足够大的地层中，若自然伽马平均计数率为$\overline{n}$，则实测的自然伽马曲线在涨落范围$ (\overline { n } -\sigma )\sim (\overline { n } +\sigma ) $内的累积曲线厚度应占平均值曲线厚度的68.3%。达到这一要求的曲线，质量是好的，否则应视为质量不合格。只有明显超出涨落范围和有适当厚度的曲线变化才认为是岩性变化，应另分层或另作取值区。这一版凭经验判断，但也可取常数K=1.5~3.0，当曲线变化在$ \overline { n } \pm K\sigma $内时为同一地层，超出此范围应考虑另分层或另取值。
 
@@ -325,13 +325,13 @@ KCl中钾原子的重量比：39.1/(39.1+35.45)=0.525
 
 下表中给出了在具有稳定放射源的单一地层中统计涨落现象，伽马计数率和时间常数T<sub>c</sub>之间的相互影响关系，在这个例子中我们假定测井速度为1ft/s。如果时间常数为1/3s，在3s时间内就可以得到9个测量值，此时的纵向分辨率可以达到4in(每个不同的测量值即可认为属于不同的地层)，但这些伽马测量值在9-18之间不断发生变化。如果时间常数为1s，在3s时间内就可以得到3个测量值，此时的纵向分辨率为12in，但各个伽马测量值之间的误差要小得多(此时的变化范围缩小到了12-14之间)。如果时间常数设定得更高，此时所得到的伽马测量值的变化范围将更进一步缩小，但纵向分辨率却急剧下降，当T<sub>c</sub>=3s时，纵向分辨率降低到了3ft。从表中可以看出，当时间常数为1s时可以在测井数据的稳定性和纵向分辨率之间取得最佳平衡。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pYQXdq8E0Xy946ZdBJqJK1M1iUmeclu-0py14bPvK_rBeCMklObRisApraJgFtPELFG3LGGS4oTKb_uWadmYLZOYk9InvfGzlDxC_37Spprc/Variations%20in%20count%20rate%20in%20gamma%20ray%20logging.png?psid=1">
-<img class="aligncenter" title="Variations in count rate in gamma ray logging" style="width:700px;height:300px;" src="https://lneprw.blu.livefilestore.com/y2pYQXdq8E0Xy946ZdBJqJK1M1iUmeclu-0py14bPvK_rBeCMklObRisApraJgFtPELFG3LGGS4oTKb_uWadmYLZOYk9InvfGzlDxC_37Spprc/Variations%20in%20count%20rate%20in%20gamma%20ray%20logging.png?psid=1" alt="Variations in count rate in gamma ray logging"></a>
+<a target="_blank" href="https://k9eprw.bl3302.livefilestore.com/y2p7pzRr65POtZ24CswY1D3ZhYFgUQsJoJDDSjE5QBi8_fFrcSNk6q5IJJRiratr1KdmCNWnDb4UbeR4hTSfzEe9z0_6V_ztR9emFo-CGMinrw/Variations%20in%20count%20rate%20in%20gamma%20ray%20logging.png?psid=1">
+<img class="aligncenter" title="Variations in count rate in gamma ray logging" style="width:700px;height:300px;" src="https://k9eprw.bl3302.livefilestore.com/y2p7pzRr65POtZ24CswY1D3ZhYFgUQsJoJDDSjE5QBi8_fFrcSNk6q5IJJRiratr1KdmCNWnDb4UbeR4hTSfzEe9z0_6V_ztR9emFo-CGMinrw/Variations%20in%20count%20rate%20in%20gamma%20ray%20logging.png?psid=1" alt="Variations in count rate in gamma ray logging"></a>
 
 从下面这张图中也可以更直观地看到时间常数T<sub>c</sub>对伽马测井响应曲线所造成的影响：
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2p0Met8GGKKMvncwJyxte-3cXWwrRkEYtb9rc_ib6SVVOFv7OYE8wYMQ1hwykvzBZFDCPh9wsxCO_kOYsywVoeYntHOmv9l0jC7QUfwO5qWGo/Effect%20of%20Time%20Constant%20on%20Gamma%20Ray%20Response.png?psid=1">
-<img class="aligncenter" title="Effect of Time Constant on Gamma Ray Response" style="width:500px;height:310px;" src="https://lneprw.blu.livefilestore.com/y2p0Met8GGKKMvncwJyxte-3cXWwrRkEYtb9rc_ib6SVVOFv7OYE8wYMQ1hwykvzBZFDCPh9wsxCO_kOYsywVoeYntHOmv9l0jC7QUfwO5qWGo/Effect%20of%20Time%20Constant%20on%20Gamma%20Ray%20Response.png?psid=1" alt="Effect of Time Constant on Gamma Ray Response"></a>
+<a target="_blank" href="https://ktco0w.bl3302.livefilestore.com/y2pZUzw8Ad2aTPS2xETrKRyAE82M5GuQvN3rhRtpxCeSikNGPKEVoBGtVLa5JpLctrwJ-UTWGPgLkJqyIJdqfG0kAjB3YjqSOVHnBetVpVjRTw/Effect%20of%20Time%20Constant%20on%20Gamma%20Ray%20Response.png?psid=1">
+<img class="aligncenter" title="Effect of Time Constant on Gamma Ray Response" style="width:500px;height:310px;" src="https://ktco0w.bl3302.livefilestore.com/y2pZUzw8Ad2aTPS2xETrKRyAE82M5GuQvN3rhRtpxCeSikNGPKEVoBGtVLa5JpLctrwJ-UTWGPgLkJqyIJdqfG0kAjB3YjqSOVHnBetVpVjRTw/Effect%20of%20Time%20Constant%20on%20Gamma%20Ray%20Response.png?psid=1" alt="Effect of Time Constant on Gamma Ray Response"></a>
 
 <h5><a name="sec-7-3">7.3 测井响应曲线(Primary Curves)</a></h5>
 
@@ -513,19 +513,19 @@ KCl中钾原子的重量比：39.1/(39.1+35.45)=0.525
 
 在能获取所有4个分区的伽马数据的情况下，可以使用RigLink 2.4 U2软件(或更高版本的应用程序)绘制出实时的变化图，如下图所示。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pg0BIs9AcfC4I3mDZJcw-eSRxkFgMUYaufpD-KN3M7tawhWM73nK51t5lrzavgnEaPms5VbPyM_eTtH0H7y_0dQWZ5uE9P-mxLyZisgQU1R0/RigLink.png?psid=1">
-<img class="aligncenter" title="RigLink" style="width:600px;height:450px;" src="https://lneprw.blu.livefilestore.com/y2pg0BIs9AcfC4I3mDZJcw-eSRxkFgMUYaufpD-KN3M7tawhWM73nK51t5lrzavgnEaPms5VbPyM_eTtH0H7y_0dQWZ5uE9P-mxLyZisgQU1R0/RigLink.png?psid=1" alt="RigLink"></a>
+<a target="_blank" href="https://82lasq.bl3302.livefilestore.com/y2pDePC3uFzh1K7HsTOKlBE0CKY0KB4hIR8o6-vG4OyxDK21u_sKpUAHJwUrQvTHNNIuXaBIW4DyEgwFN4D-CeWbbBSrvNzHp3-HX0z1QVkFso/RigLink.png?psid=1">
+<img class="aligncenter" title="RigLink" style="width:600px;height:450px;" src="https://82lasq.bl3302.livefilestore.com/y2pDePC3uFzh1K7HsTOKlBE0CKY0KB4hIR8o6-vG4OyxDK21u_sKpUAHJwUrQvTHNNIuXaBIW4DyEgwFN4D-CeWbbBSrvNzHp3-HX0z1QVkFso/RigLink.png?psid=1" alt="RigLink"></a>
 
 高级伽马存储器中的数据经过MemProc处理后可以导出到ASCII格式或xtf格式的文件中。图形包Case可如下图那样绘制静态彩色图像(从xtf文件输入原始数据)。其中纵向与横向的内插值均可由用户自行定义。
 
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pQRF7lmPAPTb_0AENiCyAMUK4yHCRwW3uVnk5ji2GuZWtLRG2N8Ecv71NTkExCh_JiaY06mwN9dAlOFEtqmwuMHInmhnxVdtQzF8NxRqJBOk/Sectored%20Gamma%20Data.png?psid=1">
-<img class="aligncenter" title="Sectored Gamma Data" style="width:300px;height:450px;" src="https://lneprw.blu.livefilestore.com/y2pQRF7lmPAPTb_0AENiCyAMUK4yHCRwW3uVnk5ji2GuZWtLRG2N8Ecv71NTkExCh_JiaY06mwN9dAlOFEtqmwuMHInmhnxVdtQzF8NxRqJBOk/Sectored%20Gamma%20Data.png?psid=1" alt="Sectored Gamma Data"></a>
+<a target="_blank" href="https://qgiq1q.bl3302.livefilestore.com/y2pcZuaJloBMmd8bDNxx2FbOrr79gsYAH6Ic6DKv0r5N2PV02GrLI6qbexdIHwPP_gKUYSYefAosELfMyernpV8Rzk56OvnB5iYPfXiZC2Z9Io/Sectored%20Gamma%20Data.png?psid=1">
+<img class="aligncenter" title="Sectored Gamma Data" style="width:300px;height:450px;" src="https://qgiq1q.bl3302.livefilestore.com/y2pcZuaJloBMmd8bDNxx2FbOrr79gsYAH6Ic6DKv0r5N2PV02GrLI6qbexdIHwPP_gKUYSYefAosELfMyernpV8Rzk56OvnB5iYPfXiZC2Z9Io/Sectored%20Gamma%20Data.png?psid=1" alt="Sectored Gamma Data"></a>
 
 根据用户需求，贝克阿特拉斯地质部(Baker Atlas GeoScience department)可以提供地质构造解释以及地层倾角等高级后处理功能。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pqwghilmjcDShGS3QwtQ6Bk0lLTyt6DHBXPW5jNs7BeFUgl_bzAogTJ46SrVxZS_RYCoVaA8z7m4hygxmPd-MR7j5rEi8NeglvLYPjWb2BpQ/Dip%20Picking.png?psid=1">
-<img class="aligncenter" title="Dip Picking" style="width:660px;height:640px;" src="https://lneprw.blu.livefilestore.com/y2pqwghilmjcDShGS3QwtQ6Bk0lLTyt6DHBXPW5jNs7BeFUgl_bzAogTJ46SrVxZS_RYCoVaA8z7m4hygxmPd-MR7j5rEi8NeglvLYPjWb2BpQ/Dip%20Picking.png?psid=1" alt="Dip Picking"></a>
+<a target="_blank" href="https://kdco0w.bl3302.livefilestore.com/y2pr9Wps3_2zzEfAykKIua9FCp3rhhIBHSHsCbB6ro0lwkxzwSL97r5uzYVjhzaS-lDStVEl9G1Z3kEWU8K8Hre8L74HeUnBffj0TzucshiG0k/Dip%20Picking.png?psid=1">
+<img class="aligncenter" title="Dip Picking" style="width:660px;height:640px;" src="https://kdco0w.bl3302.livefilestore.com/y2pr9Wps3_2zzEfAykKIua9FCp3rhhIBHSHsCbB6ro0lwkxzwSL97r5uzYVjhzaS-lDStVEl9G1Z3kEWU8K8Hre8L74HeUnBffj0TzucshiG0k/Dip%20Picking.png?psid=1" alt="Dip Picking"></a>
 
 <h4><a name="sec-8">8 数据遥测(Telemetry)</a></h4>
 
@@ -590,13 +590,13 @@ KCl中钾原子的重量比：39.1/(39.1+35.45)=0.525
 
 下面以单探测器伽马测井实时传输模式为例介绍伽马数据的传输与处理过程。我们在前面标定一节中已经得到了伽马API校正因子(GRAPICF)，将原始伽马计数率GRBX乘以这个校正因子(如需进行钾元素校正，还需要将钾元素质量百分比输入到Advantage中进一步进行校正)，就得到了表观伽马值GRAX。接着，Advantage会根据输入的井眼尺寸和泥浆比重对GRAX进行几何校正，得到归一化到充满密度为8.33ppg水的10"井眼参考标准下的修正伽马API值GRCX。基本的数据处理流程如下所示：
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2p1Ye7bjpFVyD6A1pD1o04cuUyR3dkOWTH5RIfYSjXDQTu7WYzz3mnVWRR1YOgrS1UQXHiR5e8jD93UpWR5dUpVqqwLoW7e8toa1O93RqGqLc/Flow%20Chart%20of%20Gamma%20Log%20Processing.png?psid=1">
-<img class="aligncenter" title="Flow Chart of Gamma Log Processing" style="width:700px;height:380px;" src="https://lneprw.blu.livefilestore.com/y2p1Ye7bjpFVyD6A1pD1o04cuUyR3dkOWTH5RIfYSjXDQTu7WYzz3mnVWRR1YOgrS1UQXHiR5e8jD93UpWR5dUpVqqwLoW7e8toa1O93RqGqLc/Flow%20Chart%20of%20Gamma%20Log%20Processing.png?psid=1" alt="Flow Chart of Gamma Log Processing"></a>
+<a target="_blank" href="https://knco0w.bl3302.livefilestore.com/y2ptRE5389j3LanlE72MSnSr3_MjUDTMcH8WltR1pjiIy6G39wMxaisBXzNRg9pSQZeV8HoNA942dZUFopVWgSHVLXMzWVHroFikV-c1u4-zc8/Flow%20Chart%20of%20Gamma%20Log%20Processing.png?psid=1">
+<img class="aligncenter" title="Flow Chart of Gamma Log Processing" style="width:700px;height:380px;" src="https://knco0w.bl3302.livefilestore.com/y2ptRE5389j3LanlE72MSnSr3_MjUDTMcH8WltR1pjiIy6G39wMxaisBXzNRg9pSQZeV8HoNA942dZUFopVWgSHVLXMzWVHroFikV-c1u4-zc8/Flow%20Chart%20of%20Gamma%20Log%20Processing.png?psid=1" alt="Flow Chart of Gamma Log Processing"></a>
 
 在上图中，对表观伽马API值GRAX和修正伽马API值GRCX还可以进行滤波处理，分别得到<b>滤波表观伽马API值GRAFX</b>和<b>滤波修正API值GRCFX</b>，如下图所示：
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pTWBp63q7sTlkIEmG7WHVcxwcujekNZzAj8KEJ7Rihi4MUTNI4LQsNp47pblOR2qdAxTFV2O9AWIV1pnDn9XzlnGSdxbV5S6iDWxGlrHxD-M/08%20MPR%20PRESSTEQ%20GAMMA-RES_Day7-StudentGuide.bmp?psid=1">
-<img class="aligncenter" title="08 MPR PRESSTEQ GAMMA-RES_Day7-StudentGuide" style="width:700px;height:450px;" src="https://lneprw.blu.livefilestore.com/y2pTWBp63q7sTlkIEmG7WHVcxwcujekNZzAj8KEJ7Rihi4MUTNI4LQsNp47pblOR2qdAxTFV2O9AWIV1pnDn9XzlnGSdxbV5S6iDWxGlrHxD-M/08%20MPR%20PRESSTEQ%20GAMMA-RES_Day7-StudentGuide.bmp?psid=1" alt="08 MPR PRESSTEQ GAMMA-RES_Day7-StudentGuide"></a>
+<a target="_blank" href="https://j9co0w.bl3302.livefilestore.com/y2pvDpyKMlqQ7topGwxjjuf0MF8cy828q2z5ORJg2kwm2J_B2IR-zueUBcGRFL3vaC0e6sBpbmX43VVx5X4Mjso33EJtFdMZqTzs6bH-9daID0/08%20MPR%20PRESSTEQ%20GAMMA-RES_Day7-StudentGuide.bmp?psid=1">
+<img class="aligncenter" title="08 MPR PRESSTEQ GAMMA-RES_Day7-StudentGuide" style="width:700px;height:450px;" src="https://j9co0w.bl3302.livefilestore.com/y2pvDpyKMlqQ7topGwxjjuf0MF8cy828q2z5ORJg2kwm2J_B2IR-zueUBcGRFL3vaC0e6sBpbmX43VVx5X4Mjso33EJtFdMZqTzs6bH-9daID0/08%20MPR%20PRESSTEQ%20GAMMA-RES_Day7-StudentGuide.bmp?psid=1" alt="08 MPR PRESSTEQ GAMMA-RES_Day7-StudentGuide"></a>
 
 <h4><a name="sec-9">9 伽马曲线的应用</a></h4>
 
@@ -605,10 +605,10 @@ KCl中钾原子的重量比：39.1/(39.1+35.45)=0.525
 根据不同的岩性自然伽马射线强度不同可以划分岩性。在自然伽马测井曲线上，泥岩和页岩(shale)显示明显的放射性，而且可以连成一条相当稳定的泥岩线。超过这条泥岩线的是岩浆岩(igneous，如花岗岩granite)、富含放射性矿物的砂岩(sandstone)或石灰岩(limestone)及海相泥岩(marine mudstone)等。石膏(gypsum)、硬石膏(anhydrite)、岩盐(halite)和纯的石灰岩、白云岩(dolomite)的放射性很低，形成井剖面上的基值线，白云岩往往比石灰岩具有较高的放射性，这是由于含放射性物质的地层水在碳酸盐白云岩化的过程中将放射性物质带入了岩石。
 
 <p style="text-align:center;">
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pXMAeBR758IvZWRAt2Lo9GKEwL6BkWPCNwipxjbzpq56dz9q_q1VmmtVimzWClZnbw47DBVNKS7CRDTQNzg6-knpOx2AnnLhqhWFwzqgFUkE/Gamma%20Log%20Lithology%20Determination.bmp?psid=1">
-<img title="Gamma Log Lithology Determination" style="width:450px;height:600px;" src="https://lneprw.blu.livefilestore.com/y2pXMAeBR758IvZWRAt2Lo9GKEwL6BkWPCNwipxjbzpq56dz9q_q1VmmtVimzWClZnbw47DBVNKS7CRDTQNzg6-knpOx2AnnLhqhWFwzqgFUkE/Gamma%20Log%20Lithology%20Determination.bmp?psid=1" alt="Gamma Log Lithology Determination"></a>
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pcmsQUAjfhOWETHpgb_erCIzXEi0ejxDJvBCPyKq05A9XvXT6oq5YJA_wNHF6IKJjjP8iEFPeCgCA-PbvMnpZCHsD5JKFs1iCBr7cZzuEu4w/Determination%20of%20Lithology.png?psid=1">
-<img title="Determination of Lithology" style="width:450px;height:600px;" src="https://lneprw.blu.livefilestore.com/y2pcmsQUAjfhOWETHpgb_erCIzXEi0ejxDJvBCPyKq05A9XvXT6oq5YJA_wNHF6IKJjjP8iEFPeCgCA-PbvMnpZCHsD5JKFs1iCBr7cZzuEu4w/Determination%20of%20Lithology.png?psid=1" alt="Determination of Lithology"></a></p>
+<a target="_blank" href="https://qglasq.bl3302.livefilestore.com/y2pghHEzfgdJHAqm8W4MY7ciBOyZ8JJCFbi2pP5AnEJtiLB1fR3rujyXy4ZAkdM67K9B-ZAl4XCry7VqJ84i86DIDWyt2_jKM_04nY4f5hVRrg/Gamma%20Log%20Lithology%20Determination.bmp?psid=1">
+<img title="Gamma Log Lithology Determination" style="width:450px;height:600px;" src="https://qglasq.bl3302.livefilestore.com/y2pghHEzfgdJHAqm8W4MY7ciBOyZ8JJCFbi2pP5AnEJtiLB1fR3rujyXy4ZAkdM67K9B-ZAl4XCry7VqJ84i86DIDWyt2_jKM_04nY4f5hVRrg/Gamma%20Log%20Lithology%20Determination.bmp?psid=1" alt="Gamma Log Lithology Determination"></a>
+<a target="_blank" href="https://jtco0w.bl3302.livefilestore.com/y2puRWp6udqOR885ufl9LawxcfUR7_wEWerTTX2x_5m-7WZcDhNw6JQdhaFcIVd8jWfJSYgOFtNxo-S4tr_5kpy3RYY1sPRfmHMs0gPFFj4-Tk/Determination%20of%20Lithology.png?psid=1">
+<img title="Determination of Lithology" style="width:450px;height:600px;" src="https://jtco0w.bl3302.livefilestore.com/y2puRWp6udqOR885ufl9LawxcfUR7_wEWerTTX2x_5m-7WZcDhNw6JQdhaFcIVd8jWfJSYgOFtNxo-S4tr_5kpy3RYY1sPRfmHMs0gPFFj4-Tk/Determination%20of%20Lithology.png?psid=1" alt="Determination of Lithology"></a></p>
 
 在砂泥岩剖面中，纯砂岩在自然伽马曲线上显示为最低值，而泥岩显示为最高值，粉砂岩(siltstone)、泥质砂岩介于中间，并随着砂岩中含泥量的增高自然伽马读数也增高。
 
@@ -628,29 +628,29 @@ $$
 \end{align*}
 $$
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2p4ynnoHH4CmN5L8V-TEgyXH_Rdew6erbf2njtxkdvWH-1ZoNVOcho01Klc_5RWLvA7uISe2ia8k7TJQD3yI5IZQStX9G8kNvo8lJ4Eo-xI78/Shale%20Volume%20Calculation.bmp?psid=1">
-<img class="aligncenter" title="" style="width:400px;height:480px;" src="https://lneprw.blu.livefilestore.com/y2p4ynnoHH4CmN5L8V-TEgyXH_Rdew6erbf2njtxkdvWH-1ZoNVOcho01Klc_5RWLvA7uISe2ia8k7TJQD3yI5IZQStX9G8kNvo8lJ4Eo-xI78/Shale%20Volume%20Calculation.bmp?psid=1" alt=""></a>
+<a target="_blank" href="https://pmlasq.bl3302.livefilestore.com/y2p_ZKN_RhM9kV_OAFgyeNDXfsDuCe8dYolvF5ev9TtCaVRf1tafjYffZa7BQSsfUPBBrcmupx56ocY-qEB6HnyiTJ_yN-0V0BQSDUHF1bDcx0/Shale%20Volume%20Calculation.bmp?psid=1">
+<img class="aligncenter" title="" style="width:400px;height:480px;" src="https://pmlasq.bl3302.livefilestore.com/y2p_ZKN_RhM9kV_OAFgyeNDXfsDuCe8dYolvF5ev9TtCaVRf1tafjYffZa7BQSsfUPBBrcmupx56ocY-qEB6HnyiTJ_yN-0V0BQSDUHF1bDcx0/Shale%20Volume%20Calculation.bmp?psid=1" alt=""></a>
 
 很多地质学家都简单地将地层中的泥质含量等同于上面的泥质含量指数V<sub>sh</sub>=I<sub>GR</sub>，但严格来说应如下图所示根据SHI来查找相应的地层泥质含量。影响计算结果的另两个参数是GR<sub>max</sub>和GR<sub>min</sub>，不能简单地把它们理解成自然伽马的最大值和最小值。GR<sub>max</sub>应是本井段纯泥岩自然伽马平均值，在泥岩中是最大的，应当把其它高放射性岩石的读数排除在外。GR<sub>min</sub>应是本井段最纯的储集层岩石(V<sub>sh</sub>=0)的自然伽马读数，在储集层中应是最小的，如果没有纯岩石，GR<sub>min</sub>可比实际最小值略低一些。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2p_Iv4Rp-DZFaP_8l_QmouuP6DKVw4vNBvEA5VmGOUbnkXJO4PXU3MbBnSQpxQn55ty-4HeK_3tazAWJ3ttBnm2s8dSElIfLDKCJPEDQroY8s/Calculation%20of%20Shale%20Volume.png?psid=1">
-<img class="aligncenter" title="Calculation of Shale Volume" style="width:550px;height:500px;" src="https://lneprw.blu.livefilestore.com/y2p_Iv4Rp-DZFaP_8l_QmouuP6DKVw4vNBvEA5VmGOUbnkXJO4PXU3MbBnSQpxQn55ty-4HeK_3tazAWJ3ttBnm2s8dSElIfLDKCJPEDQroY8s/Calculation%20of%20Shale%20Volume.png?psid=1" alt="Calculation of Shale Volume"></a>
+<a target="_blank" href="https://p2lasq.bl3302.livefilestore.com/y2pCKiZFj8zzxfZS6s-jvvCbIEOzwckEuTkAjseYORRWXHqzYKIlRlxf_O28arMeWIXwnphvZWSilgCWV2erfHk_jDqE-ZpdpRtWfs7pI2Kgww/Calculation%20of%20Shale%20Volume.png?psid=1">
+<img class="aligncenter" title="Calculation of Shale Volume" style="width:550px;height:500px;" src="https://p2lasq.bl3302.livefilestore.com/y2pCKiZFj8zzxfZS6s-jvvCbIEOzwckEuTkAjseYORRWXHqzYKIlRlxf_O28arMeWIXwnphvZWSilgCWV2erfHk_jDqE-ZpdpRtWfs7pI2Kgww/Calculation%20of%20Shale%20Volume.png?psid=1" alt="Calculation of Shale Volume"></a>
 
 <h5><a name="sec-9-3">9.3 地质导向(Geo-Steering)</a></h5>
 
 利用分区方位伽马的读数差异可以实时了解井下钻进岩性并计算地层分界面的地质倾角。如下图所示，伽马探测仪向地面实时传输上下左右四个分区的伽马数据，从上面的两条曲线可以看出，上四分区伽马读数落后5m才检测到新的地层，这说明钻头正进入到泥质含量较少的地层中，且地层倾角是沿着井眼方向向右下倾斜的。从下面的四分区热力图像中也可以得到同样的结论。
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pO_GCfduFLoN8Hen1gmzthnHQM1rd4dpV9L_BMRT3RD-pAfann2OJyY1e9oceMlGA1VsF071oorxI1fwHJxU6oWYlhrC9z4hJ1M_4Qk1czAY/Azimuthal%20Gamma%20Geo-Steering.png?psid=1">
-<img class="aligncenter" title="Azimuthal Gamma Geo-Steering" style="width:600px;height:470px;" src="https://lneprw.blu.livefilestore.com/y2pO_GCfduFLoN8Hen1gmzthnHQM1rd4dpV9L_BMRT3RD-pAfann2OJyY1e9oceMlGA1VsF071oorxI1fwHJxU6oWYlhrC9z4hJ1M_4Qk1czAY/Azimuthal%20Gamma%20Geo-Steering.png?psid=1" alt="Azimuthal Gamma Geo-Steering"></a>
+<a target="_blank" href="https://p2iq1q.bl3302.livefilestore.com/y2ppnSR3C18IIE8FTfGD89UM0vlMzINbNe_lXm7GmipvdkMOcBUuOv3TCq8J-TdEHQ2R40zYyq8OyjCqnSJ8QAaMHVeD-nmK3SMTzZToDitXFI/Azimuthal%20Gamma%20Geo-Steering.png?psid=1">
+<img class="aligncenter" title="Azimuthal Gamma Geo-Steering" style="width:600px;height:470px;" src="https://p2iq1q.bl3302.livefilestore.com/y2ppnSR3C18IIE8FTfGD89UM0vlMzINbNe_lXm7GmipvdkMOcBUuOv3TCq8J-TdEHQ2R40zYyq8OyjCqnSJ8QAaMHVeD-nmK3SMTzZToDitXFI/Azimuthal%20Gamma%20Geo-Steering.png?psid=1" alt="Azimuthal Gamma Geo-Steering"></a>
 
 下图中给出了一个计算地质倾角的实例，图中的X为上下四分区分别接触到地层分界面时钻头钻进的距离：
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pUDa_s2tDxq8f1-ONruKvhNicnH6_S8_zyTPREMFgWqywihQGVjuoqlyJmnAISO9VqTX1F5199M-wK_XxDTLVvVJ6tpJXYxdX5Xwiy5BwT8Q/Example%20showing%20UP-DOWN%20quadrant%20data%20for%20an%20inclined%20bed.bmp?psid=1">
-<img class="aligncenter" title="Example showing UP-DOWN quadrant data for an inclined bed" style="width:700px;height:300px;" src="https://lneprw.blu.livefilestore.com/y2pUDa_s2tDxq8f1-ONruKvhNicnH6_S8_zyTPREMFgWqywihQGVjuoqlyJmnAISO9VqTX1F5199M-wK_XxDTLVvVJ6tpJXYxdX5Xwiy5BwT8Q/Example%20showing%20UP-DOWN%20quadrant%20data%20for%20an%20inclined%20bed.bmp?psid=1" alt="Example showing UP-DOWN quadrant data for an inclined bed"></a>
+<a target="_blank" href="https://pglasq.bl3302.livefilestore.com/y2pFIJTuS3HDlL9uDlTLZxjzjb8DyFn-fxSiAUiwNGMn1pH8g7LtjDbiJT8bDoDkgFEZNYQhODe98p9Xsi64CC_96fAZg62mmUostDS1Dtxjzc/Example%20showing%20UP-DOWN%20quadrant%20data%20for%20an%20inclined%20bed.bmp?psid=1">
+<img class="aligncenter" title="Example showing UP-DOWN quadrant data for an inclined bed" style="width:700px;height:300px;" src="https://pglasq.bl3302.livefilestore.com/y2pFIJTuS3HDlL9uDlTLZxjzjb8DyFn-fxSiAUiwNGMn1pH8g7LtjDbiJT8bDoDkgFEZNYQhODe98p9Xsi64CC_96fAZg62mmUostDS1Dtxjzc/Example%20showing%20UP-DOWN%20quadrant%20data%20for%20an%20inclined%20bed.bmp?psid=1" alt="Example showing UP-DOWN quadrant data for an inclined bed"></a>
 
 
-<a target="_blank" href="https://lneprw.blu.livefilestore.com/y2pSjxO_-E84LdpBZUQV2OhtMxOgFEnNCpI6OrPStOVlooTcIf8YpK1GqwL7GHZCf-udsUZcquzdxXD1NFDwon436Vv_vE5MDyjQeJxUSIdZfs/Geo-Steering%20Schematic.png?psid=1">
-<img class="aligncenter" title="Geo-Steering Schematic" style="width:600px;height:300px;" src="https://lneprw.blu.livefilestore.com/y2pSjxO_-E84LdpBZUQV2OhtMxOgFEnNCpI6OrPStOVlooTcIf8YpK1GqwL7GHZCf-udsUZcquzdxXD1NFDwon436Vv_vE5MDyjQeJxUSIdZfs/Geo-Steering%20Schematic.png?psid=1" alt="Geo-Steering Schematic"></a>
+<a target="_blank" href="https://pwlasq.bl3302.livefilestore.com/y2pTwDy7E77DVMdHjcn7RZ6ELZsrOI1xTu0GcV3euc1KjFvGRR1jtYMFpxZ8E6NwQdW0RmoHRXk7aUA6Jpaz1N2LESkixjhT5UKduI4pVduhOE/Geo-Steering%20Schematic.png?psid=1">
+<img class="aligncenter" title="Geo-Steering Schematic" style="width:600px;height:300px;" src="https://pwlasq.bl3302.livefilestore.com/y2pTwDy7E77DVMdHjcn7RZ6ELZsrOI1xTu0GcV3euc1KjFvGRR1jtYMFpxZ8E6NwQdW0RmoHRXk7aUA6Jpaz1N2LESkixjhT5UKduI4pVduhOE/Geo-Steering%20Schematic.png?psid=1" alt="Geo-Steering Schematic"></a>
 
 除了上面所介绍的三种主要应用外，利用伽马测井曲线还可以确定地层的粒度中值，与其他工具一起进行深度匹配，进行漏点、漏层等固井质量的检查等。
 

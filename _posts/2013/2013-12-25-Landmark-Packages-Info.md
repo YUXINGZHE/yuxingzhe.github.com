@@ -40,8 +40,8 @@ Landmark 钻完井工程综合分析系统主要包括以下十大功能模块�
 
 COMPASS 可使用户在进行各类定向井设计时比以往任何时候都容易， COMPASS 广泛应用了众多的软件工具，这些工具不仅适用于所有石油公司同时也适用于所有的定向井承包商，从初始设计到工程作业，COMPASS 可提供快速、准确的轨迹设计并在初始阶段判断出潜在的问题所在。
 
-<a target="_blank" href="https://92iq1q.blu.livefilestore.com/y2pZkE8DQKbpqvCYrTe0HpWh0ox5BISp03ZePb7vGwq965Hl33Y1qFzohOtjUSwsO9aCs-F9x2OVFIRJ9tY4awTmL6pH3PBwa0WwWok-P1rpXo/COMPASS.png?psid=1">
-<img class="aligncenter" title="COMPASS" style="width:600px;height:470px;" src="https://92iq1q.blu.livefilestore.com/y2pZkE8DQKbpqvCYrTe0HpWh0ox5BISp03ZePb7vGwq965Hl33Y1qFzohOtjUSwsO9aCs-F9x2OVFIRJ9tY4awTmL6pH3PBwa0WwWok-P1rpXo/COMPASS.png?psid=1" alt="COMPASS"></a>
+<a target="_blank" href="https://9giq1q.bl3302.livefilestore.com/y2pimxv87wSx1i6OUAxUdwSRQB0JrH9SRu8xPDO0bme2z7vYzfuTTTGGTDKXSGmZxz-hnmGJ4FLzE7Z7zxYQnO5QS-kuHMqoKpCxaYIQn7Lf3w/COMPASS.png?psid=1">
+<img class="aligncenter" title="COMPASS" style="width:600px;height:470px;" src="https://9giq1q.bl3302.livefilestore.com/y2pimxv87wSx1i6OUAxUdwSRQB0JrH9SRu8xPDO0bme2z7vYzfuTTTGGTDKXSGmZxz-hnmGJ4FLzE7Z7zxYQnO5QS-kuHMqoKpCxaYIQn7Lf3w/COMPASS.png?psid=1" alt="COMPASS"></a>
 
 (1)COMPASS的三大主要功能
 
@@ -67,9 +67,9 @@ UTM和地理数据输出：这个模式提供了UTM输出设施，所有测量�
 
 Landmark 公司的StressCheck 采用了不同工况下的三轴应力设计方法，能够快捷完成强度设计，在确保安全的同时，大幅削减套管成本。其抗内压、抗外挤和轴向载荷设计结果可在曲线图示中观察，同时，独一无二的"点击－拖拉"图形设计使设计变得非常简单方便。
 
-<a target="_blank" href="https://92iq1q.blu.livefilestore.com/y2pKnEjWO5mJhubbfWB2FkvBUg7rasIZMySn5913dS1p9FrVCAdegME6XL-3k7kgvC3X5SuU_Q6TsNvBt79O72zy3gXzpEx7m-YpaqDhB23Zes/StressCheck.png?psid=1">
+<a target="_blank" href="https://9wiq1q.bl3302.livefilestore.com/y2pKOmpI__RPkTmnE0N7VGXfTNsmtaTSV17Dx73zIdKkOD1ITgIcyLLCx-bY5ylwLD969F6erYX-uaxyu50iOxqbMejqJ2y6PbNnmU84s7XzVQ/StressCheck.png?psid=1">
 <img class="aligncenter" title="Stress Check" style="width:700px;height:550px;"
-src="https://92iq1q.blu.livefilestore.com/y2pKnEjWO5mJhubbfWB2FkvBUg7rasIZMySn5913dS1p9FrVCAdegME6XL-3k7kgvC3X5SuU_Q6TsNvBt79O72zy3gXzpEx7m-YpaqDhB23Zes/StressCheck.png?psid=1" alt="Stress Check"></a>
+src="https://9wiq1q.bl3302.livefilestore.com/y2pKOmpI__RPkTmnE0N7VGXfTNsmtaTSV17Dx73zIdKkOD1ITgIcyLLCx-bY5ylwLD969F6erYX-uaxyu50iOxqbMejqJ2y6PbNnmU84s7XzVQ/StressCheck.png?psid=1" alt="Stress Check"></a>
 
 <ul style="margin-left:50px;">
 <li>包含从简单到复杂的外部载荷剖面，具有诸如好/坏固井质量，渗透层，泥浆降解，环空泥浆液面下降和环空气串等选项，并允许自定义其它外部载荷，实现不同工况下的三轴应力设计</li>
@@ -114,8 +114,8 @@ WellCat 可为管柱设计提供一体化设计和分析解决方案。WellCat �
 
 对高温高压油井不采用WellCat 进行设计的潜在危险是，由于环空流体膨胀可能造成管柱失效，造成井漏和井喷，考虑到油藏的油气损失、勘探和开发费用以及对健康安全和环境(HSE)的影响。
 
-<a target="_blank" href="https://92iq1q.blu.livefilestore.com/y2pF7oCTzBnfeC6u3BH6A1hFlCfEDFtCmZs27blZhL00GWtjy2XagjDwbjXDGK3-eAAGU1IBLpmxg8oj61NMsEhE4cXXmz1UkUxzmmKjkk0GPE/WellCat.png?psid=1">
-<img class="aligncenter" title="WellCat" style="width:700px;height:570px;" src="https://92iq1q.blu.livefilestore.com/y2pF7oCTzBnfeC6u3BH6A1hFlCfEDFtCmZs27blZhL00GWtjy2XagjDwbjXDGK3-eAAGU1IBLpmxg8oj61NMsEhE4cXXmz1UkUxzmmKjkk0GPE/WellCat.png?psid=1" alt="WellCat"></a>
+<a target="_blank" href="https://9miq1q.bl3302.livefilestore.com/y2ps__SFC5aylwNxMiYzGlF3hDKc0rN7o6tuO5a3NuIk0D-yC0FXmVQz5fMh6dn3TLqGPyQdx7g17w66AMSBbTrbWbdkqc-n2Wam8u41H19-ak/WellCat.png?psid=1">
+<img class="aligncenter" title="WellCat" style="width:700px;height:570px;" src="https://9miq1q.bl3302.livefilestore.com/y2ps__SFC5aylwNxMiYzGlF3hDKc0rN7o6tuO5a3NuIk0D-yC0FXmVQz5fMh6dn3TLqGPyQdx7g17w66AMSBbTrbWbdkqc-n2Wam8u41H19-ak/WellCat.png?psid=1" alt="WellCat"></a>
 
 该软件主要解决常温套管设计软件所不能解决的如下管柱设计中的最复杂的难题：
 
@@ -189,8 +189,8 @@ WellCat 可为管柱设计提供一体化设计和分析解决方案。WellCat �
 
 对不同性能的多流体系统进行泵入模拟，各临界点的压力计算等。这套软件能在固井作业过程中对不同液体进行模拟，包括冲洗液、隔离液、水泥浆和顶替液。它可帮助工程师对可能发生的问题进行准备，例如：U-型管效应、压差等，确保顺利实施平衡压力固井。
 
-<a target="_blank" href="https://92iq1q.blu.livefilestore.com/y2pUgkqjbw9k58W10pcWszu_ewTGAJlTb0cesO_TIgPgoy_ypIA0d3x6qTk6snJLKr5mjK_fFnsJjK1amQSargwZteFNv0gFF4gnt1qz-F6TuQ/Cementing-OptiCem.png?psid=1">
-<img class="aligncenter" title="Cementing-OptiCem" style="width:600px;height:490px;" src="https://92iq1q.blu.livefilestore.com/y2pUgkqjbw9k58W10pcWszu_ewTGAJlTb0cesO_TIgPgoy_ypIA0d3x6qTk6snJLKr5mjK_fFnsJjK1amQSargwZteFNv0gFF4gnt1qz-F6TuQ/Cementing-OptiCem.png?psid=1" alt="Cementing-OptiCem"></a>
+<a target="_blank" href="https://82iq1q.bl3302.livefilestore.com/y2ppjoll1dZQpUCKaJaw8vip50GOzgO8XIlA307-PxIMne9HoL4YBfga_A67ypqt8TMl6qt9C5yxiLM2Gjqh1X4vhi9H5Ov2p3D4EXZ_Ca5JUY/Cementing-OptiCem.png?psid=1">
+<img class="aligncenter" title="Cementing-OptiCem" style="width:600px;height:490px;" src="https://82iq1q.bl3302.livefilestore.com/y2ppjoll1dZQpUCKaJaw8vip50GOzgO8XIlA307-PxIMne9HoL4YBfga_A67ypqt8TMl6qt9C5yxiLM2Gjqh1X4vhi9H5Ov2p3D4EXZ_Ca5JUY/Cementing-OptiCem.png?psid=1" alt="Cementing-OptiCem"></a>
 
 <h5><a name="sec-4-9">(9)电子工程手册－Notebook</a></h5>
 

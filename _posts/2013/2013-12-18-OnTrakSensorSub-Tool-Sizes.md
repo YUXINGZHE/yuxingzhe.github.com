@@ -70,8 +70,8 @@ OnTrak传感器接头必须与OnTrak双向通讯与供电模块配套使用(BCPM
 
 6-3/4"OnTrak为首批研制出来的传感器接头。下图显示了移除所有盖板后传感器接头的示意图。一般来说，传感器接头的上端为定向探头，下端则包含了所有的地层评价传感器(FE sensors)及电子模块(electronic boards)等。
 
-<a target="_blank" href="https://ltcvgg.blu.livefilestore.com/y2pSCMXtdpozjiQN75gIGkPFqmCgsnInw7ZhedDhHRzYLFfWJ7q9j9-eIw_ebZKQzUflvFAR7hkGRGl7AP5oRL86lgJxgiCCG4bwpuB9oHRZyk/OnTrakSensorSubC.png?psid=1">
-<img class="aligncenter" title="OnTrak Sensor Sub" style="width:700px;height:200px;" src="https://ltcvgg.blu.livefilestore.com/y2pSCMXtdpozjiQN75gIGkPFqmCgsnInw7ZhedDhHRzYLFfWJ7q9j9-eIw_ebZKQzUflvFAR7hkGRGl7AP5oRL86lgJxgiCCG4bwpuB9oHRZyk/OnTrakSensorSubC.png?psid=1" alt="OnTrak Sensor Sub">
+<a target="_blank" href="https://ktcvgg.bl3302.livefilestore.com/y2pWAGyfDLrTWHUe_8r2DTYvnlYd014vI83l2ypAiFoK1i2jPjrIhXI8paZtq19zW2QvUG1lnLE4LOkrer0qJ80QpZFxH-_5AM_5A66yt-Yyvs/OnTrakSensorSubC.png?psid=1">
+<img class="aligncenter" title="OnTrak Sensor Sub" style="width:700px;height:200px;" src="https://ktcvgg.bl3302.livefilestore.com/y2pWAGyfDLrTWHUe_8r2DTYvnlYd014vI83l2ypAiFoK1i2jPjrIhXI8paZtq19zW2QvUG1lnLE4LOkrer0qJ80QpZFxH-_5AM_5A66yt-Yyvs/OnTrakSensorSubC.png?psid=1" alt="OnTrak Sensor Sub">
 
 在6-3/4"OnTrak传感器接头的上部发射器上端可选装一个扶正器。如果传感器接头外径磨损严重的话，必须安装这种“锥形滑套扶正器TSS(Tapered Sleeve Stabilizer)”。
 
@@ -79,8 +79,8 @@ OnTrak传感器接头必须与OnTrak双向通讯与供电模块配套使用(BCPM
 
 9-1/2" OnTrak传感器接头与6-3/4"OnTrak传感器接头的设计基本相同，唯一的区别在于电磁波发射器与接收器之间的距离有所加大，这样可以将电阻率测量范围扩展至26"井眼。由于下移了信号接收器以及两个发射器(T1和T3)的位置，接头内部的电子模块盖板则被移到了上部。与6-3/4"接头相同，在9-1/2" OnTrak传感器接头上也可以安装“锥形滑套扶正器(TSS)”。9-1/2" OnTrak传感器接头的结构如下所示。
 
-<a target="_blank" href="https://ltcvgg.blu.livefilestore.com/y2pRpa2LOqJHgjAq_4_MugZ12PNueUgx3ZYTvoMJOhCsU8oZfZJTyzphLumOSDhDoXKCyl-uG45a8G1BoNUeH3qDEVtePaiW0RFasYNY47OQc8/9.5OnTrakSensorSub.jpg?psid=1">
-<img class="aligncenter" title="9-1/2” OnTrak Sensor Sub" style="width:700px;height:180px;" src="https://ltcvgg.blu.livefilestore.com/y2pRpa2LOqJHgjAq_4_MugZ12PNueUgx3ZYTvoMJOhCsU8oZfZJTyzphLumOSDhDoXKCyl-uG45a8G1BoNUeH3qDEVtePaiW0RFasYNY47OQc8/9.5OnTrakSensorSub.jpg?psid=1" alt="9-1/2” OnTrak Sensor Sub">
+<a target="_blank" href="https://ltd6pq.bl3302.livefilestore.com/y2pjmaVOswXOU2xTyCRzFMmvnGbLanZ3qjf7UP0y38_mblpl9HGlJsEc-ti61jqy9HroGZTr3Q8ycvTjQsHikmJeIT1alDVl8-6RBEriCxqed4/8.25OnTrakSensorSub.png?psid=1">
+<img class="aligncenter" title="9-1/2” OnTrak Sensor Sub" style="width:700px;height:180px;" src="https://ltd6pq.bl3302.livefilestore.com/y2pjmaVOswXOU2xTyCRzFMmvnGbLanZ3qjf7UP0y38_mblpl9HGlJsEc-ti61jqy9HroGZTr3Q8ycvTjQsHikmJeIT1alDVl8-6RBEriCxqed4/8.25OnTrakSensorSub.png?psid=1" alt="9-1/2” OnTrak Sensor Sub">
 
 #### 4-3/4" OnTrak传感器接头 ####
 
@@ -88,24 +88,24 @@ OnTrak传感器接头必须与OnTrak双向通讯与供电模块配套使用(BCPM
 
 4-3/4" OnTrak的底端为滑套式设计(a sleeve design，与BCPM设计类似)，它拥有两个盖板以及一个数据输出接口(read out port)。在滑套内部安装有伽马探测器(Gamma detectors)，高压供电模块(high voltage power supply board)，供电调制解调器(power supply modem)，压力/伽马模块(pressure/ gammaboard)以及主控/储存模块(Master/ Memory board)等。两个盖板下为电池和压力传感器，数据输出接口与大尺寸接头相同。4-3/4" OnTrak底端结构如下所示。
 
-<a target="_blank" href="https://ltcvgg.blu.livefilestore.com/y2pq0kOCZ__5b3DRtpOMfXz5NfQvld7uqnOguF7GvSLOLKtKNU3pNE1ZjaLiFWZ8hctl8B6xmvwjNO2pY428bL_AIrOCiLpMAYR0E91m_nCe6k/LS4.75OnTrakSnesorSub.jpg?psid=1">
-<img class="aligncenter" title="Low Section of 4-3/4” OnTrak Sensor Sub" style="width:500px;height:250px;" src="https://ltcvgg.blu.livefilestore.com/y2pq0kOCZ__5b3DRtpOMfXz5NfQvld7uqnOguF7GvSLOLKtKNU3pNE1ZjaLiFWZ8hctl8B6xmvwjNO2pY428bL_AIrOCiLpMAYR0E91m_nCe6k/LS4.75OnTrakSnesorSub.jpg?psid=1" alt="Low Section of 4-3/4” OnTrak Sensor Sub">
+<a target="_blank" href="https://j9cvgg.bl3302.livefilestore.com/y2pgipyx5WpdVS7FwKag79Ydu8Y5nVM6vb2XciNMrHZNuEs2L4a4BvFBs5AkHhNj5M7F-xnSEbw_PBvBHLjS19Nq0ySlE74QoLxUCGJRRoBMRc/LS4.75OnTrakSnesorSub.jpg?psid=1">
+<img class="aligncenter" title="Low Section of 4-3/4” OnTrak Sensor Sub" style="width:500px;height:250px;" src="https://j9cvgg.bl3302.livefilestore.com/y2pgipyx5WpdVS7FwKag79Ydu8Y5nVM6vb2XciNMrHZNuEs2L4a4BvFBs5AkHhNj5M7F-xnSEbw_PBvBHLjS19Nq0ySlE74QoLxUCGJRRoBMRc/LS4.75OnTrakSnesorSub.jpg?psid=1" alt="Low Section of 4-3/4” OnTrak Sensor Sub">
 
 中间部分则安装了4个发射器，2个接收器以及相应的控制模块。
 
-<a target="_blank" href="https://ltcvgg.blu.livefilestore.com/y2pAGdIPQL7XH0h3G2HgnEmnQsgxykw4zKKPRbsYz9LQKXYN7YkOqBsyug9ukes1zJ6NDVVn-xTpn9QQZzUhG0RkBueVGXTMtfKdmAnwntcjH8/MS4.75OnTrakSensorSub.jpg?psid=1">
-<img class="aligncenter" title="Middle Section of 4-3/4” OnTrak Sensor Sub" style="width:500px;height:270px;" src="https://ltcvgg.blu.livefilestore.com/y2pAGdIPQL7XH0h3G2HgnEmnQsgxykw4zKKPRbsYz9LQKXYN7YkOqBsyug9ukes1zJ6NDVVn-xTpn9QQZzUhG0RkBueVGXTMtfKdmAnwntcjH8/MS4.75OnTrakSensorSub.jpg?psid=1" alt="Middle Section of 4-3/4” OnTrak Sensor Sub">
+<a target="_blank" href="https://jtcvgg.bl3302.livefilestore.com/y2pF2CitNd_v-fowp1alO8qzIlS3NVR94GEx6JIEAVYJbMNOd5GRHletvtZvhhbiYwSRMH-ambAUwtrBy19gRnRISPV_q8Ga7-RNeQB2WSyPGI/MS4.75OnTrakSensorSub.jpg?psid=1">
+<img class="aligncenter" title="Middle Section of 4-3/4” OnTrak Sensor Sub" style="width:500px;height:270px;" src="https://jtcvgg.bl3302.livefilestore.com/y2pF2CitNd_v-fowp1alO8qzIlS3NVR94GEx6JIEAVYJbMNOd5GRHletvtZvhhbiYwSRMH-ambAUwtrBy19gRnRISPV_q8Ga7-RNeQB2WSyPGI/MS4.75OnTrakSensorSub.jpg?psid=1" alt="Middle Section of 4-3/4” OnTrak Sensor Sub">
 
 与大尺寸接头相同， 4-3/4"OnTrak传感器接头的定向探头也安装在上部，他们都使用相同的定向探头，只是各自的扶正器有所差异。探头的定向刻划槽(scribeline)位于定向盖板下方并与定向盖板对齐。
 
-<a target="_blank" href="https://ltcvgg.blu.livefilestore.com/y2paJRDcNQYwQMatPeD2CAmrURlfLrAKC-_h-h2rgvFqDycMc7yyF06oCwvjO3k_mFPSQihFZf3raCwK6FGDW9apynuq4-jFFNNrLE0EEzcENg/US4.75OnTrakSensorSub.jpg?psid=1">
-<img class="aligncenter" title="Up Section of 4-3/4” OnTrak Sensor Sub" style="width:500px;height:260px;" src="https://ltcvgg.blu.livefilestore.com/y2paJRDcNQYwQMatPeD2CAmrURlfLrAKC-_h-h2rgvFqDycMc7yyF06oCwvjO3k_mFPSQihFZf3raCwK6FGDW9apynuq4-jFFNNrLE0EEzcENg/US4.75OnTrakSensorSub.jpg?psid=1" alt="Up Section of 4-3/4” OnTrak Sensor Sub">
+<a target="_blank" href="https://l9d6pq.bl3302.livefilestore.com/y2pNJPer-94_Nf1LeU2SZH3efZvyXHy46EmE2cUnXA_DLIsq4QDDX5oaYMm9Kpkex-GCnH_xglnKeYqNL64-J1smKeZDPMzlk2i3hMLxVL8QZQ/US4.75OnTrakSensorSub.jpg?psid=1">
+<img class="aligncenter" title="Up Section of 4-3/4” OnTrak Sensor Sub" style="width:500px;height:260px;" src="https://l9d6pq.bl3302.livefilestore.com/y2pNJPer-94_Nf1LeU2SZH3efZvyXHy46EmE2cUnXA_DLIsq4QDDX5oaYMm9Kpkex-GCnH_xglnKeYqNL64-J1smKeZDPMzlk2i3hMLxVL8QZQ/US4.75OnTrakSensorSub.jpg?psid=1" alt="Up Section of 4-3/4” OnTrak Sensor Sub">
 
 #### 8-1/4" OnTrak传感器接头 ####
 
 8-1/4" OnTrak传感器接头是最新推出的一批定向接头，其所有传感器及控制模块的示意图如下。
 
-<a target="_blank" href="https://ltcvgg.blu.livefilestore.com/y2pply2QGShVBo5PpZEDNbukaSTNCnDxw-XZvERi90CAZxWlWIAHvwAziyQnMir2P4FXOH26GYuwKNdQ8sG4X_JUo1iEAPhnwyiEJcbbW248Ho/8.25OnTrakSensorSub.png?psid=1">
-<img class="aligncenter" title="8-1/4” OnTrak Sensor Sub" style="width:600px;height:300px;" src="https://ltcvgg.blu.livefilestore.com/y2pply2QGShVBo5PpZEDNbukaSTNCnDxw-XZvERi90CAZxWlWIAHvwAziyQnMir2P4FXOH26GYuwKNdQ8sG4X_JUo1iEAPhnwyiEJcbbW248Ho/8.25OnTrakSensorSub.png?psid=1" alt="8-1/4” OnTrak Sensor Sub">
+<a target="_blank" href="https://kncvgg.bl3302.livefilestore.com/y2pt-XZ8HT645FZ3eEq-L4__AUTZL1JdQiKNWp0ckt3_7u-jBexdjZCgKGryVrA0prkN_96-cun4kG3mLgYiv-VGrrguoHjcWNhoPpOrmUah7w/9.5OnTrakSensorSub.jpg?psid=1">
+<img class="aligncenter" title="8-1/4” OnTrak Sensor Sub" style="width:600px;height:300px;" src="https://kncvgg.bl3302.livefilestore.com/y2pt-XZ8HT645FZ3eEq-L4__AUTZL1JdQiKNWp0ckt3_7u-jBexdjZCgKGryVrA0prkN_96-cun4kG3mLgYiv-VGrrguoHjcWNhoPpOrmUah7w/9.5OnTrakSensorSub.jpg?psid=1" alt="8-1/4” OnTrak Sensor Sub">
 
 与6-3/4"和9-1/2"接头相同，8-1/4" OnTrak传感器接头上也可以安装“锥形滑套扶正器(TSS)”。
