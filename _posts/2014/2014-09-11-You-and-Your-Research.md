@@ -6,16 +6,16 @@ author_name: YUXINGZHE
 author_uri: http://twitter.com/yuxingzhe
 ---
 
-<pre><code>本文包含三篇有关学术研究之方法与洞见。<a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html" style="border-bottom:1px dashed;">第一篇</a>是大科学家<a href="http://en.wikipedia.org/wiki/Richard_Hamming" style="border-bottom:1px dashed;">Richard Hamming</a>的著名演讲，于1986年在贝尔通讯研究中心给2000多名Bellcore的科学家们所做,<a href="http://www.rangang.com/?p=9" style="border-bottom:1px dashed;">此处</a>可参看You and Your Research的中文译文。第二篇为著名数学家弗里曼·戴森的演讲译文——鸟和青蛙。第三篇为庞加莱关于数学发现的心理学的演讲。</code></pre>
+<pre><code>本文包含三篇有关学术研究之方法与洞见。<a href="#sec-1" style="border-bottom:1px dashed;">第一篇</a>是大科学家<a href="http://en.wikipedia.org/wiki/Richard_Hamming" style="border-bottom:1px dashed;">Richard Hamming</a>的著名演讲，于1986年在贝尔通讯研究中心给2000多名Bellcore的科学家们所做,<a href="http://www.rangang.com/?p=9" style="border-bottom:1px dashed;">此处</a>可参看You and Your Research的中文译文。<a href="#sec-2" style="border-bottom:1px dashed;">第二篇</a>为著名数学家弗里曼·戴森的演讲译文——鸟和青蛙。<a href="#sec-3" style="border-bottom:1px dashed;">第三篇</a>为庞加莱关于数学发现的心理学的演讲。</code></pre>
 
-<p style="text-align:center;font-size:30px;margin-top:40px;font-weight:bold;"><a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html" style="border-bottom:1px dashed;">Your and Your research</a></p>
+<p style="text-align:center;font-size:30px;margin-top:40px;font-weight:bold;"><a name="sec-1"><a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html" style="border-bottom:1px dashed;">Your and Your research</a></a></p>
 
 <p style="text-align:center;font-family:Simson;margin-top:20px;">Transcription of the<Br />Bell Communicatios Research Colloquium Seminar<Br />7 March 1986</p>
 
 <div style="margin-top:0;margin-right:0;margin-bottom:20px;height:120px;">
 <p style="text-align:center;font-family:Simson;width:300px;margin-left:700px;margin-right:0px;">J. F. Kaiser<Br />Bell Communications Research<Br />445 South Street<Br />Morristown, NJ 07962-1910<Br />jfk@bellcore.com</p></div>
 
->At a seminar in the Bell Communications Research Colloquia Series, Dr. Richard W. Hamming, a Professor at the Naval Postgraduate School in Monterey, California and a retired Bell Labs scientist, gave a very interesting and stimulating talk, `You and Your Research' to an overflow audience of some 200 Bellcore staff members and visitors at the Morris Research and Engineering Center on March 7, 1986. This talk centered on Hamming's observations and research on the question "hy do so few scientists make significant contributions and so many are forgotten in the long run?" From his more than forty years of experience, thirty of which were at Bell Laboratories, he has made a number of direct observations, asked very pointed questions of scientists about what, how, and why they did things, studied the lives of great scientists and great contributions, and has done introspection and studied theories of creativity. The talk is about what he has learned in terms of the properties of the individual scientists, their abilities, traits, working habits, attitudes, and philosophy.
+>At a seminar in the Bell Communications Research Colloquia Series, Dr. Richard W. Hamming, a Professor at the Naval Postgraduate School in Monterey, California and a retired Bell Labs scientist, gave a very interesting and stimulating talk, 'You and Your Research' to an overflow audience of some 200 Bellcore staff members and visitors at the Morris Research and Engineering Center on March 7, 1986. This talk centered on Hamming's observations and research on the question "hy do so few scientists make significant contributions and so many are forgotten in the long run?" From his more than forty years of experience, thirty of which were at Bell Laboratories, he has made a number of direct observations, asked very pointed questions of scientists about what, how, and why they did things, studied the lives of great scientists and great contributions, and has done introspection and studied theories of creativity. The talk is about what he has learned in terms of the properties of the individual scientists, their abilities, traits, working habits, attitudes, and philosophy.
 >
 >In order to make the information in the talk more widely available, the tape recording that was made of that talk was carefully transcribed. This transcription includes the discussions which followed in the question and answer period. As with any talk, the transcribed version suffers from translation as all the inflections of voice and the gestures of the speaker are lost; one must listen to the tape recording to recapture that part of the presentation. While the recording of Richard Hamming's talk was completely intelligible, that of some of the questioner's remarks were not. Where the tape recording was not intelligible I have added in parentheses my impression of the questioner's remarks. Where there was a question and I could identify the questioner, I have checked with each to ensure the accuracy of my interpretation of their remarks.
 
@@ -261,7 +261,7 @@ I would like to acknowledge the professional efforts of Donna Paradise of the Wo
 
 <p style="text-align:right;">J. F. Kaiser</p>
 
-<p style="font-size:30px;font-weight:bold;text-align:center;margin-top:50px;margin-bottom:20px;"><a href="http://www.ams.org/notices/200902/rtx090200212p.pdf" style="border-bottom:1px dashed;">鸟和青蛙</a></p>
+<p style="font-size:30px;font-weight:bold;text-align:center;margin-top:50px;margin-bottom:40px;"><a name="sec-2"><a href="http://www.ams.org/notices/200902/rtx090200212p.pdf" style="border-bottom:1px dashed;">鸟和青蛙</a></a></p>
 
 ><a href="http://en.wikipedia.org/wiki/Freeman_Dyson" style="border-bottom:1px dashed;">弗里曼•戴森（Freeman Dyson）</a>1923年12月15日出生，美籍英裔数学物理学家，普林斯顿高等研究院自然科学学院荣誉退休教授。
 >
@@ -425,11 +425,11 @@ I would like to acknowledge the professional efforts of Donna Paradise of the Wo
 
 &#8195;&#8195;迈克奥兰的歌词和莫瑞斯的歌声好像唤醒了来自我们集体无意识的一个梦，一位在死城中穿越的老兵的梦。像死城的概念一样，集体无意识的概念可能就是一个神话。曼宁的篇章描绘了这两个可能的神秘概念投向彼此的隐晦之光。他将集体无意识描述为一种无理性力量，这种强大的力量将我们拉向死亡和毁灭。死亡之城的原型是自从城市和抢劫军队出现后，几百座真正被毁灭的城市的痛苦的升华。我们逃离疯狂的集体无意识的唯一方法是基于希望和理性的理智集体意识。我们今天文明面临的伟大任务是创建这样一个集体意识。（完）
 
-<p style="text-align:center;font-size:30px;margin-top:40px;font-weight:bold;"><a href="http://www.iep.utm.edu/poi-math/#H3" style="border-bottom:1px dashed;">Poincaré’s Philosophy of Mathematics</a></p>
+<p style="text-align:center;font-size:30px;margin-top:50px;margin-bottom:40px;font-weight:bold;"><a name="sec-3"><a href="http://www.iep.utm.edu/poi-math/#H3" style="border-bottom:1px dashed;">Poincaré’s Philosophy of Mathematics</a></a></p>
 
 <p style="font-size:20px;font-weight:bold;">Mathematical Creation</p>
 
-How is mathematics made? What sort of brain is it that can compose the propositions and systems of mathematics? How do the mental processes of the geometer or algebraist compare with those of the musician, the poet, the painter, the chess player? In mathematical creation which are the key elements? Intuition? An exquisite sense of space and time? The precision of a calculating machine? A powerful memory? Formidable skill in following complex logical sequences? A supreme capacity for concentration?
+<span class="dropcap">H</span>ow is mathematics made? What sort of brain is it that can compose the propositions and systems of mathematics? How do the mental processes of the geometer or algebraist compare with those of the musician, the poet, the painter, the chess player? In mathematical creation which are the key elements? Intuition? An exquisite sense of space and time? The precision of a calculating machine? A powerful memory? Formidable skill in following complex logical sequences? A supreme capacity for concentration?
 
 The essay below, delivered in the first years of this century as a lecture before the Psychological Society in Paris, is the most celebrated of the attempts to describe what goes on in the mathematician's brain. Its author, Henri Poincaré, cousin of Raymond, the politician, was peculiarly fitted to undertake the task. One of the foremost mathematicians of all time, unrivaled as an analyst and mathematical physicist, Poincaré was known also as a brilliantly lucid expositor of the philosophy of science. These writings are of the first importance as professional treatises for scientists and are at the same time accessible, in large part, to the understanding of the thoughtful layman.
 
