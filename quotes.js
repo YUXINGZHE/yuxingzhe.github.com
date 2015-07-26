@@ -1,4 +1,4 @@
-﻿var dictaColor = ''; //文字颜色
+var dictaColor = ''; //文字颜色
 function dowritedicta(num){
  var randid = Math.round(Math.random()*num);
  randid = randid >= num ? num-1 : randid;
@@ -136,6 +136,6 @@ var dictumin = new Array(
  '无奈被些名利缚，无奈被他情耽搁，可惜风流总闲却。当初谩留华表语，而今误我秦楼约。梦阑时，酒醒后，思量着。',
  '那时我们有梦，关于文学，关于爱情，关于穿越世界的旅行。如今我们深夜饮酒，杯子碰到一起，都是梦破碎的声音。',
  'Sometimes I feel alone. Some days are long and hard. But when I look out into this world, I am struck by the impossible beauty of it all. Those billions of magnificent accidents that led us to where we are today, that led us to paper planes and nautilus shells and the tiny, crooked smiles of children. When I think about the small perfections of the world, I have faith that my time will come. I have faith that someday, a warm light will flood over me and I will find peace.',
- 'test quote'
+ '翩翩云中二只鹤，飞来飞去衙门上。'
  );
 dowritedicta(dictumin.length);
