@@ -1,9 +1,10 @@
 paginate: 1
 
 markdown: kramdown
-pygments: true
+highlighter: pygments
 
 permalink: pretty 
 exclude: ['Rakefile', 'Gemfile', 'Gemfile.lock', 'config.rb', 'run']
 
 production_url: http://YUXINGZHE.github.com
+gems: [jekyll-paginate]
