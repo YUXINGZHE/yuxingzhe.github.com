@@ -8,7 +8,7 @@ author_uri: http://twitter.com/yuxingzhe
 
 <pre><code>本文包含三篇有关学术研究之方法与洞见。<a href="#sec-1" style="border-bottom:1px dashed;">第一篇</a>是大科学家<a href="http://en.wikipedia.org/wiki/Richard_Hamming" style="border-bottom:1px dashed;">Richard Hamming</a>的著名演讲，于1986年在贝尔通讯研究中心给2000多名Bellcore的科学家们所做,<a href="http://www.rangang.com/?p=9" style="border-bottom:1px dashed;">此处</a>可参看You and Your Research的中文译文。<a href="#sec-2" style="border-bottom:1px dashed;">第二篇</a>为著名数学家弗里曼·戴森的演讲译文——鸟和青蛙。<a href="#sec-3" style="border-bottom:1px dashed;">第三篇</a>为庞加莱关于数学发现的心理学的演讲。</code></pre>
 
-<p style="text-align:center;font-size:30px;margin-top:40px;font-weight:bold;"><a name="sec-1"><a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html" style="border-bottom:1px dashed;">Your and Your research</a></a></p>
+<p style="text-align:center;font-size:30px;margin-top:40px;font-weight:bold;"><a name="sec-1"><a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html" style="border-bottom:1px dashed;">You and Your research</a></a></p>
 
 <p style="text-align:center;font-family:Simson;margin-top:20px;">Transcription of the<Br />Bell Communicatios Research Colloquium Seminar<Br />7 March 1986</p>
 
